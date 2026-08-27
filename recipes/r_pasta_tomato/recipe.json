@@ -1,0 +1,141 @@
+{
+  "recipeId": "r_pasta_tomato",
+  "name": "番茄義大利麵",
+  "category": "主菜",
+  "description": "簡單西式麵食。",
+  "cookingTime": 25,
+  "cookingMinutes": 25,
+  "prepMinutes": 10,
+  "cookMinutes": 15,
+  "servings": 2,
+  "difficulty": "普通",
+  "access": "FREE",
+  "accessLevel": "FREE",
+  "isPremium": false,
+  "version": 2,
+  "updatedAt": "2026-08-26T13:54:09.278122Z",
+  "heroUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_pasta_tomato/hero.png",
+  "recipeUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_pasta_tomato/",
+  "websiteUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_pasta_tomato/",
+  "thumbnailUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_pasta_tomato/hero.png",
+  "tags": {
+    "cuisine": [
+      "western",
+      "noodles"
+    ],
+    "goal": [
+      "balanced",
+      "family",
+      "kid_friendly"
+    ],
+    "allergen": [
+      "wheat"
+    ],
+    "disliked": []
+  },
+  "mealTypes": [
+    "dinner"
+  ],
+  "equipmentIds": [
+    "pot",
+    "pan"
+  ],
+  "locked": false,
+  "requiresVip": false,
+  "tips": "煮麵水要夠鹹，麵才入味；保留半杯麵水調醬汁更 emulsify。",
+  "ingredients": [
+    {
+      "ingredientId": "pasta",
+      "name": "義大利麵",
+      "quantity": 180.0,
+      "unit": "g",
+      "group": "主要食材",
+      "optional": false,
+      "foodReferenceId": "nut_pasta",
+      "sortOrder": 0
+    },
+    {
+      "ingredientId": "tomato",
+      "name": "番茄",
+      "quantity": 3.0,
+      "unit": "顆",
+      "group": "主要食材",
+      "optional": false,
+      "foodReferenceId": "nut_tomato",
+      "sortOrder": 1
+    },
+    {
+      "ingredientId": "garlic",
+      "name": "大蒜",
+      "quantity": 2.0,
+      "unit": "瓣",
+      "group": "調味料",
+      "optional": true,
+      "foodReferenceId": "nut_garlic",
+      "sortOrder": 2
+    },
+    {
+      "ingredientId": "olive_oil",
+      "name": "橄欖油",
+      "quantity": 1.0,
+      "unit": "大匙",
+      "group": "調味料",
+      "optional": false,
+      "foodReferenceId": "nut_olive_oil",
+      "sortOrder": 3
+    },
+    {
+      "ingredientId": "salt",
+      "name": "食鹽",
+      "quantity": 0.5,
+      "unit": "茶匙",
+      "group": "調味料",
+      "optional": false,
+      "foodReferenceId": "nut_salt",
+      "sortOrder": 4
+    }
+  ],
+  "nutrition": null,
+  "imageUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_pasta_tomato/recipe.png",
+  "imageOriginalUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_pasta_tomato/recipe.png",
+  "steps": [
+    {
+      "step": 1,
+      "text": "大鍋水加鹽煮滾，下義大利麵依包裝時間煮 8～10 分鐘。",
+      "title": "煮麵",
+      "minutes": 10,
+      "heatLevel": "大火",
+      "tool": "pot"
+    },
+    {
+      "step": 2,
+      "text": "番茄切丁；蒜切片。",
+      "title": "備料",
+      "minutes": 3
+    },
+    {
+      "step": 3,
+      "text": "平底鍋中火熱橄欖油，爆香蒜片 30 秒。",
+      "title": "爆香",
+      "heatLevel": "中火",
+      "tool": "pan"
+    },
+    {
+      "step": 4,
+      "text": "下番茄，中小火炒 8 分鐘至軟爛成醬。",
+      "title": "炒醬",
+      "minutes": 8,
+      "heatLevel": "中小火",
+      "tool": "pan"
+    },
+    {
+      "step": 5,
+      "text": "瀝乾麵條（留半杯麵水），與醬汁拌炒 1 分鐘，必要時加麵水調濃稠。",
+      "title": "拌麵",
+      "minutes": 1,
+      "heatLevel": "中火",
+      "tool": "pan"
+    }
+  ],
+  "published": true
+}

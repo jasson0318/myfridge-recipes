@@ -1,0 +1,32 @@
+{
+  "recipeId": "r_oven_potato",
+  "version": 2,
+  "steps": [
+    {
+      "step": 1,
+      "text": "馬鈴薯洗淨切 3 公分塊，瀝乾。",
+      "title": "切塊",
+      "minutes": 5
+    },
+    {
+      "step": 2,
+      "text": "與橄欖油、鹽拌勻，平鋪烤盤。",
+      "title": "調味",
+      "minutes": 2
+    },
+    {
+      "step": 3,
+      "text": "烤箱 200°C 預熱，烤 15 分鐘。",
+      "title": "第一面烤",
+      "minutes": 15,
+      "tool": "oven"
+    },
+    {
+      "step": 4,
+      "text": "翻面再烤 15～18 分鐘至外脆內軟。",
+      "title": "翻面續烤",
+      "minutes": 16,
+      "tool": "oven"
+    }
+  ]
+}

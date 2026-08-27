@@ -1,0 +1,31 @@
+{
+  "recipeId": "r_steamed_fish",
+  "version": 2,
+  "steps": [
+    {
+      "step": 1,
+      "text": "鱸魚清理洗淨，兩面劃刀；薑切絲、蔥切蔥絲。",
+      "title": "備料",
+      "minutes": 6
+    },
+    {
+      "step": 2,
+      "text": "魚身抹少許鹽，盤底鋪部分薑絲，放上魚再鋪薑絲。",
+      "title": "擺盤",
+      "minutes": 2
+    },
+    {
+      "step": 3,
+      "text": "電鍋外鍋 1 杯水，內鍋蒸 12～15 分鐘至魚眼凸出。",
+      "title": "蒸魚",
+      "minutes": 15,
+      "tool": "rice_cooker"
+    },
+    {
+      "step": 4,
+      "text": "取出倒掉蒸汁，鋪蔥絲，淋熱油與醬油。",
+      "title": "調味",
+      "minutes": 2
+    }
+  ]
+}

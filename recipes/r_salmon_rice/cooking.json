@@ -1,0 +1,48 @@
+{
+  "recipeId": "r_salmon_rice",
+  "version": 2,
+  "steps": [
+    {
+      "step": 1,
+      "text": "鮭魚排洗淨擦乾，兩面撒少許鹽；蔥切細花；白飯盛入碗中備用。",
+      "title": "備料",
+      "minutes": 4
+    },
+    {
+      "step": 2,
+      "text": "電鍋或微波將白飯加熱至溫熱（約 700W 微波 90 秒）。",
+      "title": "加熱白飯",
+      "minutes": 2,
+      "heatLevel": "700W",
+      "tool": "rice_cooker"
+    },
+    {
+      "step": 3,
+      "text": "平底鍋或不沾鍋以中小火熱油，鮭魚皮面朝下放入，不要立刻翻動。",
+      "title": "煎魚皮面",
+      "minutes": 4,
+      "heatLevel": "中小火",
+      "tool": "pan"
+    },
+    {
+      "step": 4,
+      "text": "皮面煎 3～4 分鐘至金黃後翻面，再煎 2～3 分鐘至中心仍略帶粉橘。",
+      "title": "煎魚肉面",
+      "minutes": 5,
+      "heatLevel": "中小火",
+      "tool": "pan"
+    },
+    {
+      "step": 5,
+      "text": "關火後在魚上淋少許醬油（可選），靜置 1 分鐘讓餘溫熟透。",
+      "title": "靜置調味",
+      "minutes": 1
+    },
+    {
+      "step": 6,
+      "text": "將鮭魚放在白飯上，撒蔥花，可配小黃瓜或海苔。",
+      "title": "組裝完成",
+      "minutes": 1
+    }
+  ]
+}

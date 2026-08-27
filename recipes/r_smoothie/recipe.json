@@ -1,0 +1,120 @@
+{
+  "recipeId": "r_smoothie",
+  "name": "蔬果調理飲",
+  "category": "早餐",
+  "description": "早餐或運動後補充。",
+  "cookingTime": 8,
+  "cookingMinutes": 8,
+  "prepMinutes": 5,
+  "cookMinutes": 3,
+  "servings": 1,
+  "difficulty": "簡單",
+  "access": "FREE",
+  "accessLevel": "FREE",
+  "isPremium": false,
+  "version": 2,
+  "updatedAt": "2026-08-26T13:54:11.568257Z",
+  "heroUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_smoothie/hero.png",
+  "recipeUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_smoothie/",
+  "websiteUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_smoothie/",
+  "thumbnailUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_smoothie/hero.png",
+  "tags": {
+    "cuisine": [
+      "quick",
+      "salad"
+    ],
+    "goal": [
+      "fitness",
+      "more_veg",
+      "balanced"
+    ],
+    "allergen": [
+      "dairy"
+    ],
+    "disliked": [
+      "milk"
+    ]
+  },
+  "mealTypes": [
+    "breakfast"
+  ],
+  "equipmentIds": [
+    "blender"
+  ],
+  "locked": false,
+  "requiresVip": false,
+  "tips": "香蕉凍過口感更綿密；菠菜用嫩葉較無澀味。",
+  "ingredients": [
+    {
+      "ingredientId": "banana",
+      "name": "香蕉",
+      "quantity": 1.0,
+      "unit": "根",
+      "group": "主要食材",
+      "optional": false,
+      "foodReferenceId": "nut_banana",
+      "sortOrder": 0
+    },
+    {
+      "ingredientId": "spinach",
+      "name": "菠菜",
+      "quantity": 40.0,
+      "unit": "g",
+      "group": "蔬菜",
+      "optional": false,
+      "foodReferenceId": "nut_spinach",
+      "sortOrder": 1
+    },
+    {
+      "ingredientId": "yogurt",
+      "name": "優格",
+      "quantity": 100.0,
+      "unit": "g",
+      "group": "主要食材",
+      "optional": false,
+      "foodReferenceId": "nut_yogurt",
+      "sortOrder": 2
+    },
+    {
+      "ingredientId": "water",
+      "name": "水",
+      "quantity": 120.0,
+      "unit": "ml",
+      "group": "配菜",
+      "optional": false,
+      "foodReferenceId": "nut_water",
+      "sortOrder": 3
+    }
+  ],
+  "nutrition": null,
+  "imageUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_smoothie/recipe.png",
+  "imageOriginalUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_smoothie/recipe.png",
+  "steps": [
+    {
+      "step": 1,
+      "text": "香蕉剝皮切段；菠菜洗淨瀝乾。",
+      "title": "備料",
+      "minutes": 2
+    },
+    {
+      "step": 2,
+      "text": "調理杯依序放入香蕉、菠菜、優格與水。",
+      "title": "入杯",
+      "minutes": 1,
+      "tool": "blender"
+    },
+    {
+      "step": 3,
+      "text": "高速攪打 45～60 秒至順滑。",
+      "title": "攪打",
+      "minutes": 1,
+      "tool": "blender"
+    },
+    {
+      "step": 4,
+      "text": "立即倒入杯中飲用。",
+      "title": "完成"
+    }
+  ],
+  "published": true
+}

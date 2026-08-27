@@ -1,0 +1,39 @@
+{
+  "recipeId": "r_egg_drop_soup",
+  "version": 2,
+  "steps": [
+    {
+      "step": 1,
+      "text": "雞蛋打散；蔥切細花。",
+      "title": "備料",
+      "minutes": 1
+    },
+    {
+      "step": 2,
+      "text": "湯鍋加 600 ml 水，大火煮滾。",
+      "title": "煮水",
+      "minutes": 3,
+      "heatLevel": "大火",
+      "tool": "pot"
+    },
+    {
+      "step": 3,
+      "text": "加鹽調味，轉中小火。",
+      "title": "調味",
+      "heatLevel": "中小火",
+      "tool": "pot"
+    },
+    {
+      "step": 4,
+      "text": "蛋液以細流繞圈淋入，靜置 5 秒再輕推成蛋花。",
+      "title": "淋蛋",
+      "heatLevel": "中小火",
+      "tool": "pot"
+    },
+    {
+      "step": 5,
+      "text": "撒蔥花，立即起鍋。",
+      "title": "完成"
+    }
+  ]
+}

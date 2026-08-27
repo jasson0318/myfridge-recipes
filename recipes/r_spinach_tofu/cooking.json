@@ -1,0 +1,41 @@
+{
+  "recipeId": "r_spinach_tofu",
+  "version": 2,
+  "steps": [
+    {
+      "step": 1,
+      "text": "菠菜洗淨切段；豆腐切塊；蒜切片。",
+      "title": "備料",
+      "minutes": 4
+    },
+    {
+      "step": 2,
+      "text": "湯鍋加 700 ml 水，大火煮滾。",
+      "title": "煮湯",
+      "minutes": 4,
+      "heatLevel": "大火",
+      "tool": "pot"
+    },
+    {
+      "step": 3,
+      "text": "下豆腐與蒜片，中小火煮 5 分鐘。",
+      "title": "煮豆腐",
+      "minutes": 5,
+      "heatLevel": "中小火",
+      "tool": "pot"
+    },
+    {
+      "step": 4,
+      "text": "加入菠菜煮 1～2 分鐘至剛軟。",
+      "title": "下菠菜",
+      "minutes": 2,
+      "heatLevel": "中小火",
+      "tool": "pot"
+    },
+    {
+      "step": 5,
+      "text": "加鹽調味即可。",
+      "title": "完成"
+    }
+  ]
+}

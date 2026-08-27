@@ -1,0 +1,41 @@
+{
+  "recipeId": "r_napa_soup",
+  "version": 2,
+  "steps": [
+    {
+      "step": 1,
+      "text": "大白菜切段，梗葉分開；胡蘿蔔切片；豆腐切塊。",
+      "title": "備料",
+      "minutes": 6
+    },
+    {
+      "step": 2,
+      "text": "湯鍋加 1 L 水，大火煮滾。",
+      "title": "煮湯",
+      "minutes": 5,
+      "heatLevel": "大火",
+      "tool": "pot"
+    },
+    {
+      "step": 3,
+      "text": "先下白菜梗與胡蘿蔔，煮 5 分鐘。",
+      "title": "煮梗",
+      "minutes": 5,
+      "heatLevel": "中火",
+      "tool": "pot"
+    },
+    {
+      "step": 4,
+      "text": "加白菜葉與豆腐，煮 5 分鐘。",
+      "title": "煮葉",
+      "minutes": 5,
+      "heatLevel": "中火",
+      "tool": "pot"
+    },
+    {
+      "step": 5,
+      "text": "加鹽調味即可。",
+      "title": "完成"
+    }
+  ]
+}

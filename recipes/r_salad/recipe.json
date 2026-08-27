@@ -1,0 +1,133 @@
+{
+  "recipeId": "r_salad",
+  "name": "鮮蔬雞胸沙拉",
+  "category": "開胃菜",
+  "description": "低醣高蛋白輕食。",
+  "cookingTime": 15,
+  "cookingMinutes": 15,
+  "prepMinutes": 10,
+  "cookMinutes": 5,
+  "servings": 1,
+  "difficulty": "簡單",
+  "access": "FREE",
+  "accessLevel": "FREE",
+  "isPremium": false,
+  "version": 2,
+  "updatedAt": "2026-08-26T13:54:10.888886Z",
+  "heroUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_salad/hero.png",
+  "recipeUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_salad/",
+  "websiteUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_salad/",
+  "thumbnailUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_salad/hero.png",
+  "tags": {
+    "cuisine": [
+      "salad",
+      "western",
+      "high_protein_dish",
+      "quick"
+    ],
+    "goal": [
+      "high_protein",
+      "low_carb",
+      "more_veg",
+      "fitness",
+      "calorie_control"
+    ],
+    "allergen": [],
+    "disliked": [
+      "chicken"
+    ]
+  },
+  "mealTypes": [
+    "lunch"
+  ],
+  "equipmentIds": [
+    "pan"
+  ],
+  "locked": false,
+  "requiresVip": false,
+  "tips": "雞胸不要過度煎煮，中心仍嫩才好吃；生菜瀝乾水分醬汁才好附著。",
+  "ingredients": [
+    {
+      "ingredientId": "chicken_breast",
+      "name": "雞胸肉",
+      "quantity": 120.0,
+      "unit": "g",
+      "group": "主要食材",
+      "optional": false,
+      "foodReferenceId": "nut_chicken_breast",
+      "sortOrder": 0
+    },
+    {
+      "ingredientId": "lettuce",
+      "name": "生菜",
+      "quantity": 80.0,
+      "unit": "g",
+      "group": "蔬菜",
+      "optional": false,
+      "foodReferenceId": "nut_lettuce",
+      "sortOrder": 1
+    },
+    {
+      "ingredientId": "cucumber",
+      "name": "小黃瓜",
+      "quantity": 1.0,
+      "unit": "根",
+      "group": "蔬菜",
+      "optional": false,
+      "foodReferenceId": "nut_cucumber",
+      "sortOrder": 2
+    },
+    {
+      "ingredientId": "olive_oil",
+      "name": "橄欖油",
+      "quantity": 1.0,
+      "unit": "大匙",
+      "group": "醬汁",
+      "optional": true,
+      "foodReferenceId": "nut_olive_oil",
+      "sortOrder": 3
+    },
+    {
+      "ingredientId": "salt",
+      "name": "食鹽",
+      "quantity": 0.2,
+      "unit": "茶匙",
+      "group": "調味料",
+      "optional": false,
+      "foodReferenceId": "nut_salt",
+      "sortOrder": 4
+    }
+  ],
+  "nutrition": null,
+  "imageUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_salad/recipe.png",
+  "imageOriginalUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_salad/recipe.png",
+  "steps": [
+    {
+      "step": 1,
+      "text": "雞胸撒鹽；生菜撕片、小黃瓜切片，瀝乾水分。",
+      "title": "備料",
+      "minutes": 5
+    },
+    {
+      "step": 2,
+      "text": "平底鍋中火少油，雞胸每面煎 2～3 分鐘至熟透。",
+      "title": "煎雞胸",
+      "minutes": 5,
+      "heatLevel": "中火",
+      "tool": "pan"
+    },
+    {
+      "step": 3,
+      "text": "雞胸靜置 2 分鐘後切薄片。",
+      "title": "切片",
+      "minutes": 2
+    },
+    {
+      "step": 4,
+      "text": "生菜與小黃瓜擺盤，放上雞胸，淋橄欖油與少許鹽。",
+      "title": "組裝",
+      "minutes": 2
+    }
+  ],
+  "published": true
+}

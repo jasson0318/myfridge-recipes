@@ -1,0 +1,42 @@
+{
+  "recipeId": "r_beef_noodles",
+  "version": 2,
+  "steps": [
+    {
+      "step": 1,
+      "text": "牛肉切大塊，冷水下鍋汆燙至無血水，沖洗備用。",
+      "title": "處理牛肉",
+      "minutes": 10
+    },
+    {
+      "step": 2,
+      "text": "湯鍋加 1.2 L 水、薑片、蔥白，放入牛肉大火煮滾。",
+      "title": "起湯",
+      "minutes": 5,
+      "heatLevel": "大火",
+      "tool": "pot"
+    },
+    {
+      "step": 3,
+      "text": "轉中小火燉 40 分鐘，或壓力鍋 25 分鐘至軟。",
+      "title": "燉煮",
+      "minutes": 40,
+      "heatLevel": "中小火",
+      "tool": "pressure_cooker"
+    },
+    {
+      "step": 4,
+      "text": "另鍋煮麵 3～4 分鐘至 al dente，瀝乾。",
+      "title": "煮麵",
+      "minutes": 4,
+      "heatLevel": "大火",
+      "tool": "pot"
+    },
+    {
+      "step": 5,
+      "text": "碗裡放麵、盛牛肉與清湯，撒蔥花，淋少許醬油。",
+      "title": "組裝",
+      "minutes": 2
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "recipeId": "r_quinoa_bowl",
+  "version": 2,
+  "steps": [
+    {
+      "step": 1,
+      "text": "藜麥沖洗後加 160 ml 水，電鍋或小鍋煮 15 分鐘。",
+      "title": "煮藜麥",
+      "minutes": 15,
+      "tool": "rice_cooker"
+    },
+    {
+      "step": 2,
+      "text": "生菜洗淨瀝乾；酪梨切片。",
+      "title": "備菜",
+      "minutes": 3
+    },
+    {
+      "step": 3,
+      "text": "碗底鋪生菜，盛入藜麥。",
+      "title": "擺盤",
+      "minutes": 1
+    },
+    {
+      "step": 4,
+      "text": "放上酪梨，淋橄欖油與少許鹽、胡椒。",
+      "title": "完成",
+      "minutes": 1
+    }
+  ]
+}

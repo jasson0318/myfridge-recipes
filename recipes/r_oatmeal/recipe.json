@@ -1,0 +1,114 @@
+{
+  "recipeId": "r_oatmeal",
+  "name": "燕麥牛奶粥",
+  "category": "早餐",
+  "description": "高纖早餐。",
+  "cookingTime": 10,
+  "cookingMinutes": 10,
+  "prepMinutes": 2,
+  "cookMinutes": 8,
+  "servings": 1,
+  "difficulty": "簡單",
+  "access": "FREE",
+  "accessLevel": "FREE",
+  "isPremium": false,
+  "version": 2,
+  "updatedAt": "2026-08-26T13:54:08.576646Z",
+  "heroUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_oatmeal/hero.png",
+  "recipeUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_oatmeal/",
+  "websiteUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_oatmeal/",
+  "thumbnailUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_oatmeal/hero.png",
+  "tags": {
+    "cuisine": [
+      "western",
+      "quick"
+    ],
+    "goal": [
+      "high_fiber",
+      "balanced",
+      "fitness",
+      "calorie_control"
+    ],
+    "allergen": [
+      "dairy"
+    ],
+    "disliked": [
+      "milk"
+    ]
+  },
+  "mealTypes": [
+    "breakfast"
+  ],
+  "equipmentIds": [
+    "pot",
+    "microwave"
+  ],
+  "locked": false,
+  "requiresVip": false,
+  "tips": "小火慢煮口感更綿密；微波版可中高火 2 分鐘停 30 秒再續煮防溢。",
+  "ingredients": [
+    {
+      "ingredientId": "oat",
+      "name": "燕麥",
+      "quantity": 40.0,
+      "unit": "g",
+      "group": "主要食材",
+      "optional": false,
+      "foodReferenceId": "nut_oat",
+      "sortOrder": 0
+    },
+    {
+      "ingredientId": "milk",
+      "name": "全脂牛奶",
+      "quantity": 200.0,
+      "unit": "ml",
+      "group": "主要食材",
+      "optional": false,
+      "foodReferenceId": "nut_milk",
+      "sortOrder": 1
+    },
+    {
+      "ingredientId": "banana",
+      "name": "香蕉",
+      "quantity": 0.5,
+      "unit": "根",
+      "group": "配菜",
+      "optional": true,
+      "foodReferenceId": "nut_banana",
+      "sortOrder": 2
+    }
+  ],
+  "nutrition": null,
+  "imageUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_oatmeal/recipe.png",
+  "imageOriginalUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_oatmeal/recipe.png",
+  "steps": [
+    {
+      "step": 1,
+      "text": "小鍋倒入牛奶與燕麥，攪拌均勻。",
+      "title": "混合"
+    },
+    {
+      "step": 2,
+      "text": "中小火加熱，邊煮邊攪，約 5 分鐘至燕麥軟化。",
+      "title": "煮燕麥",
+      "minutes": 5,
+      "heatLevel": "中小火",
+      "tool": "pot"
+    },
+    {
+      "step": 3,
+      "text": "或改用微波：700W 加熱 2 分鐘，取出攪拌再加熱 1 分鐘。",
+      "title": "微波版",
+      "minutes": 3,
+      "heatLevel": "700W",
+      "tool": "microwave"
+    },
+    {
+      "step": 4,
+      "text": "盛碗，可切香蕉片鋪上。",
+      "title": "完成",
+      "minutes": 1
+    }
+  ],
+  "published": true
+}

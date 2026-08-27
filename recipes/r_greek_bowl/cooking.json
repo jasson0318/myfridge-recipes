@@ -1,0 +1,28 @@
+{
+  "recipeId": "r_greek_bowl",
+  "version": 2,
+  "steps": [
+    {
+      "step": 1,
+      "text": "蘋果洗淨切小丁或薄片。",
+      "title": "切水果",
+      "minutes": 2
+    },
+    {
+      "step": 2,
+      "text": "碗裡盛入希臘優格，抹平。",
+      "title": "盛優格"
+    },
+    {
+      "step": 3,
+      "text": "依序鋪上蘋果與杏仁。",
+      "title": "擺盤",
+      "minutes": 1
+    },
+    {
+      "step": 4,
+      "text": "可撒肉桂粉或 drizzle 一茶匙蜂蜜（可選）。",
+      "title": "完成"
+    }
+  ]
+}

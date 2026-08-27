@@ -1,0 +1,31 @@
+{
+  "recipeId": "r_smoothie",
+  "version": 2,
+  "steps": [
+    {
+      "step": 1,
+      "text": "香蕉剝皮切段；菠菜洗淨瀝乾。",
+      "title": "備料",
+      "minutes": 2
+    },
+    {
+      "step": 2,
+      "text": "調理杯依序放入香蕉、菠菜、優格與水。",
+      "title": "入杯",
+      "minutes": 1,
+      "tool": "blender"
+    },
+    {
+      "step": 3,
+      "text": "高速攪打 45～60 秒至順滑。",
+      "title": "攪打",
+      "minutes": 1,
+      "tool": "blender"
+    },
+    {
+      "step": 4,
+      "text": "立即倒入杯中飲用。",
+      "title": "完成"
+    }
+  ]
+}

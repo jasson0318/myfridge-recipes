@@ -1,0 +1,119 @@
+{
+  "recipeId": "r_airfry_chicken",
+  "name": "氣炸高蛋白雞胸",
+  "category": "主菜",
+  "description": "少油高蛋白，運動日首選。",
+  "cookingTime": 20,
+  "cookingMinutes": 20,
+  "prepMinutes": 5,
+  "cookMinutes": 15,
+  "servings": 1,
+  "difficulty": "簡單",
+  "access": "FREE",
+  "accessLevel": "FREE",
+  "isPremium": false,
+  "version": 3,
+  "updatedAt": "2026-08-26T13:54:02.162570Z",
+  "heroUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_airfry_chicken/hero.png",
+  "recipeUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_airfry_chicken/",
+  "websiteUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_airfry_chicken/",
+  "thumbnailUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_airfry_chicken/hero.png",
+  "tags": {
+    "cuisine": [
+      "air_fryer",
+      "high_protein_dish",
+      "quick"
+    ],
+    "goal": [
+      "high_protein",
+      "low_carb",
+      "fitness",
+      "calorie_control",
+      "low_oil"
+    ],
+    "allergen": [],
+    "disliked": [
+      "chicken"
+    ]
+  },
+  "mealTypes": [
+    "dinner"
+  ],
+  "equipmentIds": [
+    "air_fryer"
+  ],
+  "locked": false,
+  "requiresVip": false,
+  "tips": "氣炸前雞胸拍薄一點更均勻；靜置 2 分鐘再切，肉汁不易流失。",
+  "ingredients": [
+    {
+      "ingredientId": "chicken_breast",
+      "name": "雞胸肉",
+      "quantity": 200.0,
+      "unit": "g",
+      "group": "主要食材",
+      "optional": false,
+      "foodReferenceId": "nut_chicken_breast",
+      "sortOrder": 0
+    },
+    {
+      "ingredientId": "oil",
+      "name": "沙拉油",
+      "quantity": 0.5,
+      "unit": "大匙",
+      "group": "調味料",
+      "optional": true,
+      "foodReferenceId": "nut_oil",
+      "sortOrder": 1
+    },
+    {
+      "ingredientId": "salt",
+      "name": "食鹽",
+      "quantity": 0.3,
+      "unit": "茶匙",
+      "group": "調味料",
+      "optional": false,
+      "foodReferenceId": "nut_salt",
+      "sortOrder": 2
+    }
+  ],
+  "nutrition": null,
+  "imageUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_airfry_chicken/recipe.png",
+  "imageOriginalUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_airfry_chicken/recipe.png",
+  "steps": [
+    {
+      "step": 1,
+      "text": "雞胸肉洗淨擦乾，若過厚可從側面片薄；兩面抹鹽與少許油。",
+      "title": "醃製",
+      "minutes": 3
+    },
+    {
+      "step": 2,
+      "text": "氣炸鍋預熱 180°C 約 3 分鐘。",
+      "title": "預熱",
+      "minutes": 3,
+      "tool": "air_fryer"
+    },
+    {
+      "step": 3,
+      "text": "雞胸放入炸籃，180°C 氣炸 8 分鐘。",
+      "title": "第一面氣炸",
+      "minutes": 8,
+      "tool": "air_fryer"
+    },
+    {
+      "step": 4,
+      "text": "翻面後再氣炸 6～7 分鐘，至中心溫度達 74°C 或無血水。",
+      "title": "翻面續炸",
+      "minutes": 7,
+      "tool": "air_fryer"
+    },
+    {
+      "step": 5,
+      "text": "取出靜置 2 分鐘，斜切薄片即可。",
+      "title": "靜置切片",
+      "minutes": 2
+    }
+  ],
+  "published": true
+}

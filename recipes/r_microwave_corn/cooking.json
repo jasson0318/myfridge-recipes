@@ -1,0 +1,28 @@
+{
+  "recipeId": "r_microwave_corn",
+  "version": 2,
+  "steps": [
+    {
+      "step": 1,
+      "text": "玉米洗淨，可留部分外皮並稍微沾濕。",
+      "title": "備料",
+      "minutes": 1
+    },
+    {
+      "step": 2,
+      "text": "放入耐熱盤，700W 微波 3 分鐘。",
+      "title": "微波",
+      "minutes": 3,
+      "heatLevel": "700W",
+      "tool": "microwave"
+    },
+    {
+      "step": 3,
+      "text": "翻面再微波 2 分鐘，剝皮趁熱吃。",
+      "title": "續微波",
+      "minutes": 2,
+      "heatLevel": "700W",
+      "tool": "microwave"
+    }
+  ]
+}

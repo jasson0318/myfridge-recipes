@@ -1,0 +1,125 @@
+{
+  "recipeId": "r_chickpea_salad",
+  "name": "鷹嘴豆沙拉",
+  "category": "開胃菜",
+  "description": "植物蛋白輕食。",
+  "cookingTime": 12,
+  "cookingMinutes": 12,
+  "prepMinutes": 10,
+  "cookMinutes": 2,
+  "servings": 2,
+  "difficulty": "簡單",
+  "access": "FREE",
+  "accessLevel": "FREE",
+  "isPremium": false,
+  "version": 2,
+  "updatedAt": "2026-08-26T13:54:05.156319Z",
+  "heroUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_chickpea_salad/hero.png",
+  "recipeUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_chickpea_salad/",
+  "websiteUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_chickpea_salad/",
+  "thumbnailUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_chickpea_salad/hero.png",
+  "tags": {
+    "cuisine": [
+      "salad",
+      "western",
+      "high_protein_dish",
+      "quick"
+    ],
+    "goal": [
+      "high_protein",
+      "high_fiber",
+      "more_veg",
+      "fitness"
+    ],
+    "allergen": [],
+    "disliked": []
+  },
+  "mealTypes": [
+    "lunch"
+  ],
+  "equipmentIds": [],
+  "locked": false,
+  "requiresVip": false,
+  "tips": "罐頭鷹嘴豆沖水可減鈉；可加檸檬汁或孜然粉變化風味。",
+  "ingredients": [
+    {
+      "ingredientId": "chickpea",
+      "name": "鷹嘴豆",
+      "quantity": 150.0,
+      "unit": "g",
+      "group": "主要食材",
+      "optional": false,
+      "foodReferenceId": "nut_chickpea",
+      "sortOrder": 0
+    },
+    {
+      "ingredientId": "lettuce",
+      "name": "生菜",
+      "quantity": 80.0,
+      "unit": "g",
+      "group": "蔬菜",
+      "optional": false,
+      "foodReferenceId": "nut_lettuce",
+      "sortOrder": 1
+    },
+    {
+      "ingredientId": "cucumber",
+      "name": "小黃瓜",
+      "quantity": 1.0,
+      "unit": "根",
+      "group": "蔬菜",
+      "optional": false,
+      "foodReferenceId": "nut_cucumber",
+      "sortOrder": 2
+    },
+    {
+      "ingredientId": "olive_oil",
+      "name": "橄欖油",
+      "quantity": 1.0,
+      "unit": "大匙",
+      "group": "醬汁",
+      "optional": true,
+      "foodReferenceId": "nut_olive_oil",
+      "sortOrder": 3
+    },
+    {
+      "ingredientId": "salt",
+      "name": "食鹽",
+      "quantity": 0.2,
+      "unit": "茶匙",
+      "group": "調味料",
+      "optional": false,
+      "foodReferenceId": "nut_salt",
+      "sortOrder": 4
+    }
+  ],
+  "nutrition": null,
+  "imageUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_chickpea_salad/recipe.png",
+  "imageOriginalUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_chickpea_salad/recipe.png",
+  "steps": [
+    {
+      "step": 1,
+      "text": "鷹嘴豆瀝乾沖水；生菜撕片；小黃瓜切片。",
+      "title": "備料",
+      "minutes": 5
+    },
+    {
+      "step": 2,
+      "text": "大碗中混合所有食材。",
+      "title": "混合",
+      "minutes": 1
+    },
+    {
+      "step": 3,
+      "text": "淋橄欖油、撒鹽與黑胡椒拌勻。",
+      "title": "調味",
+      "minutes": 1
+    },
+    {
+      "step": 4,
+      "text": "分兩碗即可享用。",
+      "title": "完成"
+    }
+  ],
+  "published": true
+}

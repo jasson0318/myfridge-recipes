@@ -1,0 +1,130 @@
+{
+  "recipeId": "r_napa_soup",
+  "name": "大白菜湯",
+  "category": "湯品",
+  "description": "清淡高纖湯品。",
+  "cookingTime": 25,
+  "cookingMinutes": 25,
+  "prepMinutes": 10,
+  "cookMinutes": 15,
+  "servings": 4,
+  "difficulty": "簡單",
+  "access": "FREE",
+  "accessLevel": "FREE",
+  "isPremium": false,
+  "version": 2,
+  "updatedAt": "2026-08-26T13:54:08.343890Z",
+  "heroUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_napa_soup/hero.png",
+  "recipeUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_napa_soup/",
+  "websiteUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_napa_soup/",
+  "thumbnailUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_napa_soup/hero.png",
+  "tags": {
+    "cuisine": [
+      "chinese",
+      "soup"
+    ],
+    "goal": [
+      "more_veg",
+      "high_fiber",
+      "low_oil",
+      "calorie_control",
+      "family"
+    ],
+    "allergen": [
+      "soy"
+    ],
+    "disliked": []
+  },
+  "mealTypes": [
+    "dinner"
+  ],
+  "equipmentIds": [
+    "pot"
+  ],
+  "locked": false,
+  "requiresVip": false,
+  "tips": "白菜梗與葉分開下，梗先煮軟葉後下；豆腐可選加增加蛋白。",
+  "ingredients": [
+    {
+      "ingredientId": "napa",
+      "name": "大白菜",
+      "quantity": 400.0,
+      "unit": "g",
+      "group": "蔬菜",
+      "optional": false,
+      "foodReferenceId": "nut_napa",
+      "sortOrder": 0
+    },
+    {
+      "ingredientId": "carrot",
+      "name": "胡蘿蔔",
+      "quantity": 80.0,
+      "unit": "g",
+      "group": "蔬菜",
+      "optional": true,
+      "foodReferenceId": "nut_carrot",
+      "sortOrder": 1
+    },
+    {
+      "ingredientId": "tofu",
+      "name": "豆腐",
+      "quantity": 0.5,
+      "unit": "盒",
+      "group": "主要食材",
+      "optional": true,
+      "foodReferenceId": "nut_tofu",
+      "sortOrder": 2
+    },
+    {
+      "ingredientId": "salt",
+      "name": "食鹽",
+      "quantity": 0.5,
+      "unit": "茶匙",
+      "group": "調味料",
+      "optional": false,
+      "foodReferenceId": "nut_salt",
+      "sortOrder": 3
+    }
+  ],
+  "nutrition": null,
+  "imageUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_napa_soup/recipe.png",
+  "imageOriginalUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_napa_soup/recipe.png",
+  "steps": [
+    {
+      "step": 1,
+      "text": "大白菜切段，梗葉分開；胡蘿蔔切片；豆腐切塊。",
+      "title": "備料",
+      "minutes": 6
+    },
+    {
+      "step": 2,
+      "text": "湯鍋加 1 L 水，大火煮滾。",
+      "title": "煮湯",
+      "minutes": 5,
+      "heatLevel": "大火",
+      "tool": "pot"
+    },
+    {
+      "step": 3,
+      "text": "先下白菜梗與胡蘿蔔，煮 5 分鐘。",
+      "title": "煮梗",
+      "minutes": 5,
+      "heatLevel": "中火",
+      "tool": "pot"
+    },
+    {
+      "step": 4,
+      "text": "加白菜葉與豆腐，煮 5 分鐘。",
+      "title": "煮葉",
+      "minutes": 5,
+      "heatLevel": "中火",
+      "tool": "pot"
+    },
+    {
+      "step": 5,
+      "text": "加鹽調味即可。",
+      "title": "完成"
+    }
+  ],
+  "published": true
+}

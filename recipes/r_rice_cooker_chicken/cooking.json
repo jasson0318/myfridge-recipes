@@ -1,0 +1,38 @@
+{
+  "recipeId": "r_rice_cooker_chicken",
+  "version": 2,
+  "steps": [
+    {
+      "step": 1,
+      "text": "雞腿切塊；香菇泡軟切片；薑切絲。",
+      "title": "備料",
+      "minutes": 7
+    },
+    {
+      "step": 2,
+      "text": "雞腿與醬油、薑拌勻醃 10 分鐘。",
+      "title": "醃製",
+      "minutes": 10
+    },
+    {
+      "step": 3,
+      "text": "內鍋铺香菇，放上雞腿與醃汁。",
+      "title": "擺入",
+      "minutes": 2,
+      "tool": "rice_cooker"
+    },
+    {
+      "step": 4,
+      "text": "外鍋 2 杯水，按下開關，跳起後燜 10 分鐘。",
+      "title": "電鍋煮",
+      "minutes": 30,
+      "tool": "rice_cooker"
+    },
+    {
+      "step": 5,
+      "text": "拌勻後連汁配飯。",
+      "title": "完成",
+      "minutes": 1
+    }
+  ]
+}

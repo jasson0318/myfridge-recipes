@@ -1,0 +1,36 @@
+{
+  "recipeId": "r_broccoli_chicken",
+  "version": 2,
+  "steps": [
+    {
+      "step": 1,
+      "text": "雞胸切丁；花椰菜切小朵；蒜切片。",
+      "title": "備料",
+      "minutes": 5
+    },
+    {
+      "step": 2,
+      "text": "炒鍋大火熱油，下雞丁炒至表面變白。",
+      "title": "炒雞",
+      "minutes": 3,
+      "heatLevel": "大火",
+      "tool": "wok"
+    },
+    {
+      "step": 3,
+      "text": "加蒜片與花椰菜，快炒 3 分鐘。",
+      "title": "合炒",
+      "minutes": 3,
+      "heatLevel": "大火",
+      "tool": "wok"
+    },
+    {
+      "step": 4,
+      "text": "淋醬油翻勻，試味後起鍋。",
+      "title": "調味完成",
+      "minutes": 1,
+      "heatLevel": "中火",
+      "tool": "wok"
+    }
+  ]
+}

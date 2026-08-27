@@ -1,0 +1,36 @@
+{
+  "recipeId": "r_pepper_beef",
+  "version": 2,
+  "steps": [
+    {
+      "step": 1,
+      "text": "牛肉切薄片；青椒去籽切條；洋蔥切絲。",
+      "title": "備料",
+      "minutes": 5
+    },
+    {
+      "step": 2,
+      "text": "炒鍋大火熱油，下牛肉快炒 1 分鐘至變色，盛起。",
+      "title": "炒牛肉",
+      "minutes": 1,
+      "heatLevel": "大火",
+      "tool": "wok"
+    },
+    {
+      "step": 3,
+      "text": "同鍋下洋蔥與青椒，快炒 2 分鐘。",
+      "title": "炒蔬菜",
+      "minutes": 2,
+      "heatLevel": "大火",
+      "tool": "wok"
+    },
+    {
+      "step": 4,
+      "text": "回鍋牛肉，加醬油大火翻勻 1 分鐘。",
+      "title": "合炒",
+      "minutes": 1,
+      "heatLevel": "大火",
+      "tool": "wok"
+    }
+  ]
+}

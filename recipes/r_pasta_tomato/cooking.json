@@ -1,0 +1,43 @@
+{
+  "recipeId": "r_pasta_tomato",
+  "version": 2,
+  "steps": [
+    {
+      "step": 1,
+      "text": "大鍋水加鹽煮滾，下義大利麵依包裝時間煮 8～10 分鐘。",
+      "title": "煮麵",
+      "minutes": 10,
+      "heatLevel": "大火",
+      "tool": "pot"
+    },
+    {
+      "step": 2,
+      "text": "番茄切丁；蒜切片。",
+      "title": "備料",
+      "minutes": 3
+    },
+    {
+      "step": 3,
+      "text": "平底鍋中火熱橄欖油，爆香蒜片 30 秒。",
+      "title": "爆香",
+      "heatLevel": "中火",
+      "tool": "pan"
+    },
+    {
+      "step": 4,
+      "text": "下番茄，中小火炒 8 分鐘至軟爛成醬。",
+      "title": "炒醬",
+      "minutes": 8,
+      "heatLevel": "中小火",
+      "tool": "pan"
+    },
+    {
+      "step": 5,
+      "text": "瀝乾麵條（留半杯麵水），與醬汁拌炒 1 分鐘，必要時加麵水調濃稠。",
+      "title": "拌麵",
+      "minutes": 1,
+      "heatLevel": "中火",
+      "tool": "pan"
+    }
+  ]
+}

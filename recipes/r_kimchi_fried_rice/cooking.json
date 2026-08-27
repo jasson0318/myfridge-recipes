@@ -1,0 +1,41 @@
+{
+  "recipeId": "r_kimchi_fried_rice",
+  "version": 2,
+  "steps": [
+    {
+      "step": 1,
+      "text": "泡菜切小段；白飯撥散；蛋打散（若使用）。",
+      "title": "備料",
+      "minutes": 3
+    },
+    {
+      "step": 2,
+      "text": "平底鍋中火熱油，下泡菜炒香 1 分鐘。",
+      "title": "炒泡菜",
+      "minutes": 1,
+      "heatLevel": "中火",
+      "tool": "pan"
+    },
+    {
+      "step": 3,
+      "text": "加入白飯，大火快炒 3 分鐘至粒粒分明。",
+      "title": "炒飯",
+      "minutes": 3,
+      "heatLevel": "大火",
+      "tool": "wok"
+    },
+    {
+      "step": 4,
+      "text": "推開飯，倒入蛋液炒散再拌勻（可選）。",
+      "title": "加蛋",
+      "minutes": 1,
+      "heatLevel": "大火",
+      "tool": "wok"
+    },
+    {
+      "step": 5,
+      "text": "試味後起鍋，可撒白芝麻。",
+      "title": "完成"
+    }
+  ]
+}

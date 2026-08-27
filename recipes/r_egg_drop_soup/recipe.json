@@ -1,0 +1,118 @@
+{
+  "recipeId": "r_egg_drop_soup",
+  "name": "蛋花湯",
+  "category": "湯品",
+  "description": "五分鐘暖胃宵夜。",
+  "cookingTime": 8,
+  "cookingMinutes": 8,
+  "prepMinutes": 3,
+  "cookMinutes": 5,
+  "servings": 2,
+  "difficulty": "簡單",
+  "access": "FREE",
+  "accessLevel": "FREE",
+  "isPremium": false,
+  "version": 2,
+  "updatedAt": "2026-08-26T13:54:05.841142Z",
+  "heroUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_egg_drop_soup/hero.png",
+  "recipeUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_egg_drop_soup/",
+  "websiteUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_egg_drop_soup/",
+  "thumbnailUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_egg_drop_soup/hero.png",
+  "tags": {
+    "cuisine": [
+      "chinese",
+      "soup",
+      "quick"
+    ],
+    "goal": [
+      "balanced",
+      "kid_friendly"
+    ],
+    "allergen": [
+      "egg"
+    ],
+    "disliked": [
+      "egg"
+    ]
+  },
+  "mealTypes": [
+    "late_night"
+  ],
+  "equipmentIds": [
+    "pot"
+  ],
+  "locked": false,
+  "requiresVip": false,
+  "tips": "淋蛋時關小火、繞圈倒入，蛋花更細緻；可加幾滴香油提香。",
+  "ingredients": [
+    {
+      "ingredientId": "egg",
+      "name": "雞蛋",
+      "quantity": 2.0,
+      "unit": "顆",
+      "group": "主要食材",
+      "optional": false,
+      "foodReferenceId": "nut_egg",
+      "sortOrder": 0
+    },
+    {
+      "ingredientId": "scallion",
+      "name": "青蔥",
+      "quantity": 1.0,
+      "unit": "根",
+      "group": "裝飾",
+      "optional": true,
+      "foodReferenceId": "nut_scallion",
+      "sortOrder": 1
+    },
+    {
+      "ingredientId": "salt",
+      "name": "食鹽",
+      "quantity": 0.3,
+      "unit": "茶匙",
+      "group": "調味料",
+      "optional": false,
+      "foodReferenceId": "nut_salt",
+      "sortOrder": 2
+    }
+  ],
+  "nutrition": null,
+  "imageUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_egg_drop_soup/recipe.png",
+  "imageOriginalUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_egg_drop_soup/recipe.png",
+  "steps": [
+    {
+      "step": 1,
+      "text": "雞蛋打散；蔥切細花。",
+      "title": "備料",
+      "minutes": 1
+    },
+    {
+      "step": 2,
+      "text": "湯鍋加 600 ml 水，大火煮滾。",
+      "title": "煮水",
+      "minutes": 3,
+      "heatLevel": "大火",
+      "tool": "pot"
+    },
+    {
+      "step": 3,
+      "text": "加鹽調味，轉中小火。",
+      "title": "調味",
+      "heatLevel": "中小火",
+      "tool": "pot"
+    },
+    {
+      "step": 4,
+      "text": "蛋液以細流繞圈淋入，靜置 5 秒再輕推成蛋花。",
+      "title": "淋蛋",
+      "heatLevel": "中小火",
+      "tool": "pot"
+    },
+    {
+      "step": 5,
+      "text": "撒蔥花，立即起鍋。",
+      "title": "完成"
+    }
+  ],
+  "published": true
+}

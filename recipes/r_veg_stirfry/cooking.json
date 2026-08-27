@@ -1,0 +1,40 @@
+{
+  "recipeId": "r_veg_stirfry",
+  "version": 2,
+  "steps": [
+    {
+      "step": 1,
+      "text": "高麗菜撕片、胡蘿蔔切薄片、花椰菜切小朵；蒜切片。",
+      "title": "備料",
+      "minutes": 5
+    },
+    {
+      "step": 2,
+      "text": "炒鍋大火熱油至微冒煙，下蒜片爆香 10 秒。",
+      "title": "爆香",
+      "heatLevel": "大火",
+      "tool": "wok"
+    },
+    {
+      "step": 3,
+      "text": "先下胡蘿蔔與花椰菜快炒 1 分鐘。",
+      "title": "炒硬質蔬菜",
+      "minutes": 1,
+      "heatLevel": "大火",
+      "tool": "wok"
+    },
+    {
+      "step": 4,
+      "text": "加入高麗菜，大火快炒 2 分鐘至仍帶脆口。",
+      "title": "快炒",
+      "minutes": 2,
+      "heatLevel": "大火",
+      "tool": "wok"
+    },
+    {
+      "step": 5,
+      "text": "加鹽調味，立即起鍋。",
+      "title": "調味完成"
+    }
+  ]
+}

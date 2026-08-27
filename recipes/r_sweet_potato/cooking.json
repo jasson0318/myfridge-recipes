@@ -1,0 +1,32 @@
+{
+  "recipeId": "r_sweet_potato",
+  "version": 2,
+  "steps": [
+    {
+      "step": 1,
+      "text": "地瓜洗淨，較大的可對切以縮短時間。",
+      "title": "備料",
+      "minutes": 2
+    },
+    {
+      "step": 2,
+      "text": "電鍋內鍋加 1/2 杯水，放入蒸架與地瓜。",
+      "title": "擺入",
+      "minutes": 1,
+      "tool": "rice_cooker"
+    },
+    {
+      "step": 3,
+      "text": "外鍋 1 杯水，按下開關，跳起後再燜 10 分鐘。",
+      "title": "蒸熟",
+      "minutes": 27,
+      "tool": "rice_cooker"
+    },
+    {
+      "step": 4,
+      "text": "取出剝皮或連皮食用。",
+      "title": "完成",
+      "minutes": 1
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "recipeId": "r_cabbage_pork_roll",
+  "version": 2,
+  "steps": [
+    {
+      "step": 1,
+      "text": "將高麗菜肉卷所需食材洗切備齊。",
+      "title": "備料",
+      "minutes": 8
+    },
+    {
+      "step": 2,
+      "text": "依序下鍋，注意火候與時間。",
+      "title": "開始料理",
+      "minutes": 6,
+      "heatLevel": "中火",
+      "tool": "pot"
+    },
+    {
+      "step": 3,
+      "text": "加入調味並確認熟透後起鍋。",
+      "title": "調味完成",
+      "minutes": 5,
+      "heatLevel": "中大火",
+      "tool": "pot"
+    },
+    {
+      "step": 4,
+      "text": "趁熱享用高麗菜肉卷。",
+      "title": "擺盤",
+      "minutes": 2,
+      "tool": "pot"
+    }
+  ]
+}

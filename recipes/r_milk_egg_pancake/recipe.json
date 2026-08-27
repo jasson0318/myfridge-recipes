@@ -1,0 +1,113 @@
+{
+  "recipeId": "r_milk_egg_pancake",
+  "name": "牛奶雞蛋鬆餅",
+  "category": "早餐",
+  "description": "鬆軟鬆餅，小孩也愛。",
+  "cookingTime": 20,
+  "cookingMinutes": 20,
+  "prepMinutes": 8,
+  "cookMinutes": 12,
+  "servings": 2,
+  "difficulty": "簡單",
+  "access": "FREE",
+  "accessLevel": "FREE",
+  "isPremium": false,
+  "version": 2,
+  "updatedAt": "2026-08-26T13:54:07.895680Z",
+  "heroUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_milk_egg_pancake/hero.png",
+  "recipeUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_milk_egg_pancake/",
+  "websiteUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_milk_egg_pancake/",
+  "thumbnailUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_milk_egg_pancake/hero.png",
+  "tags": {
+    "cuisine": [],
+    "goal": [],
+    "allergen": [],
+    "disliked": []
+  },
+  "mealTypes": [
+    "早餐"
+  ],
+  "equipmentIds": [
+    "pan"
+  ],
+  "locked": false,
+  "requiresVip": false,
+  "tips": "可依口味調整鹽與醬油量；起鍋前試味最準。",
+  "ingredients": [
+    {
+      "ingredientId": "egg",
+      "name": "雞蛋",
+      "quantity": 2.0,
+      "unit": "顆",
+      "group": "main",
+      "optional": false,
+      "foodReferenceId": "nut_egg",
+      "sortOrder": 0
+    },
+    {
+      "ingredientId": "milk",
+      "name": "全脂牛奶",
+      "quantity": 120.0,
+      "unit": "ml",
+      "group": "main",
+      "optional": false,
+      "foodReferenceId": "nut_milk",
+      "sortOrder": 1
+    },
+    {
+      "ingredientId": "oat",
+      "name": "燕麥",
+      "quantity": 50.0,
+      "unit": "g",
+      "group": "main",
+      "optional": false,
+      "foodReferenceId": "nut_oat",
+      "sortOrder": 2
+    },
+    {
+      "ingredientId": "sugar",
+      "name": "砂糖",
+      "quantity": 1.0,
+      "unit": "茶匙",
+      "group": "seasoning",
+      "optional": false,
+      "foodReferenceId": "nut_sugar",
+      "sortOrder": 3
+    }
+  ],
+  "nutrition": null,
+  "imageUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_milk_egg_pancake/recipe.png",
+  "imageOriginalUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_milk_egg_pancake/recipe.png",
+  "steps": [
+    {
+      "step": 1,
+      "text": "將牛奶雞蛋鬆餅所需食材洗切備齊。",
+      "title": "備料",
+      "minutes": 8
+    },
+    {
+      "step": 2,
+      "text": "依序下鍋，注意火候與時間。",
+      "title": "開始料理",
+      "minutes": 6,
+      "heatLevel": "中火",
+      "tool": "pan"
+    },
+    {
+      "step": 3,
+      "text": "加入調味並確認熟透後起鍋。",
+      "title": "調味完成",
+      "minutes": 5,
+      "heatLevel": "中大火",
+      "tool": "pan"
+    },
+    {
+      "step": 4,
+      "text": "趁熱享用牛奶雞蛋鬆餅。",
+      "title": "擺盤",
+      "minutes": 2,
+      "tool": "pan"
+    }
+  ],
+  "published": true
+}

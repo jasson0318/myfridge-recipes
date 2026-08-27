@@ -1,0 +1,42 @@
+{
+  "recipeId": "r_mapo_tofu",
+  "version": 3,
+  "steps": [
+    {
+      "step": 1,
+      "text": "豆腐切 2 公分立方；蒜切末、蔥切花；絞肉備好。",
+      "title": "備料",
+      "minutes": 5
+    },
+    {
+      "step": 2,
+      "text": "炒鍋中火熱油，下絞肉炒散至變色出油。",
+      "title": "炒肉",
+      "minutes": 3,
+      "heatLevel": "中火",
+      "tool": "wok"
+    },
+    {
+      "step": 3,
+      "text": "加蒜末與醬油炒香，倒入 150 ml 熱水。",
+      "title": "調味",
+      "minutes": 2,
+      "heatLevel": "中火",
+      "tool": "wok"
+    },
+    {
+      "step": 4,
+      "text": "輕放入豆腐，中小火煮 5 分鐘入味。",
+      "title": "燒豆腐",
+      "minutes": 5,
+      "heatLevel": "中小火",
+      "tool": "wok"
+    },
+    {
+      "step": 5,
+      "text": "試味後可薄芡（可選），撒蔥花起鍋。",
+      "title": "完成",
+      "minutes": 1
+    }
+  ]
+}

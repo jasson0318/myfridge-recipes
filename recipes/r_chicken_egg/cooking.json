@@ -1,0 +1,35 @@
+{
+  "recipeId": "r_chicken_egg",
+  "version": 2,
+  "steps": [
+    {
+      "step": 1,
+      "text": "將主要食材洗切備齊。",
+      "title": "備料",
+      "minutes": 8
+    },
+    {
+      "step": 2,
+      "text": "鍋子中火熱油，依序下料炒香。",
+      "title": "熱鍋",
+      "minutes": 5,
+      "heatLevel": "中火",
+      "tool": "pan"
+    },
+    {
+      "step": 3,
+      "text": "加入調味料與剩餘食材，快速拌炒。",
+      "title": "調味",
+      "minutes": 6,
+      "heatLevel": "中大火",
+      "tool": "pan"
+    },
+    {
+      "step": 4,
+      "text": "確認熟透後起鍋，趁熱享用。",
+      "title": "完成",
+      "minutes": 3,
+      "tool": "pan"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "recipeId": "r_eggplant_garlic",
+  "version": 2,
+  "steps": [
+    {
+      "step": 1,
+      "text": "茄子切滾刀塊，泡鹽水 5 分鐘後瀝乾。",
+      "title": "處理茄子",
+      "minutes": 6
+    },
+    {
+      "step": 2,
+      "text": "平底鍋中火少油，茄子煎至表面微焦軟化。",
+      "title": "煎茄子",
+      "minutes": 6,
+      "heatLevel": "中火",
+      "tool": "pan"
+    },
+    {
+      "step": 3,
+      "text": "另起鍋爆香蒜末，下醬油與 2 大匙水。",
+      "title": "調味",
+      "minutes": 1,
+      "heatLevel": "中火",
+      "tool": "wok"
+    },
+    {
+      "step": 4,
+      "text": "倒回茄子，快炒 2 分鐘裹醬即可。",
+      "title": "合炒",
+      "minutes": 2,
+      "heatLevel": "大火",
+      "tool": "wok"
+    }
+  ]
+}

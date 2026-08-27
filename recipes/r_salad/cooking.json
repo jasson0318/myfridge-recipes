@@ -1,0 +1,32 @@
+{
+  "recipeId": "r_salad",
+  "version": 2,
+  "steps": [
+    {
+      "step": 1,
+      "text": "雞胸撒鹽；生菜撕片、小黃瓜切片，瀝乾水分。",
+      "title": "備料",
+      "minutes": 5
+    },
+    {
+      "step": 2,
+      "text": "平底鍋中火少油，雞胸每面煎 2～3 分鐘至熟透。",
+      "title": "煎雞胸",
+      "minutes": 5,
+      "heatLevel": "中火",
+      "tool": "pan"
+    },
+    {
+      "step": 3,
+      "text": "雞胸靜置 2 分鐘後切薄片。",
+      "title": "切片",
+      "minutes": 2
+    },
+    {
+      "step": 4,
+      "text": "生菜與小黃瓜擺盤，放上雞胸，淋橄欖油與少許鹽。",
+      "title": "組裝",
+      "minutes": 2
+    }
+  ]
+}

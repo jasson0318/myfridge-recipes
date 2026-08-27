@@ -1,0 +1,39 @@
+{
+  "recipeId": "r_airfry_chicken",
+  "version": 3,
+  "steps": [
+    {
+      "step": 1,
+      "text": "雞胸肉洗淨擦乾，若過厚可從側面片薄；兩面抹鹽與少許油。",
+      "title": "醃製",
+      "minutes": 3
+    },
+    {
+      "step": 2,
+      "text": "氣炸鍋預熱 180°C 約 3 分鐘。",
+      "title": "預熱",
+      "minutes": 3,
+      "tool": "air_fryer"
+    },
+    {
+      "step": 3,
+      "text": "雞胸放入炸籃，180°C 氣炸 8 分鐘。",
+      "title": "第一面氣炸",
+      "minutes": 8,
+      "tool": "air_fryer"
+    },
+    {
+      "step": 4,
+      "text": "翻面後再氣炸 6～7 分鐘，至中心溫度達 74°C 或無血水。",
+      "title": "翻面續炸",
+      "minutes": 7,
+      "tool": "air_fryer"
+    },
+    {
+      "step": 5,
+      "text": "取出靜置 2 分鐘，斜切薄片即可。",
+      "title": "靜置切片",
+      "minutes": 2
+    }
+  ]
+}

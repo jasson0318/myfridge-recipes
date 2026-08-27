@@ -1,0 +1,35 @@
+{
+  "recipeId": "r_toast_egg",
+  "version": 2,
+  "steps": [
+    {
+      "step": 1,
+      "text": "吐司放入烤箱 200°C 烤 3～4 分钟至表面微金黃。",
+      "title": "烤吐司",
+      "minutes": 4,
+      "tool": "oven"
+    },
+    {
+      "step": 2,
+      "text": "平底鍋中火熱油或奶油，打入雞蛋。",
+      "title": "熱鍋",
+      "minutes": 1,
+      "heatLevel": "中火",
+      "tool": "pan"
+    },
+    {
+      "step": 3,
+      "text": "煎 2～3 分鐘至蛋白凝固、蛋黃依喜好。",
+      "title": "煎蛋",
+      "minutes": 3,
+      "heatLevel": "中火",
+      "tool": "pan"
+    },
+    {
+      "step": 4,
+      "text": "吐司抹奶油（可選），放上煎蛋或夾成三明治。",
+      "title": "組裝",
+      "minutes": 1
+    }
+  ]
+}

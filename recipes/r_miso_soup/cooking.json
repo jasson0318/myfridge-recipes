@@ -1,0 +1,41 @@
+{
+  "recipeId": "r_miso_soup",
+  "version": 2,
+  "steps": [
+    {
+      "step": 1,
+      "text": "豆腐切小塊；海帶以溫水泡軟；蔥切細花。",
+      "title": "備料",
+      "minutes": 3
+    },
+    {
+      "step": 2,
+      "text": "小湯鍋加入 500 ml 水，大火煮滾。",
+      "title": "煮湯",
+      "minutes": 4,
+      "heatLevel": "大火",
+      "tool": "pot"
+    },
+    {
+      "step": 3,
+      "text": "下豆腐與海帶，轉中小火煮 3 分鐘。",
+      "title": "煮料",
+      "minutes": 3,
+      "heatLevel": "中小火",
+      "tool": "pot"
+    },
+    {
+      "step": 4,
+      "text": "關小火，味噌用少許湯水化開後倒回鍋中，勿再滾大沸。",
+      "title": "溶味噌",
+      "minutes": 1,
+      "heatLevel": "小火",
+      "tool": "pot"
+    },
+    {
+      "step": 5,
+      "text": "撒蔥花，趁熱享用。",
+      "title": "完成"
+    }
+  ]
+}

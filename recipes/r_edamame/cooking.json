@@ -1,0 +1,34 @@
+{
+  "recipeId": "r_edamame",
+  "version": 2,
+  "steps": [
+    {
+      "step": 1,
+      "text": "毛豆洗淨，剪去兩端（可選）。",
+      "title": "備料",
+      "minutes": 2
+    },
+    {
+      "step": 2,
+      "text": "湯鍋加足量水與鹽，大火煮滾。",
+      "title": "煮鹽水",
+      "minutes": 5,
+      "heatLevel": "大火",
+      "tool": "pot"
+    },
+    {
+      "step": 3,
+      "text": "下毛豆，中火煮 5～7 分鐘。",
+      "title": "煮毛豆",
+      "minutes": 6,
+      "heatLevel": "中火",
+      "tool": "pot"
+    },
+    {
+      "step": 4,
+      "text": "瀝乾後可再撒少許鹽，趁熱享用。",
+      "title": "完成",
+      "minutes": 1
+    }
+  ]
+}

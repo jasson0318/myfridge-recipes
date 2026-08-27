@@ -1,0 +1,33 @@
+{
+  "recipeId": "r_oatmeal",
+  "version": 2,
+  "steps": [
+    {
+      "step": 1,
+      "text": "小鍋倒入牛奶與燕麥，攪拌均勻。",
+      "title": "混合"
+    },
+    {
+      "step": 2,
+      "text": "中小火加熱，邊煮邊攪，約 5 分鐘至燕麥軟化。",
+      "title": "煮燕麥",
+      "minutes": 5,
+      "heatLevel": "中小火",
+      "tool": "pot"
+    },
+    {
+      "step": 3,
+      "text": "或改用微波：700W 加熱 2 分鐘，取出攪拌再加熱 1 分鐘。",
+      "title": "微波版",
+      "minutes": 3,
+      "heatLevel": "700W",
+      "tool": "microwave"
+    },
+    {
+      "step": 4,
+      "text": "盛碗，可切香蕉片鋪上。",
+      "title": "完成",
+      "minutes": 1
+    }
+  ]
+}

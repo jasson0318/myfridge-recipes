@@ -1,0 +1,153 @@
+{
+  "recipeId": "r_mapo_tofu",
+  "name": "麻婆豆腐",
+  "category": "主菜",
+  "description": "中式家常下飯菜。",
+  "cookingTime": 25,
+  "cookingMinutes": 25,
+  "prepMinutes": 10,
+  "cookMinutes": 15,
+  "servings": 3,
+  "difficulty": "普通",
+  "access": "VIP",
+  "accessLevel": "VIP",
+  "isPremium": true,
+  "version": 3,
+  "updatedAt": "2026-08-26T13:54:07.668678Z",
+  "heroUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_mapo_tofu/hero.png",
+  "recipeUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_mapo_tofu/",
+  "websiteUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_mapo_tofu/",
+  "thumbnailUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_mapo_tofu/hero.png",
+  "tags": {
+    "cuisine": [
+      "chinese",
+      "rice"
+    ],
+    "goal": [
+      "family",
+      "balanced"
+    ],
+    "allergen": [
+      "soy"
+    ],
+    "disliked": [
+      "soy",
+      "pork",
+      "spicy"
+    ]
+  },
+  "mealTypes": [
+    "dinner"
+  ],
+  "equipmentIds": [
+    "wok",
+    "pan"
+  ],
+  "locked": false,
+  "requiresVip": true,
+  "tips": "豆腐下鍋後用推的方式翻動，避免碎裂；可視口味加豆瓣醬或花椒粉。",
+  "ingredients": [
+    {
+      "ingredientId": "tofu",
+      "name": "豆腐",
+      "quantity": 1.0,
+      "unit": "盒",
+      "group": "主要食材",
+      "optional": false,
+      "foodReferenceId": "nut_tofu",
+      "sortOrder": 0
+    },
+    {
+      "ingredientId": "pork_mince",
+      "name": "豬絞肉",
+      "quantity": 120.0,
+      "unit": "g",
+      "group": "主要食材",
+      "optional": false,
+      "foodReferenceId": "nut_pork_mince",
+      "sortOrder": 1
+    },
+    {
+      "ingredientId": "scallion",
+      "name": "青蔥",
+      "quantity": 1.0,
+      "unit": "根",
+      "group": "裝飾",
+      "optional": true,
+      "foodReferenceId": "nut_scallion",
+      "sortOrder": 2
+    },
+    {
+      "ingredientId": "garlic",
+      "name": "大蒜",
+      "quantity": 2.0,
+      "unit": "瓣",
+      "group": "調味料",
+      "optional": true,
+      "foodReferenceId": "nut_garlic",
+      "sortOrder": 3
+    },
+    {
+      "ingredientId": "soy_sauce",
+      "name": "醬油",
+      "quantity": 1.0,
+      "unit": "大匙",
+      "group": "醬汁",
+      "optional": false,
+      "foodReferenceId": "nut_soy_sauce",
+      "sortOrder": 4
+    },
+    {
+      "ingredientId": "oil",
+      "name": "沙拉油",
+      "quantity": 1.0,
+      "unit": "大匙",
+      "group": "調味料",
+      "optional": false,
+      "foodReferenceId": "nut_oil",
+      "sortOrder": 5
+    }
+  ],
+  "nutrition": null,
+  "imageUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_mapo_tofu/recipe.png",
+  "imageOriginalUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_mapo_tofu/recipe.png",
+  "steps": [
+    {
+      "step": 1,
+      "text": "豆腐切 2 公分立方；蒜切末、蔥切花；絞肉備好。",
+      "title": "備料",
+      "minutes": 5
+    },
+    {
+      "step": 2,
+      "text": "炒鍋中火熱油，下絞肉炒散至變色出油。",
+      "title": "炒肉",
+      "minutes": 3,
+      "heatLevel": "中火",
+      "tool": "wok"
+    },
+    {
+      "step": 3,
+      "text": "加蒜末與醬油炒香，倒入 150 ml 熱水。",
+      "title": "調味",
+      "minutes": 2,
+      "heatLevel": "中火",
+      "tool": "wok"
+    },
+    {
+      "step": 4,
+      "text": "輕放入豆腐，中小火煮 5 分鐘入味。",
+      "title": "燒豆腐",
+      "minutes": 5,
+      "heatLevel": "中小火",
+      "tool": "wok"
+    },
+    {
+      "step": 5,
+      "text": "試味後可薄芡（可選），撒蔥花起鍋。",
+      "title": "完成",
+      "minutes": 1
+    }
+  ],
+  "published": true
+}

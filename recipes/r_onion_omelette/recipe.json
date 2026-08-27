@@ -1,0 +1,129 @@
+{
+  "recipeId": "r_onion_omelette",
+  "name": "洋蔥蛋餅",
+  "category": "早餐",
+  "description": "快速早餐／宵夜。",
+  "cookingTime": 12,
+  "cookingMinutes": 12,
+  "prepMinutes": 5,
+  "cookMinutes": 7,
+  "servings": 1,
+  "difficulty": "簡單",
+  "access": "FREE",
+  "accessLevel": "FREE",
+  "isPremium": false,
+  "version": 2,
+  "updatedAt": "2026-08-26T13:54:08.810332Z",
+  "heroUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_onion_omelette/hero.png",
+  "recipeUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_onion_omelette/",
+  "websiteUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_onion_omelette/",
+  "thumbnailUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_onion_omelette/hero.png",
+  "tags": {
+    "cuisine": [
+      "chinese",
+      "quick"
+    ],
+    "goal": [
+      "balanced",
+      "kid_friendly"
+    ],
+    "allergen": [
+      "egg"
+    ],
+    "disliked": [
+      "egg",
+      "onion"
+    ]
+  },
+  "mealTypes": [
+    "breakfast"
+  ],
+  "equipmentIds": [
+    "pan"
+  ],
+  "locked": false,
+  "requiresVip": false,
+  "tips": "洋蔥炒至透明再倒蛋，甜味更足；小火慢煎定型不易焦。",
+  "ingredients": [
+    {
+      "ingredientId": "egg",
+      "name": "雞蛋",
+      "quantity": 2.0,
+      "unit": "顆",
+      "group": "主要食材",
+      "optional": false,
+      "foodReferenceId": "nut_egg",
+      "sortOrder": 0
+    },
+    {
+      "ingredientId": "onion",
+      "name": "洋蔥",
+      "quantity": 0.5,
+      "unit": "顆",
+      "group": "蔬菜",
+      "optional": false,
+      "foodReferenceId": "nut_onion",
+      "sortOrder": 1
+    },
+    {
+      "ingredientId": "oil",
+      "name": "沙拉油",
+      "quantity": 1.0,
+      "unit": "大匙",
+      "group": "調味料",
+      "optional": false,
+      "foodReferenceId": "nut_oil",
+      "sortOrder": 2
+    },
+    {
+      "ingredientId": "salt",
+      "name": "食鹽",
+      "quantity": 0.2,
+      "unit": "茶匙",
+      "group": "調味料",
+      "optional": false,
+      "foodReferenceId": "nut_salt",
+      "sortOrder": 3
+    }
+  ],
+  "nutrition": null,
+  "imageUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_onion_omelette/recipe.png",
+  "imageOriginalUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_onion_omelette/recipe.png",
+  "steps": [
+    {
+      "step": 1,
+      "text": "洋蔥切絲；雞蛋加鹽打勻。",
+      "title": "備料",
+      "minutes": 3
+    },
+    {
+      "step": 2,
+      "text": "平底鍋中火熱油，下洋蔥炒 2 分鐘至透明。",
+      "title": "炒洋蔥",
+      "minutes": 2,
+      "heatLevel": "中火",
+      "tool": "pan"
+    },
+    {
+      "step": 3,
+      "text": "倒入蛋液，轉中小火。",
+      "title": "倒蛋",
+      "heatLevel": "中小火",
+      "tool": "pan"
+    },
+    {
+      "step": 4,
+      "text": "待邊緣凝固後輕晃鍋，蓋鍋煎 2 分鐘。",
+      "title": "煎定",
+      "minutes": 2,
+      "heatLevel": "中小火",
+      "tool": "pan"
+    },
+    {
+      "step": 5,
+      "text": "對折或整片滑出盤中。",
+      "title": "完成"
+    }
+  ],
+  "published": true
+}

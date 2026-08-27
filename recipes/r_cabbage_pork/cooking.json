@@ -1,0 +1,41 @@
+{
+  "recipeId": "r_cabbage_pork",
+  "version": 2,
+  "steps": [
+    {
+      "step": 1,
+      "text": "豬肉切薄片；高麗菜撕片；蒜切片。",
+      "title": "備料",
+      "minutes": 5
+    },
+    {
+      "step": 2,
+      "text": "炒鍋大火熱油，下肉片炒至變色。",
+      "title": "炒肉",
+      "minutes": 2,
+      "heatLevel": "大火",
+      "tool": "wok"
+    },
+    {
+      "step": 3,
+      "text": "加蒜片與醬油快炒出香味。",
+      "title": "調味",
+      "minutes": 1,
+      "heatLevel": "大火",
+      "tool": "wok"
+    },
+    {
+      "step": 4,
+      "text": "下高麗菜，大火快炒 3 分鐘至仍帶脆。",
+      "title": "炒高麗菜",
+      "minutes": 3,
+      "heatLevel": "大火",
+      "tool": "wok"
+    },
+    {
+      "step": 5,
+      "text": "試味後起鍋配飯。",
+      "title": "完成"
+    }
+  ]
+}

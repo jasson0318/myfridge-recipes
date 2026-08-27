@@ -1,0 +1,113 @@
+{
+  "recipeId": "r_clam_soup",
+  "name": "蛤蜊湯",
+  "category": "湯品",
+  "description": "鮮甜清湯。",
+  "cookingTime": 20,
+  "cookingMinutes": 20,
+  "prepMinutes": 15,
+  "cookMinutes": 5,
+  "servings": 3,
+  "difficulty": "簡單",
+  "access": "FREE",
+  "accessLevel": "FREE",
+  "isPremium": false,
+  "version": 2,
+  "updatedAt": "2026-08-26T13:54:05.383043Z",
+  "heroUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_clam_soup/hero.png",
+  "recipeUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_clam_soup/",
+  "websiteUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_clam_soup/",
+  "thumbnailUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_clam_soup/hero.png",
+  "tags": {
+    "cuisine": [
+      "chinese",
+      "soup"
+    ],
+    "goal": [
+      "high_protein",
+      "low_oil",
+      "family"
+    ],
+    "allergen": [
+      "shellfish"
+    ],
+    "disliked": [
+      "shellfish"
+    ]
+  },
+  "mealTypes": [
+    "dinner"
+  ],
+  "equipmentIds": [
+    "pot"
+  ],
+  "locked": false,
+  "requiresVip": false,
+  "tips": "蛤蜊吐沙乾淨湯才不腥；殼一開即關火，避免過老。",
+  "ingredients": [
+    {
+      "ingredientId": "clam",
+      "name": "蛤蜊",
+      "quantity": 400.0,
+      "unit": "g",
+      "group": "主要食材",
+      "optional": false,
+      "foodReferenceId": "nut_clam",
+      "sortOrder": 0
+    },
+    {
+      "ingredientId": "ginger",
+      "name": "薑",
+      "quantity": 10.0,
+      "unit": "g",
+      "group": "調味料",
+      "optional": false,
+      "foodReferenceId": "nut_ginger",
+      "sortOrder": 1
+    },
+    {
+      "ingredientId": "scallion",
+      "name": "青蔥",
+      "quantity": 1.0,
+      "unit": "根",
+      "group": "裝飾",
+      "optional": true,
+      "foodReferenceId": "nut_scallion",
+      "sortOrder": 2
+    }
+  ],
+  "nutrition": null,
+  "imageUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_clam_soup/recipe.png",
+  "imageOriginalUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_clam_soup/recipe.png",
+  "steps": [
+    {
+      "step": 1,
+      "text": "蛤蜊泡鹽水吐沙 30 分鐘（或購已處理），沖洗。",
+      "title": "吐沙",
+      "minutes": 30
+    },
+    {
+      "step": 2,
+      "text": "薑切絲；蔥切花；鍋加 800 ml 水與薑，大火煮滾。",
+      "title": "起湯",
+      "minutes": 5,
+      "heatLevel": "大火",
+      "tool": "pot"
+    },
+    {
+      "step": 3,
+      "text": "下蛤蜊，大火煮至大部分開殼，約 3 分鐘。",
+      "title": "煮蛤蜊",
+      "minutes": 3,
+      "heatLevel": "大火",
+      "tool": "pot"
+    },
+    {
+      "step": 4,
+      "text": "未開殼者Discard，撒蔥花，依喜好加少許鹽。",
+      "title": "完成",
+      "minutes": 1
+    }
+  ],
+  "published": true
+}

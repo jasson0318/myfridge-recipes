@@ -1,0 +1,41 @@
+{
+  "recipeId": "r_tomato_egg",
+  "version": 3,
+  "steps": [
+    {
+      "step": 1,
+      "text": "番茄洗淨去蒂切塊；雞蛋打入碗中，加少許鹽打勻。",
+      "title": "備料",
+      "minutes": 2
+    },
+    {
+      "step": 2,
+      "text": "平底鍋中火熱油，倒入蛋液，快速滑炒成嫩蛋塊後先盛起。",
+      "title": "炒蛋",
+      "minutes": 1,
+      "heatLevel": "中火",
+      "tool": "pan"
+    },
+    {
+      "step": 3,
+      "text": "同鍋加少許油，下番茄塊以中小火翻炒至出汁、邊緣微軟。",
+      "title": "炒番茄",
+      "minutes": 3,
+      "heatLevel": "中小火",
+      "tool": "pan"
+    },
+    {
+      "step": 4,
+      "text": "倒回蛋塊，輕翻拌勻讓蛋吸收番茄汁，試味後調整鹽度。",
+      "title": "合炒",
+      "minutes": 1,
+      "heatLevel": "中小火",
+      "tool": "pan"
+    },
+    {
+      "step": 5,
+      "text": "起鍋前撒蔥花，趁熱配白飯。",
+      "title": "完成"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "recipeId": "r_airfry_thigh",
+  "version": 2,
+  "steps": [
+    {
+      "step": 1,
+      "text": "雞腿洗淨擦乾，皮面劃幾刀；蒜切末與醬油混成醃料。",
+      "title": "備料醃料",
+      "minutes": 4
+    },
+    {
+      "step": 2,
+      "text": "雞腿均勻抹上醃料，靜置 10 分鐘。",
+      "title": "醃製",
+      "minutes": 10
+    },
+    {
+      "step": 3,
+      "text": "氣炸鍋 180°C 預熱 3 分鐘，雞腿皮朝上放入。",
+      "title": "預熱擺入",
+      "minutes": 3,
+      "tool": "air_fryer"
+    },
+    {
+      "step": 4,
+      "text": "180°C 氣炸 10 分鐘，翻面再炸 7 分鐘至熟透。",
+      "title": "氣炸",
+      "minutes": 17,
+      "tool": "air_fryer"
+    },
+    {
+      "step": 5,
+      "text": "取出靜置 3 分鐘，可擠檸檬或撒白胡椒。",
+      "title": "完成",
+      "minutes": 3
+    }
+  ]
+}

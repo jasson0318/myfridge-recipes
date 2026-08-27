@@ -1,0 +1,42 @@
+{
+  "recipeId": "r_griddle_veg",
+  "version": 2,
+  "steps": [
+    {
+      "step": 1,
+      "text": "青椒、茄子、洋蔥切適口片；香菇去蒂。",
+      "title": "備料",
+      "minutes": 6
+    },
+    {
+      "step": 2,
+      "text": "蔬菜薄刷橄欖油，撒少許鹽。",
+      "title": "調味",
+      "minutes": 2
+    },
+    {
+      "step": 3,
+      "text": "電烤盤預熱至中高溫。",
+      "title": "預熱",
+      "minutes": 3,
+      "heatLevel": "中高",
+      "tool": "griddle"
+    },
+    {
+      "step": 4,
+      "text": "先烤青椒與洋蔥 4 分鐘，再下茄子與香菇烤 4 分鐘。",
+      "title": "烤蔬菜",
+      "minutes": 8,
+      "heatLevel": "中高",
+      "tool": "griddle"
+    },
+    {
+      "step": 5,
+      "text": "翻面再烤 2 分鐘至上色，趁熱享用。",
+      "title": "完成",
+      "minutes": 2,
+      "heatLevel": "中高",
+      "tool": "griddle"
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "recipeId": "r_tuna_salad",
+  "name": "鮪魚生菜沙拉",
+  "category": "開胃菜",
+  "description": "低醣高蛋白。",
+  "cookingTime": 8,
+  "cookingMinutes": 8,
+  "prepMinutes": 8,
+  "cookMinutes": null,
+  "servings": 1,
+  "difficulty": "簡單",
+  "access": "FREE",
+  "accessLevel": "FREE",
+  "isPremium": false,
+  "version": 2,
+  "updatedAt": "2026-08-26T13:54:13.441809Z",
+  "heroUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_tuna_salad/hero.png",
+  "recipeUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_tuna_salad/",
+  "websiteUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_tuna_salad/",
+  "thumbnailUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_tuna_salad/hero.png",
+  "tags": {
+    "cuisine": [
+      "salad",
+      "quick",
+      "high_protein_dish"
+    ],
+    "goal": [
+      "high_protein",
+      "low_carb",
+      "fitness",
+      "calorie_control"
+    ],
+    "allergen": [
+      "fish"
+    ],
+    "disliked": [
+      "fish"
+    ]
+  },
+  "mealTypes": [
+    "lunch"
+  ],
+  "equipmentIds": [],
+  "locked": false,
+  "requiresVip": false,
+  "tips": "罐頭鮪魚瀝油再使用更健康；可加檸檬汁提鮮。",
+  "ingredients": [
+    {
+      "ingredientId": "tuna",
+      "name": "鮪魚",
+      "quantity": 100.0,
+      "unit": "g",
+      "group": "主要食材",
+      "optional": false,
+      "foodReferenceId": "nut_tuna",
+      "sortOrder": 0
+    },
+    {
+      "ingredientId": "lettuce",
+      "name": "生菜",
+      "quantity": 100.0,
+      "unit": "g",
+      "group": "蔬菜",
+      "optional": false,
+      "foodReferenceId": "nut_lettuce",
+      "sortOrder": 1
+    },
+    {
+      "ingredientId": "cucumber",
+      "name": "小黃瓜",
+      "quantity": 1.0,
+      "unit": "根",
+      "group": "蔬菜",
+      "optional": true,
+      "foodReferenceId": "nut_cucumber",
+      "sortOrder": 2
+    },
+    {
+      "ingredientId": "olive_oil",
+      "name": "橄欖油",
+      "quantity": 0.5,
+      "unit": "大匙",
+      "group": "醬汁",
+      "optional": true,
+      "foodReferenceId": "nut_olive_oil",
+      "sortOrder": 3
+    }
+  ],
+  "nutrition": null,
+  "imageUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_tuna_salad/recipe.png",
+  "imageOriginalUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_tuna_salad/recipe.png",
+  "steps": [
+    {
+      "step": 1,
+      "text": "生菜洗淨瀝乾撕片；小黃瓜切片。",
+      "title": "備菜",
+      "minutes": 4
+    },
+    {
+      "step": 2,
+      "text": "大碗中混合生菜與小黃瓜。",
+      "title": "混合",
+      "minutes": 1
+    },
+    {
+      "step": 3,
+      "text": "鮪魚瀝油後弄散，鋪在蔬菜上。",
+      "title": "加鮪魚",
+      "minutes": 1
+    },
+    {
+      "step": 4,
+      "text": "淋橄欖油，依喜好加黑胡椒或檸檬汁。",
+      "title": "完成"
+    }
+  ],
+  "published": true
+}

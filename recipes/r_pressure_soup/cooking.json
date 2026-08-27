@@ -1,0 +1,35 @@
+{
+  "recipeId": "r_pressure_soup",
+  "version": 2,
+  "steps": [
+    {
+      "step": 1,
+      "text": "南瓜去籽切塊；洋蔥切丁。",
+      "title": "備料",
+      "minutes": 6
+    },
+    {
+      "step": 2,
+      "text": "壓力鍋少油（可選）炒香洋蔥 2 分鐘。",
+      "title": "炒香",
+      "minutes": 2,
+      "heatLevel": "中火",
+      "tool": "pressure_cooker"
+    },
+    {
+      "step": 3,
+      "text": "加南瓜與 600 ml 水，上蓋壓 12 分鐘。",
+      "title": "壓煮",
+      "minutes": 12,
+      "tool": "pressure_cooker"
+    },
+    {
+      "step": 4,
+      "text": "泄壓後壓泥，加入牛奶與鹽調整濃稠。",
+      "title": "調味",
+      "minutes": 3,
+      "heatLevel": "中小火",
+      "tool": "pressure_cooker"
+    }
+  ]
+}

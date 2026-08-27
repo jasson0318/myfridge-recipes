@@ -1,0 +1,131 @@
+{
+  "recipeId": "r_miso_soup",
+  "name": "味噌湯",
+  "category": "湯品",
+  "description": "日式家常湯品。",
+  "cookingTime": 15,
+  "cookingMinutes": 15,
+  "prepMinutes": 5,
+  "cookMinutes": 10,
+  "servings": 2,
+  "difficulty": "簡單",
+  "access": "FREE",
+  "accessLevel": "FREE",
+  "isPremium": false,
+  "version": 2,
+  "updatedAt": "2026-08-26T13:54:08.120831Z",
+  "heroUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_miso_soup/hero.png",
+  "recipeUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_miso_soup/",
+  "websiteUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_miso_soup/",
+  "thumbnailUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_miso_soup/hero.png",
+  "tags": {
+    "cuisine": [
+      "japanese",
+      "soup",
+      "quick"
+    ],
+    "goal": [
+      "balanced",
+      "family",
+      "low_oil"
+    ],
+    "allergen": [
+      "soy"
+    ],
+    "disliked": [
+      "soy"
+    ]
+  },
+  "mealTypes": [
+    "dinner"
+  ],
+  "equipmentIds": [
+    "pot"
+  ],
+  "locked": false,
+  "requiresVip": false,
+  "tips": "味噌不可大火久煮，關小火後才溶入；可依喜好加豆腐或海帶。",
+  "ingredients": [
+    {
+      "ingredientId": "miso",
+      "name": "味噌",
+      "quantity": 2.0,
+      "unit": "大匙",
+      "group": "醬汁",
+      "optional": false,
+      "foodReferenceId": "nut_miso",
+      "sortOrder": 0
+    },
+    {
+      "ingredientId": "tofu",
+      "name": "豆腐",
+      "quantity": 0.5,
+      "unit": "盒",
+      "group": "主要食材",
+      "optional": false,
+      "foodReferenceId": "nut_tofu",
+      "sortOrder": 1
+    },
+    {
+      "ingredientId": "seaweed",
+      "name": "海帶",
+      "quantity": 5.0,
+      "unit": "g",
+      "group": "配菜",
+      "optional": true,
+      "foodReferenceId": "nut_seaweed",
+      "sortOrder": 2
+    },
+    {
+      "ingredientId": "scallion",
+      "name": "青蔥",
+      "quantity": 1.0,
+      "unit": "根",
+      "group": "裝飾",
+      "optional": true,
+      "foodReferenceId": "nut_scallion",
+      "sortOrder": 3
+    }
+  ],
+  "nutrition": null,
+  "imageUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_miso_soup/recipe.png",
+  "imageOriginalUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_miso_soup/recipe.png",
+  "steps": [
+    {
+      "step": 1,
+      "text": "豆腐切小塊；海帶以溫水泡軟；蔥切細花。",
+      "title": "備料",
+      "minutes": 3
+    },
+    {
+      "step": 2,
+      "text": "小湯鍋加入 500 ml 水，大火煮滾。",
+      "title": "煮湯",
+      "minutes": 4,
+      "heatLevel": "大火",
+      "tool": "pot"
+    },
+    {
+      "step": 3,
+      "text": "下豆腐與海帶，轉中小火煮 3 分鐘。",
+      "title": "煮料",
+      "minutes": 3,
+      "heatLevel": "中小火",
+      "tool": "pot"
+    },
+    {
+      "step": 4,
+      "text": "關小火，味噌用少許湯水化開後倒回鍋中，勿再滾大沸。",
+      "title": "溶味噌",
+      "minutes": 1,
+      "heatLevel": "小火",
+      "tool": "pot"
+    },
+    {
+      "step": 5,
+      "text": "撒蔥花，趁熱享用。",
+      "title": "完成"
+    }
+  ],
+  "published": true
+}

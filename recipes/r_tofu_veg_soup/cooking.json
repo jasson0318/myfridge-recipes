@@ -1,0 +1,42 @@
+{
+  "recipeId": "r_tofu_veg_soup",
+  "version": 3,
+  "steps": [
+    {
+      "step": 1,
+      "text": "豆腐切 2 公分方塊；高麗菜撕片、胡蘿蔔切片、香菇切厚片。",
+      "title": "備料",
+      "minutes": 5
+    },
+    {
+      "step": 2,
+      "text": "湯鍋加入 800 ml 冷水，大火煮滾。",
+      "title": "煮湯底",
+      "minutes": 5,
+      "heatLevel": "大火",
+      "tool": "pot"
+    },
+    {
+      "step": 3,
+      "text": "依序放入胡蘿蔔、香菇、高麗菜，轉中火煮 4 分鐘。",
+      "title": "煮蔬菜",
+      "minutes": 4,
+      "heatLevel": "中火",
+      "tool": "pot"
+    },
+    {
+      "step": 4,
+      "text": "下豆腐，以中小火續煮 3 分鐘，勿大力攪拌以免豆腐碎裂。",
+      "title": "煮豆腐",
+      "minutes": 3,
+      "heatLevel": "中小火",
+      "tool": "pot"
+    },
+    {
+      "step": 5,
+      "text": "加鹽調味，撒蔥花即可上桌。",
+      "title": "調味完成",
+      "minutes": 1
+    }
+  ]
+}

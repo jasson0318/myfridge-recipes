@@ -1,0 +1,29 @@
+{
+  "recipeId": "r_chickpea_salad",
+  "version": 2,
+  "steps": [
+    {
+      "step": 1,
+      "text": "鷹嘴豆瀝乾沖水；生菜撕片；小黃瓜切片。",
+      "title": "備料",
+      "minutes": 5
+    },
+    {
+      "step": 2,
+      "text": "大碗中混合所有食材。",
+      "title": "混合",
+      "minutes": 1
+    },
+    {
+      "step": 3,
+      "text": "淋橄欖油、撒鹽與黑胡椒拌勻。",
+      "title": "調味",
+      "minutes": 1
+    },
+    {
+      "step": 4,
+      "text": "分兩碗即可享用。",
+      "title": "完成"
+    }
+  ]
+}

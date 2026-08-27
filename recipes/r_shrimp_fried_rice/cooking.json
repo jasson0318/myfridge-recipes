@@ -1,0 +1,44 @@
+{
+  "recipeId": "r_shrimp_fried_rice",
+  "version": 2,
+  "steps": [
+    {
+      "step": 1,
+      "text": "蝦去殼留尾挑腸；蔥切花；雞蛋打散；白飯撥散備用。",
+      "title": "備料",
+      "minutes": 5
+    },
+    {
+      "step": 2,
+      "text": "炒鍋大火熱油，下蝦快炒至變色八成熟，盛起。",
+      "title": "炒蝦",
+      "minutes": 2,
+      "heatLevel": "大火",
+      "tool": "wok"
+    },
+    {
+      "step": 3,
+      "text": "同鍋再補少許油，倒入蛋液快速炒散成蛋花。",
+      "title": "炒蛋",
+      "minutes": 1,
+      "heatLevel": "大火",
+      "tool": "wok"
+    },
+    {
+      "step": 4,
+      "text": "加入白飯，大火快炒 2 分鐘，用鍋鏟壓散飯粒。",
+      "title": "炒飯",
+      "minutes": 2,
+      "heatLevel": "大火",
+      "tool": "wok"
+    },
+    {
+      "step": 5,
+      "text": "回鍋蝦仁，加鹽與蔥花翻勻即可。",
+      "title": "完成",
+      "minutes": 1,
+      "heatLevel": "大火",
+      "tool": "wok"
+    }
+  ]
+}

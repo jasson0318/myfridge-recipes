@@ -1,0 +1,142 @@
+{
+  "recipeId": "r_beef_noodles",
+  "name": "清燉牛肉麵",
+  "category": "湯品",
+  "description": "湯頭清爽的牛肉麵。",
+  "cookingTime": 60,
+  "cookingMinutes": 60,
+  "prepMinutes": 15,
+  "cookMinutes": 45,
+  "servings": 2,
+  "difficulty": "進階",
+  "access": "FREE",
+  "accessLevel": "FREE",
+  "isPremium": false,
+  "version": 2,
+  "updatedAt": "2026-08-26T13:54:02.629601Z",
+  "heroUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_beef_noodles/hero.png",
+  "recipeUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_beef_noodles/",
+  "websiteUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_beef_noodles/",
+  "thumbnailUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_beef_noodles/hero.png",
+  "tags": {
+    "cuisine": [
+      "chinese",
+      "noodles",
+      "soup"
+    ],
+    "goal": [
+      "high_protein",
+      "family"
+    ],
+    "allergen": [
+      "wheat"
+    ],
+    "disliked": [
+      "beef"
+    ]
+  },
+  "mealTypes": [
+    "lunch"
+  ],
+  "equipmentIds": [
+    "pot",
+    "pressure_cooker"
+  ],
+  "locked": false,
+  "requiresVip": false,
+  "tips": "牛肉先汆燙去血水湯才清澈；壓力鍋可縮短燉煮時間至 25 分鐘。",
+  "ingredients": [
+    {
+      "ingredientId": "beef",
+      "name": "牛肉",
+      "quantity": 300.0,
+      "unit": "g",
+      "group": "主要食材",
+      "optional": false,
+      "foodReferenceId": "nut_beef",
+      "sortOrder": 0
+    },
+    {
+      "ingredientId": "noodles",
+      "name": "麵條",
+      "quantity": 200.0,
+      "unit": "g",
+      "group": "主要食材",
+      "optional": false,
+      "foodReferenceId": "nut_noodles",
+      "sortOrder": 1
+    },
+    {
+      "ingredientId": "ginger",
+      "name": "薑",
+      "quantity": 20.0,
+      "unit": "g",
+      "group": "調味料",
+      "optional": true,
+      "foodReferenceId": "nut_ginger",
+      "sortOrder": 2
+    },
+    {
+      "ingredientId": "scallion",
+      "name": "青蔥",
+      "quantity": 2.0,
+      "unit": "根",
+      "group": "配菜",
+      "optional": true,
+      "foodReferenceId": "nut_scallion",
+      "sortOrder": 3
+    },
+    {
+      "ingredientId": "soy_sauce",
+      "name": "醬油",
+      "quantity": 1.0,
+      "unit": "大匙",
+      "group": "醬汁",
+      "optional": false,
+      "foodReferenceId": "nut_soy_sauce",
+      "sortOrder": 4
+    }
+  ],
+  "nutrition": null,
+  "imageUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_beef_noodles/recipe.png",
+  "imageOriginalUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_beef_noodles/recipe.png",
+  "steps": [
+    {
+      "step": 1,
+      "text": "牛肉切大塊，冷水下鍋汆燙至無血水，沖洗備用。",
+      "title": "處理牛肉",
+      "minutes": 10
+    },
+    {
+      "step": 2,
+      "text": "湯鍋加 1.2 L 水、薑片、蔥白，放入牛肉大火煮滾。",
+      "title": "起湯",
+      "minutes": 5,
+      "heatLevel": "大火",
+      "tool": "pot"
+    },
+    {
+      "step": 3,
+      "text": "轉中小火燉 40 分鐘，或壓力鍋 25 分鐘至軟。",
+      "title": "燉煮",
+      "minutes": 40,
+      "heatLevel": "中小火",
+      "tool": "pressure_cooker"
+    },
+    {
+      "step": 4,
+      "text": "另鍋煮麵 3～4 分鐘至 al dente，瀝乾。",
+      "title": "煮麵",
+      "minutes": 4,
+      "heatLevel": "大火",
+      "tool": "pot"
+    },
+    {
+      "step": 5,
+      "text": "碗裡放麵、盛牛肉與清湯，撒蔥花，淋少許醬油。",
+      "title": "組裝",
+      "minutes": 2
+    }
+  ],
+  "published": true
+}

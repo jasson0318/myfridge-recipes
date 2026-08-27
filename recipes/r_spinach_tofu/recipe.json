@@ -1,0 +1,132 @@
+{
+  "recipeId": "r_spinach_tofu",
+  "name": "菠菜豆腐煲",
+  "category": "湯品",
+  "description": "高纖蔬菜湯煲。",
+  "cookingTime": 20,
+  "cookingMinutes": 20,
+  "prepMinutes": 8,
+  "cookMinutes": 12,
+  "servings": 3,
+  "difficulty": "簡單",
+  "access": "FREE",
+  "accessLevel": "FREE",
+  "isPremium": false,
+  "version": 2,
+  "updatedAt": "2026-08-26T13:54:11.802257Z",
+  "heroUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_spinach_tofu/hero.png",
+  "recipeUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_spinach_tofu/",
+  "websiteUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_spinach_tofu/",
+  "thumbnailUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_spinach_tofu/hero.png",
+  "tags": {
+    "cuisine": [
+      "chinese",
+      "soup"
+    ],
+    "goal": [
+      "more_veg",
+      "high_fiber",
+      "low_oil",
+      "calorie_control"
+    ],
+    "allergen": [
+      "soy"
+    ],
+    "disliked": [
+      "soy"
+    ]
+  },
+  "mealTypes": [
+    "dinner"
+  ],
+  "equipmentIds": [
+    "pot",
+    "wok"
+  ],
+  "locked": false,
+  "requiresVip": false,
+  "tips": "菠菜最後才下，避免過軟發黃；可加少許薑絲去腥。",
+  "ingredients": [
+    {
+      "ingredientId": "spinach",
+      "name": "菠菜",
+      "quantity": 200.0,
+      "unit": "g",
+      "group": "蔬菜",
+      "optional": false,
+      "foodReferenceId": "nut_spinach",
+      "sortOrder": 0
+    },
+    {
+      "ingredientId": "tofu",
+      "name": "豆腐",
+      "quantity": 1.0,
+      "unit": "盒",
+      "group": "主要食材",
+      "optional": false,
+      "foodReferenceId": "nut_tofu",
+      "sortOrder": 1
+    },
+    {
+      "ingredientId": "garlic",
+      "name": "大蒜",
+      "quantity": 1.0,
+      "unit": "瓣",
+      "group": "調味料",
+      "optional": true,
+      "foodReferenceId": "nut_garlic",
+      "sortOrder": 2
+    },
+    {
+      "ingredientId": "salt",
+      "name": "食鹽",
+      "quantity": 0.4,
+      "unit": "茶匙",
+      "group": "調味料",
+      "optional": false,
+      "foodReferenceId": "nut_salt",
+      "sortOrder": 3
+    }
+  ],
+  "nutrition": null,
+  "imageUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_spinach_tofu/recipe.png",
+  "imageOriginalUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_spinach_tofu/recipe.png",
+  "steps": [
+    {
+      "step": 1,
+      "text": "菠菜洗淨切段；豆腐切塊；蒜切片。",
+      "title": "備料",
+      "minutes": 4
+    },
+    {
+      "step": 2,
+      "text": "湯鍋加 700 ml 水，大火煮滾。",
+      "title": "煮湯",
+      "minutes": 4,
+      "heatLevel": "大火",
+      "tool": "pot"
+    },
+    {
+      "step": 3,
+      "text": "下豆腐與蒜片，中小火煮 5 分鐘。",
+      "title": "煮豆腐",
+      "minutes": 5,
+      "heatLevel": "中小火",
+      "tool": "pot"
+    },
+    {
+      "step": 4,
+      "text": "加入菠菜煮 1～2 分鐘至剛軟。",
+      "title": "下菠菜",
+      "minutes": 2,
+      "heatLevel": "中小火",
+      "tool": "pot"
+    },
+    {
+      "step": 5,
+      "text": "加鹽調味即可。",
+      "title": "完成"
+    }
+  ],
+  "published": true
+}

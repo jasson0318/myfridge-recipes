@@ -1,0 +1,69 @@
+{
+  "recipeId": "r_fish_wintermelon_soup",
+  "name": "冬瓜魚片湯",
+  "category": "湯品",
+  "description": "清甜冬瓜搭配魚片，家常湯品。完整食譜圖為網站主內容。",
+  "cookingTime": 25,
+  "cookingMinutes": 25,
+  "prepMinutes": null,
+  "cookMinutes": null,
+  "servings": 2,
+  "difficulty": "簡單",
+  "access": "FREE",
+  "accessLevel": "FREE",
+  "isPremium": false,
+  "version": 3,
+  "updatedAt": "2026-08-26T13:54:06.281349Z",
+  "heroUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_fish_wintermelon_soup/hero.png",
+  "recipeUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_fish_wintermelon_soup/",
+  "websiteUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_fish_wintermelon_soup/",
+  "thumbnailUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_fish_wintermelon_soup/hero.png",
+  "tags": {
+    "cuisine": [],
+    "goal": [],
+    "allergen": [],
+    "disliked": []
+  },
+  "mealTypes": [],
+  "equipmentIds": [],
+  "locked": false,
+  "requiresVip": false,
+  "tips": null,
+  "ingredients": [
+    {
+      "ingredientId": "fish",
+      "name": "魚片",
+      "quantity": 250.0,
+      "unit": "g",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_fish",
+      "sortOrder": 0
+    },
+    {
+      "ingredientId": "wintermelon",
+      "name": "冬瓜",
+      "quantity": 400.0,
+      "unit": "g",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_wintermelon",
+      "sortOrder": 1
+    },
+    {
+      "ingredientId": "ginger",
+      "name": "薑絲",
+      "quantity": 10.0,
+      "unit": "g",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_ginger",
+      "sortOrder": 2
+    }
+  ],
+  "nutrition": null,
+  "imageUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_fish_wintermelon_soup/recipe.png",
+  "imageOriginalUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_fish_wintermelon_soup/recipe.png",
+  "steps": [],
+  "published": true
+}

@@ -1,0 +1,125 @@
+{
+  "recipeId": "r_pressure_soup",
+  "name": "壓力鍋南瓜湯",
+  "category": "湯品",
+  "description": "濃郁溫暖的湯。",
+  "cookingTime": 35,
+  "cookingMinutes": 35,
+  "prepMinutes": 12,
+  "cookMinutes": 23,
+  "servings": 4,
+  "difficulty": "普通",
+  "access": "FREE",
+  "accessLevel": "FREE",
+  "isPremium": false,
+  "version": 2,
+  "updatedAt": "2026-08-26T13:54:10.187603Z",
+  "heroUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_pressure_soup/hero.png",
+  "recipeUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_pressure_soup/",
+  "websiteUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_pressure_soup/",
+  "thumbnailUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_pressure_soup/hero.png",
+  "tags": {
+    "cuisine": [
+      "western",
+      "soup"
+    ],
+    "goal": [
+      "kid_friendly",
+      "family",
+      "balanced"
+    ],
+    "allergen": [
+      "dairy"
+    ],
+    "disliked": [
+      "milk",
+      "onion"
+    ]
+  },
+  "mealTypes": [
+    "dinner"
+  ],
+  "equipmentIds": [
+    "pressure_cooker"
+  ],
+  "locked": false,
+  "requiresVip": false,
+  "tips": "南瓜品種不同甜度有差，可最後加牛奶調濃稠；洋蔥炒香後再壓煮更香。",
+  "ingredients": [
+    {
+      "ingredientId": "squash",
+      "name": "南瓜",
+      "quantity": 500.0,
+      "unit": "g",
+      "group": "主要食材",
+      "optional": false,
+      "foodReferenceId": "nut_squash",
+      "sortOrder": 0
+    },
+    {
+      "ingredientId": "milk",
+      "name": "全脂牛奶",
+      "quantity": 100.0,
+      "unit": "ml",
+      "group": "主要食材",
+      "optional": true,
+      "foodReferenceId": "nut_milk",
+      "sortOrder": 1
+    },
+    {
+      "ingredientId": "onion",
+      "name": "洋蔥",
+      "quantity": 0.5,
+      "unit": "顆",
+      "group": "蔬菜",
+      "optional": true,
+      "foodReferenceId": "nut_onion",
+      "sortOrder": 2
+    },
+    {
+      "ingredientId": "salt",
+      "name": "食鹽",
+      "quantity": 0.5,
+      "unit": "茶匙",
+      "group": "調味料",
+      "optional": false,
+      "foodReferenceId": "nut_salt",
+      "sortOrder": 3
+    }
+  ],
+  "nutrition": null,
+  "imageUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_pressure_soup/recipe.png",
+  "imageOriginalUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_pressure_soup/recipe.png",
+  "steps": [
+    {
+      "step": 1,
+      "text": "南瓜去籽切塊；洋蔥切丁。",
+      "title": "備料",
+      "minutes": 6
+    },
+    {
+      "step": 2,
+      "text": "壓力鍋少油（可選）炒香洋蔥 2 分鐘。",
+      "title": "炒香",
+      "minutes": 2,
+      "heatLevel": "中火",
+      "tool": "pressure_cooker"
+    },
+    {
+      "step": 3,
+      "text": "加南瓜與 600 ml 水，上蓋壓 12 分鐘。",
+      "title": "壓煮",
+      "minutes": 12,
+      "tool": "pressure_cooker"
+    },
+    {
+      "step": 4,
+      "text": "泄壓後壓泥，加入牛奶與鹽調整濃稠。",
+      "title": "調味",
+      "minutes": 3,
+      "heatLevel": "中小火",
+      "tool": "pressure_cooker"
+    }
+  ],
+  "published": true
+}

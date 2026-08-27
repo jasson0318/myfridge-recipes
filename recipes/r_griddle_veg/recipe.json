@@ -1,0 +1,149 @@
+{
+  "recipeId": "r_griddle_veg",
+  "name": "電烤盤蔬菜拼盤",
+  "category": "主菜",
+  "description": "少油燒烤風味。",
+  "cookingTime": 20,
+  "cookingMinutes": 20,
+  "prepMinutes": 10,
+  "cookMinutes": 10,
+  "servings": 3,
+  "difficulty": "簡單",
+  "access": "FREE",
+  "accessLevel": "FREE",
+  "isPremium": false,
+  "version": 2,
+  "updatedAt": "2026-08-26T13:54:06.973174Z",
+  "heroUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_griddle_veg/hero.png",
+  "recipeUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_griddle_veg/",
+  "websiteUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_griddle_veg/",
+  "thumbnailUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_griddle_veg/hero.png",
+  "tags": {
+    "cuisine": [
+      "western",
+      "quick"
+    ],
+    "goal": [
+      "more_veg",
+      "low_oil",
+      "high_fiber"
+    ],
+    "allergen": [],
+    "disliked": [
+      "onion"
+    ]
+  },
+  "mealTypes": [
+    "dinner"
+  ],
+  "equipmentIds": [
+    "griddle"
+  ],
+  "locked": false,
+  "requiresVip": false,
+  "tips": "蔬菜切厚度相近；先烤較硬青椒、後烤茄子與菇類。",
+  "ingredients": [
+    {
+      "ingredientId": "bell_pepper",
+      "name": "青椒",
+      "quantity": 1.0,
+      "unit": "顆",
+      "group": "蔬菜",
+      "optional": false,
+      "foodReferenceId": "nut_bell_pepper",
+      "sortOrder": 0
+    },
+    {
+      "ingredientId": "eggplant",
+      "name": "茄子",
+      "quantity": 1.0,
+      "unit": "條",
+      "group": "蔬菜",
+      "optional": false,
+      "foodReferenceId": "nut_eggplant",
+      "sortOrder": 1
+    },
+    {
+      "ingredientId": "mushroom",
+      "name": "香菇",
+      "quantity": 80.0,
+      "unit": "g",
+      "group": "蔬菜",
+      "optional": false,
+      "foodReferenceId": "nut_mushroom",
+      "sortOrder": 2
+    },
+    {
+      "ingredientId": "onion",
+      "name": "洋蔥",
+      "quantity": 0.5,
+      "unit": "顆",
+      "group": "蔬菜",
+      "optional": true,
+      "foodReferenceId": "nut_onion",
+      "sortOrder": 3
+    },
+    {
+      "ingredientId": "olive_oil",
+      "name": "橄欖油",
+      "quantity": 1.0,
+      "unit": "大匙",
+      "group": "調味料",
+      "optional": false,
+      "foodReferenceId": "nut_olive_oil",
+      "sortOrder": 4
+    },
+    {
+      "ingredientId": "salt",
+      "name": "食鹽",
+      "quantity": 0.3,
+      "unit": "茶匙",
+      "group": "調味料",
+      "optional": false,
+      "foodReferenceId": "nut_salt",
+      "sortOrder": 5
+    }
+  ],
+  "nutrition": null,
+  "imageUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_griddle_veg/recipe.png",
+  "imageOriginalUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_griddle_veg/recipe.png",
+  "steps": [
+    {
+      "step": 1,
+      "text": "青椒、茄子、洋蔥切適口片；香菇去蒂。",
+      "title": "備料",
+      "minutes": 6
+    },
+    {
+      "step": 2,
+      "text": "蔬菜薄刷橄欖油，撒少許鹽。",
+      "title": "調味",
+      "minutes": 2
+    },
+    {
+      "step": 3,
+      "text": "電烤盤預熱至中高溫。",
+      "title": "預熱",
+      "minutes": 3,
+      "heatLevel": "中高",
+      "tool": "griddle"
+    },
+    {
+      "step": 4,
+      "text": "先烤青椒與洋蔥 4 分鐘，再下茄子與香菇烤 4 分鐘。",
+      "title": "烤蔬菜",
+      "minutes": 8,
+      "heatLevel": "中高",
+      "tool": "griddle"
+    },
+    {
+      "step": 5,
+      "text": "翻面再烤 2 分鐘至上色，趁熱享用。",
+      "title": "完成",
+      "minutes": 2,
+      "heatLevel": "中高",
+      "tool": "griddle"
+    }
+  ],
+  "published": true
+}

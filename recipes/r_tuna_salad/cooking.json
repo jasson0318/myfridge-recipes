@@ -1,0 +1,29 @@
+{
+  "recipeId": "r_tuna_salad",
+  "version": 2,
+  "steps": [
+    {
+      "step": 1,
+      "text": "生菜洗淨瀝乾撕片；小黃瓜切片。",
+      "title": "備菜",
+      "minutes": 4
+    },
+    {
+      "step": 2,
+      "text": "大碗中混合生菜與小黃瓜。",
+      "title": "混合",
+      "minutes": 1
+    },
+    {
+      "step": 3,
+      "text": "鮪魚瀝油後弄散，鋪在蔬菜上。",
+      "title": "加鮪魚",
+      "minutes": 1
+    },
+    {
+      "step": 4,
+      "text": "淋橄欖油，依喜好加黑胡椒或檸檬汁。",
+      "title": "完成"
+    }
+  ]
+}

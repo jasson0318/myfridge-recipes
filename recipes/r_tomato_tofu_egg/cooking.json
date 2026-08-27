@@ -1,0 +1,44 @@
+{
+  "recipeId": "r_tomato_tofu_egg",
+  "version": 2,
+  "steps": [
+    {
+      "step": 1,
+      "text": "番茄切塊；豆腐切厚片吸乾；雞蛋加少許鹽打勻。",
+      "title": "備料",
+      "minutes": 4
+    },
+    {
+      "step": 2,
+      "text": "平底鍋中火熱油，先炒蛋至半熟盛起。",
+      "title": "炒蛋",
+      "minutes": 1,
+      "heatLevel": "中火",
+      "tool": "pan"
+    },
+    {
+      "step": 3,
+      "text": "同鍋下豆腐，兩面煎至微金黃。",
+      "title": "煎豆腐",
+      "minutes": 4,
+      "heatLevel": "中火",
+      "tool": "pan"
+    },
+    {
+      "step": 4,
+      "text": "加入番茄，中小火翻炒至出汁、豆腐入味。",
+      "title": "炒番茄",
+      "minutes": 4,
+      "heatLevel": "中小火",
+      "tool": "pan"
+    },
+    {
+      "step": 5,
+      "text": "倒回蛋花輕拌，撒蔥花起鍋。",
+      "title": "合炒完成",
+      "minutes": 1,
+      "heatLevel": "中小火",
+      "tool": "pan"
+    }
+  ]
+}
