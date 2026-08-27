@@ -1,1 +1,10 @@
-{"recipeId":"r_r4_test_recipe","version":1,"steps":[{"step":1,"text":"R4.2 test step only."}]}
+{
+  "recipeId": "r_r4_test_recipe",
+  "version": 2,
+  "steps": [
+    {
+      "step": 1,
+      "text": "R4.2 test step only."
+    }
+  ]
+}
