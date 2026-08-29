@@ -3,42 +3,213 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>薑蒸鱈魚 — MyFridge</title>
+  <title>薑蒸鱈魚 — MyFridge 食譜</title>
   <link rel="stylesheet" href="../../assets/site.css" />
 </head>
 <body>
   <div class="wrap">
-    <p class="muted"><a href="../../">← 返回列表</a></p>
-    <header>
-      <h1>薑蒸鱈魚</h1>
-      <div class="meta">
-        <span class="badge">r_cod_ginger</span>
-        <span>待補資料</span>
-        <span>15 分鐘</span>
-        <span>簡單</span>
-        <span class="badge free">FREE</span>
-      </div>
-      <p>清蒸鎖住鱈魚的鮮嫩多汁，搭配薑絲與青蔥去腥提香，健康少油又美味！</p>
-    </header>
+    <nav class="top-nav">
+      <a href="../../" class="back-link">← 返回食譜列表</a>
+    </nav>
 
-    <section class="panel">
-      <h2 style="margin-top:0">Hero</h2>
-      <img class="hero-img" src="hero.png" alt="薑蒸鱈魚" loading="lazy" decoding="async" />
-    </section>
-
-    <section class="panel">
-      <h2 style="margin-top:0">完整食譜圖</h2>
-      <div class="recipe-sheet-wrap">
+    <article class="recipe-article">
+      <div class="recipe-hero-wrap">
         <img
-          class="recipe-sheet"
-          src="recipe.png"
-          alt="薑蒸鱈魚 完整食譜"
+          src="hero.png"
+          alt="薑蒸鱈魚"
+          class="hero-img zoomable-img"
+          data-zoom-src="hero.png"
+          data-zoom-title="薑蒸鱈魚"
           loading="lazy"
-          decoding="async"
         />
       </div>
-      <p class="muted">來源：recipe.png（完整食譜總圖）。保持原始比例，不裁切、不變形。</p>
-    </section>
+
+      <header class="recipe-header">
+        <h1 class="recipe-title">薑蒸鱈魚</h1>
+        <div class="meta-row">
+          <span class="meta-badge badge-time">⏱️ 15 分鐘</span>
+      <span class="meta-badge badge-diff">🍳 簡單</span>
+      <span class="meta-badge badge-servings">👥 2 人份</span>
+      <span class="meta-badge badge-free">FREE</span>
+        </div>
+      </header>
+
+      <div class="desc-card">
+    <p class="desc-text">清蒸鎖住鱈魚的鮮嫩多汁，搭配薑絲與青蔥去腥提香，健康少油又美味！</p>
   </div>
+
+      <div class="content-grid">
+        <div class="main-col">
+          <section class="card guide-card">
+            <div class="card-head">
+              <span class="head-icon">📖</span>
+              <h2>食譜指南</h2>
+              <span class="head-tip">點擊可放大檢視 🔍</span>
+            </div>
+            <div class="sheet-wrap">
+              <img
+                src="recipe.png"
+                alt="薑蒸鱈魚 食譜指南"
+                class="sheet-img zoomable-img"
+                data-zoom-src="recipe.png"
+                data-zoom-title="薑蒸鱈魚 食譜指南"
+                loading="lazy"
+              />
+            </div>
+          </section>
+
+
+
+
+        </div>
+
+        <aside class="side-col">
+          <section class="card ing-card">
+            <div class="card-head">
+              <span class="head-icon">🥗</span>
+              <h2>食材清單</h2>
+              <span class="head-sub">2 人份</span>
+            </div>
+            <ul class="ing-list">
+          <li class="ing-item">
+            <div class="ing-name-wrap">
+              <span class="ing-name">鱈魚</span>
+              
+            </div>
+            <span class="ing-qty">300 g</span>
+          </li>
+          <li class="ing-item">
+            <div class="ing-name-wrap">
+              <span class="ing-name">薑</span>
+              
+            </div>
+            <span class="ing-qty">30 g</span>
+          </li>
+          <li class="ing-item">
+            <div class="ing-name-wrap">
+              <span class="ing-name">青蔥</span>
+              
+            </div>
+            <span class="ing-qty">2 支</span>
+          </li>
+          <li class="ing-item">
+            <div class="ing-name-wrap">
+              <span class="ing-name">紅辣椒</span>
+              <span class="ing-opt-badge">可選</span>
+            </div>
+            <span class="ing-qty">0.5 根</span>
+          </li>
+          <li class="ing-item">
+            <div class="ing-name-wrap">
+              <span class="ing-name">米酒</span>
+              
+            </div>
+            <span class="ing-qty">1 大匙</span>
+          </li>
+          <li class="ing-item">
+            <div class="ing-name-wrap">
+              <span class="ing-name">醬油</span>
+              
+            </div>
+            <span class="ing-qty">1 大匙</span>
+          </li>
+          <li class="ing-item">
+            <div class="ing-name-wrap">
+              <span class="ing-name">白胡椒粉</span>
+              
+            </div>
+            <span class="ing-qty">0.3 少許</span>
+          </li>
+          <li class="ing-item">
+            <div class="ing-name-wrap">
+              <span class="ing-name">香油</span>
+              
+            </div>
+            <span class="ing-qty">1 小匙</span>
+          </li>
+            </ul>
+          </section>
+
+      <section class="card nutrition-card">
+        <div class="card-head">
+          <span class="head-icon">⚡</span>
+          <h2>營養標示</h2>
+          <span class="head-sub">每份估算</span>
+        </div>
+        <div class="nutrition-grid">
+          <div class="nut-cell">
+            <span class="nut-label">熱量</span>
+            <span class="nut-val">210 <small>kcal</small></span>
+          </div>
+          <div class="nut-cell">
+            <span class="nut-label">蛋白質</span>
+            <span class="nut-val">26.0 <small>g</small></span>
+          </div>
+          <div class="nut-cell">
+            <span class="nut-label">脂肪</span>
+            <span class="nut-val">8.0 <small>g</small></span>
+          </div>
+          <div class="nut-cell">
+            <span class="nut-label">碳水化合物</span>
+            <span class="nut-val">4.0 <small>g</small></span>
+          </div>
+          <div class="nut-cell">
+            <span class="nut-label">膳食纖維</span>
+            <span class="nut-val">- <small>g</small></span>
+          </div>
+          <div class="nut-cell">
+            <span class="nut-label">鈉</span>
+            <span class="nut-val">580 <small>mg</small></span>
+          </div>
+        </div>
+      </section>
+
+
+        </aside>
+      </div>
+    </article>
+  </div>
+
+  <dialog id="zoomDialog" class="zoom-dialog">
+    <div class="zoom-header">
+      <span id="zoomTitle">圖片放大檢視</span>
+      <div class="zoom-actions">
+        <a id="zoomNewTab" class="btn-sm" href="#" target="_blank" rel="noopener">新分頁開啟 ↗</a>
+        <button type="button" class="btn-sm" id="zoomClose">✕ 關閉</button>
+      </div>
+    </div>
+    <div class="zoom-body">
+      <img id="zoomImg" src="" alt="放大預覽" />
+    </div>
+  </dialog>
+
+  <script>
+    (function() {
+      const dialog = document.getElementById('zoomDialog');
+      const img = document.getElementById('zoomImg');
+      const title = document.getElementById('zoomTitle');
+      const newTab = document.getElementById('zoomNewTab');
+      const closeBtn = document.getElementById('zoomClose');
+      if (dialog && img) {
+        document.querySelectorAll('.zoomable-img').forEach(el => {
+          el.addEventListener('click', () => {
+            const src = el.getAttribute('data-zoom-src') || el.src;
+            const heading = el.getAttribute('data-zoom-title') || el.alt || '圖片放大檢視';
+            img.src = src;
+            if (title) title.textContent = heading;
+            if (newTab) newTab.href = src;
+            if (typeof dialog.showModal === 'function') dialog.showModal();
+          });
+        });
+        if (closeBtn) closeBtn.addEventListener('click', () => dialog.close());
+        dialog.addEventListener('click', (e) => {
+          const rect = dialog.getBoundingClientRect();
+          if (e.clientY < rect.top || e.clientY > rect.bottom || e.clientX < rect.left || e.clientX > rect.right) {
+            dialog.close();
+          }
+        });
+      }
+    })();
+  </script>
 </body>
 </html>
