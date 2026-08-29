@@ -1,0 +1,139 @@
+{
+  "recipeId": "r_salmon_tofu",
+  "name": "鮭魚豆腐湯",
+  "category": "待補資料",
+  "description": "鮭魚富含優質蛋白與Omega-3，搭配豆腐與海帶，清爽鮮甜、營養均衡！",
+  "cookingTime": 30,
+  "cookingMinutes": 30,
+  "prepMinutes": 10,
+  "cookMinutes": 20,
+  "servings": 2,
+  "difficulty": "簡單",
+  "access": "FREE",
+  "accessLevel": "FREE",
+  "isPremium": false,
+  "version": 1,
+  "updatedAt": "2026-08-28T14:09:09.939220Z",
+  "heroUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_salmon_tofu/hero.png",
+  "recipeUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_salmon_tofu/",
+  "websiteUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_salmon_tofu/",
+  "thumbnailUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_salmon_tofu/hero.png",
+  "tags": {
+    "cuisine": [],
+    "goal": [],
+    "allergen": [],
+    "disliked": []
+  },
+  "mealTypes": [],
+  "equipmentIds": [],
+  "locked": false,
+  "requiresVip": false,
+  "tips": null,
+  "ingredients": [
+    {
+      "ingredientId": "salmon",
+      "name": "鮭魚",
+      "quantity": 300.0,
+      "unit": "g",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_salmon",
+      "sortOrder": 1
+    },
+    {
+      "ingredientId": "tofu",
+      "name": "嫩豆腐",
+      "quantity": 300.0,
+      "unit": "g",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_tofu",
+      "sortOrder": 2
+    },
+    {
+      "ingredientId": "seaweed",
+      "name": "海帶",
+      "quantity": 10.0,
+      "unit": "g",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_seaweed",
+      "sortOrder": 3
+    },
+    {
+      "ingredientId": "ginger",
+      "name": "薑",
+      "quantity": 3.0,
+      "unit": "片",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_ginger",
+      "sortOrder": 4
+    },
+    {
+      "ingredientId": "scallion",
+      "name": "青蔥",
+      "quantity": 1.0,
+      "unit": "支",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_scallion",
+      "sortOrder": 5
+    },
+    {
+      "ingredientId": "rice_wine",
+      "name": "米酒",
+      "quantity": 1.0,
+      "unit": "大匙",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_ext_rice_wine",
+      "sortOrder": 6
+    },
+    {
+      "ingredientId": "salt",
+      "name": "食鹽",
+      "quantity": 0.5,
+      "unit": "小匙",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_salt",
+      "sortOrder": 7
+    },
+    {
+      "ingredientId": "white_pepper_powder",
+      "name": "白胡椒粉",
+      "quantity": 0.3,
+      "unit": "少許",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_white_pepper_powder",
+      "sortOrder": 8
+    },
+    {
+      "ingredientId": "sesame_oil",
+      "name": "香油",
+      "quantity": 0.5,
+      "unit": "小匙",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_sesame_oil",
+      "sortOrder": 9
+    }
+  ],
+  "nutrition": {
+    "calories": 280.0,
+    "protein": 25.0,
+    "fat": 14.0,
+    "carbohydrate": 8.0,
+    "fiber": null,
+    "sodium": 620.0,
+    "source": "ocr_infographic",
+    "nutritionSource": "ocr_infographic",
+    "sourceNote": null
+  },
+  "imageUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_salmon_tofu/recipe.png",
+  "imageOriginalUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_salmon_tofu/recipe.png",
+  "steps": [],
+  "published": true
+}

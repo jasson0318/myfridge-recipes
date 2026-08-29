@@ -1,0 +1,119 @@
+{
+  "recipeId": "r_egg_tofu",
+  "name": "豆腐蒸蛋",
+  "category": "待補資料",
+  "description": "滑嫩雞蛋與柔滑嫩豆腐雙重口感，少油低熱量，老少咸宜的高蛋白健康料理！",
+  "cookingTime": 15,
+  "cookingMinutes": 15,
+  "prepMinutes": 5,
+  "cookMinutes": 10,
+  "servings": 2,
+  "difficulty": "簡單",
+  "access": "FREE",
+  "accessLevel": "FREE",
+  "isPremium": false,
+  "version": 1,
+  "updatedAt": "2026-08-28T14:09:01.189809Z",
+  "heroUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_egg_tofu/hero.png",
+  "recipeUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_egg_tofu/",
+  "websiteUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_egg_tofu/",
+  "thumbnailUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_egg_tofu/hero.png",
+  "tags": {
+    "cuisine": [],
+    "goal": [],
+    "allergen": [],
+    "disliked": []
+  },
+  "mealTypes": [],
+  "equipmentIds": [],
+  "locked": false,
+  "requiresVip": false,
+  "tips": null,
+  "ingredients": [
+    {
+      "ingredientId": "egg",
+      "name": "雞蛋",
+      "quantity": 3.0,
+      "unit": "顆",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_egg",
+      "sortOrder": 1
+    },
+    {
+      "ingredientId": "tofu",
+      "name": "嫩豆腐",
+      "quantity": 300.0,
+      "unit": "g",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_tofu",
+      "sortOrder": 2
+    },
+    {
+      "ingredientId": "scallion",
+      "name": "青蔥",
+      "quantity": 1.0,
+      "unit": "支",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_scallion",
+      "sortOrder": 3
+    },
+    {
+      "ingredientId": "soy_sauce",
+      "name": "醬油",
+      "quantity": 1.0,
+      "unit": "小匙",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_soy_sauce",
+      "sortOrder": 4
+    },
+    {
+      "ingredientId": "sesame_oil",
+      "name": "香油",
+      "quantity": 0.5,
+      "unit": "小匙",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_sesame_oil",
+      "sortOrder": 5
+    },
+    {
+      "ingredientId": "salt",
+      "name": "食鹽",
+      "quantity": 0.3,
+      "unit": "小匙",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_salt",
+      "sortOrder": 6
+    },
+    {
+      "ingredientId": "white_pepper_powder",
+      "name": "白胡椒粉",
+      "quantity": 0.3,
+      "unit": "少許",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_white_pepper_powder",
+      "sortOrder": 7
+    }
+  ],
+  "nutrition": {
+    "calories": 190.0,
+    "protein": 16.0,
+    "fat": 12.0,
+    "carbohydrate": 4.0,
+    "fiber": null,
+    "sodium": 480.0,
+    "source": "ocr_infographic",
+    "nutritionSource": "ocr_infographic",
+    "sourceNote": null
+  },
+  "imageUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_egg_tofu/recipe.png",
+  "imageOriginalUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_egg_tofu/recipe.png",
+  "steps": [],
+  "published": true
+}

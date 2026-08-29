@@ -1,0 +1,149 @@
+{
+  "recipeId": "r_fish_tomato_soup",
+  "name": "番茄魚片湯",
+  "category": "待補資料",
+  "description": "酸甜開胃的番茄魚片湯，魚肉鮮嫩不腥，搭配蛋花與蔬菜，營養滿分又暖胃！",
+  "cookingTime": 25,
+  "cookingMinutes": 25,
+  "prepMinutes": 10,
+  "cookMinutes": 15,
+  "servings": 2,
+  "difficulty": "簡單",
+  "access": "FREE",
+  "accessLevel": "FREE",
+  "isPremium": false,
+  "version": 1,
+  "updatedAt": "2026-08-28T14:09:02.402917Z",
+  "heroUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_fish_tomato_soup/hero.png",
+  "recipeUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_fish_tomato_soup/",
+  "websiteUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_fish_tomato_soup/",
+  "thumbnailUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_fish_tomato_soup/hero.png",
+  "tags": {
+    "cuisine": [],
+    "goal": [],
+    "allergen": [],
+    "disliked": []
+  },
+  "mealTypes": [],
+  "equipmentIds": [],
+  "locked": false,
+  "requiresVip": false,
+  "tips": null,
+  "ingredients": [
+    {
+      "ingredientId": "cod",
+      "name": "鱈魚",
+      "quantity": 250.0,
+      "unit": "g",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_cod",
+      "sortOrder": 1
+    },
+    {
+      "ingredientId": "tomato",
+      "name": "番茄",
+      "quantity": 300.0,
+      "unit": "g",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_tomato",
+      "sortOrder": 2
+    },
+    {
+      "ingredientId": "egg",
+      "name": "雞蛋",
+      "quantity": 1.0,
+      "unit": "顆",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_egg",
+      "sortOrder": 3
+    },
+    {
+      "ingredientId": "onion",
+      "name": "洋蔥",
+      "quantity": 0.25,
+      "unit": "顆",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_onion",
+      "sortOrder": 4
+    },
+    {
+      "ingredientId": "scallion",
+      "name": "青蔥",
+      "quantity": 1.0,
+      "unit": "支",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_scallion",
+      "sortOrder": 5
+    },
+    {
+      "ingredientId": "garlic",
+      "name": "蒜頭",
+      "quantity": 2.0,
+      "unit": "瓣",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_garlic",
+      "sortOrder": 6
+    },
+    {
+      "ingredientId": "ginger",
+      "name": "薑",
+      "quantity": 2.0,
+      "unit": "片",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_ginger",
+      "sortOrder": 7
+    },
+    {
+      "ingredientId": "salt",
+      "name": "食鹽",
+      "quantity": 0.5,
+      "unit": "小匙",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_salt",
+      "sortOrder": 8
+    },
+    {
+      "ingredientId": "white_pepper_powder",
+      "name": "白胡椒粉",
+      "quantity": 0.3,
+      "unit": "少許",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_white_pepper_powder",
+      "sortOrder": 9
+    },
+    {
+      "ingredientId": "sesame_oil",
+      "name": "香油",
+      "quantity": 0.5,
+      "unit": "小匙",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_sesame_oil",
+      "sortOrder": 10
+    }
+  ],
+  "nutrition": {
+    "calories": 230.0,
+    "protein": 23.0,
+    "fat": 8.0,
+    "carbohydrate": 12.0,
+    "fiber": null,
+    "sodium": 620.0,
+    "source": "ocr_infographic",
+    "nutritionSource": "ocr_infographic",
+    "sourceNote": null
+  },
+  "imageUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_fish_tomato_soup/recipe.png",
+  "imageOriginalUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_fish_tomato_soup/recipe.png",
+  "steps": [],
+  "published": true
+}

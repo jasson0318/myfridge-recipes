@@ -1,0 +1,149 @@
+{
+  "recipeId": "r_salmon_mushroom",
+  "name": "香煎鮭魚菇",
+  "category": "待補資料",
+  "description": "鮭魚外皮香酥、內裡鮮嫩多汁，搭配多種菇類的鮮甜與蒜香，健康又美味！",
+  "cookingTime": 25,
+  "cookingMinutes": 25,
+  "prepMinutes": 10,
+  "cookMinutes": 15,
+  "servings": 2,
+  "difficulty": "簡單",
+  "access": "FREE",
+  "accessLevel": "FREE",
+  "isPremium": false,
+  "version": 1,
+  "updatedAt": "2026-08-28T14:09:09.630219Z",
+  "heroUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_salmon_mushroom/hero.png",
+  "recipeUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_salmon_mushroom/",
+  "websiteUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_salmon_mushroom/",
+  "thumbnailUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_salmon_mushroom/hero.png",
+  "tags": {
+    "cuisine": [],
+    "goal": [],
+    "allergen": [],
+    "disliked": []
+  },
+  "mealTypes": [],
+  "equipmentIds": [],
+  "locked": false,
+  "requiresVip": false,
+  "tips": null,
+  "ingredients": [
+    {
+      "ingredientId": "salmon",
+      "name": "鮭魚",
+      "quantity": 300.0,
+      "unit": "g",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_salmon",
+      "sortOrder": 1
+    },
+    {
+      "ingredientId": "mushroom",
+      "name": "香菇",
+      "quantity": 4.0,
+      "unit": "朵",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_mushroom",
+      "sortOrder": 2
+    },
+    {
+      "ingredientId": "shimeji_mushroom",
+      "name": "鴻喜菇",
+      "quantity": 100.0,
+      "unit": "g",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_shimeji_mushroom",
+      "sortOrder": 3
+    },
+    {
+      "ingredientId": "king_oyster_mushroom",
+      "name": "杏鮑菇",
+      "quantity": 0.5,
+      "unit": "根",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_king_oyster_mushroom",
+      "sortOrder": 4
+    },
+    {
+      "ingredientId": "garlic",
+      "name": "蒜頭",
+      "quantity": 3.0,
+      "unit": "瓣",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_garlic",
+      "sortOrder": 5
+    },
+    {
+      "ingredientId": "olive_oil",
+      "name": "橄欖油",
+      "quantity": 1.0,
+      "unit": "大匙",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_olive_oil",
+      "sortOrder": 6
+    },
+    {
+      "ingredientId": "butter",
+      "name": "奶油",
+      "quantity": 1.0,
+      "unit": "小匙",
+      "group": null,
+      "optional": true,
+      "foodReferenceId": "nut_butter",
+      "sortOrder": 7
+    },
+    {
+      "ingredientId": "salt",
+      "name": "食鹽",
+      "quantity": 0.5,
+      "unit": "小匙",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_salt",
+      "sortOrder": 8
+    },
+    {
+      "ingredientId": "black_pepper_powder",
+      "name": "黑胡椒粉",
+      "quantity": 0.3,
+      "unit": "少許",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_black_pepper_powder",
+      "sortOrder": 9
+    },
+    {
+      "ingredientId": "lemon",
+      "name": "檸檬",
+      "quantity": 0.25,
+      "unit": "顆",
+      "group": null,
+      "optional": true,
+      "foodReferenceId": "nut_lemon",
+      "sortOrder": 10
+    }
+  ],
+  "nutrition": {
+    "calories": 350.0,
+    "protein": 28.0,
+    "fat": 21.0,
+    "carbohydrate": 8.0,
+    "fiber": null,
+    "sodium": 520.0,
+    "source": "ocr_infographic",
+    "nutritionSource": "ocr_infographic",
+    "sourceNote": null
+  },
+  "imageUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_salmon_mushroom/recipe.png",
+  "imageOriginalUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_salmon_mushroom/recipe.png",
+  "steps": [],
+  "published": true
+}

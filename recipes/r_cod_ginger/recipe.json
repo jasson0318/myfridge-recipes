@@ -1,0 +1,129 @@
+{
+  "recipeId": "r_cod_ginger",
+  "name": "薑蒸鱈魚",
+  "category": "待補資料",
+  "description": "清蒸鎖住鱈魚的鮮嫩多汁，搭配薑絲與青蔥去腥提香，健康少油又美味！",
+  "cookingTime": 15,
+  "cookingMinutes": 15,
+  "prepMinutes": 5,
+  "cookMinutes": 10,
+  "servings": 2,
+  "difficulty": "簡單",
+  "access": "FREE",
+  "accessLevel": "FREE",
+  "isPremium": false,
+  "version": 1,
+  "updatedAt": "2026-08-28T14:09:00.033245Z",
+  "heroUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_cod_ginger/hero.png",
+  "recipeUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_cod_ginger/",
+  "websiteUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_cod_ginger/",
+  "thumbnailUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_cod_ginger/hero.png",
+  "tags": {
+    "cuisine": [],
+    "goal": [],
+    "allergen": [],
+    "disliked": []
+  },
+  "mealTypes": [],
+  "equipmentIds": [],
+  "locked": false,
+  "requiresVip": false,
+  "tips": null,
+  "ingredients": [
+    {
+      "ingredientId": "cod",
+      "name": "鱈魚",
+      "quantity": 300.0,
+      "unit": "g",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_cod",
+      "sortOrder": 1
+    },
+    {
+      "ingredientId": "ginger",
+      "name": "薑",
+      "quantity": 30.0,
+      "unit": "g",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_ginger",
+      "sortOrder": 2
+    },
+    {
+      "ingredientId": "scallion",
+      "name": "青蔥",
+      "quantity": 2.0,
+      "unit": "支",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_scallion",
+      "sortOrder": 3
+    },
+    {
+      "ingredientId": "korean_chili_pepper",
+      "name": "紅辣椒",
+      "quantity": 0.5,
+      "unit": "根",
+      "group": null,
+      "optional": true,
+      "foodReferenceId": "nut_korean_chili_pepper",
+      "sortOrder": 4
+    },
+    {
+      "ingredientId": "rice_wine",
+      "name": "米酒",
+      "quantity": 1.0,
+      "unit": "大匙",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_ext_rice_wine",
+      "sortOrder": 5
+    },
+    {
+      "ingredientId": "soy_sauce",
+      "name": "醬油",
+      "quantity": 1.0,
+      "unit": "大匙",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_soy_sauce",
+      "sortOrder": 6
+    },
+    {
+      "ingredientId": "white_pepper_powder",
+      "name": "白胡椒粉",
+      "quantity": 0.3,
+      "unit": "少許",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_white_pepper_powder",
+      "sortOrder": 7
+    },
+    {
+      "ingredientId": "sesame_oil",
+      "name": "香油",
+      "quantity": 1.0,
+      "unit": "小匙",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_sesame_oil",
+      "sortOrder": 8
+    }
+  ],
+  "nutrition": {
+    "calories": 210.0,
+    "protein": 26.0,
+    "fat": 8.0,
+    "carbohydrate": 4.0,
+    "fiber": null,
+    "sodium": 580.0,
+    "source": "ocr_infographic",
+    "nutritionSource": "ocr_infographic",
+    "sourceNote": null
+  },
+  "imageUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_cod_ginger/recipe.png",
+  "imageOriginalUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_cod_ginger/recipe.png",
+  "steps": [],
+  "published": true
+}

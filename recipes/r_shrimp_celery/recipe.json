@@ -1,0 +1,129 @@
+{
+  "recipeId": "r_shrimp_celery",
+  "name": "芹菜炒蝦仁",
+  "category": "待補資料",
+  "description": "爽脆芹菜與鮮甜蝦仁快炒，清香解膩，爽口脆嫩、低卡健康！",
+  "cookingTime": 12,
+  "cookingMinutes": 12,
+  "prepMinutes": 5,
+  "cookMinutes": 7,
+  "servings": 2,
+  "difficulty": "簡單",
+  "access": "FREE",
+  "accessLevel": "FREE",
+  "isPremium": false,
+  "version": 1,
+  "updatedAt": "2026-08-28T14:09:11.752487Z",
+  "heroUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_shrimp_celery/hero.png",
+  "recipeUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_shrimp_celery/",
+  "websiteUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_shrimp_celery/",
+  "thumbnailUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_shrimp_celery/hero.png",
+  "tags": {
+    "cuisine": [],
+    "goal": [],
+    "allergen": [],
+    "disliked": []
+  },
+  "mealTypes": [],
+  "equipmentIds": [],
+  "locked": false,
+  "requiresVip": false,
+  "tips": null,
+  "ingredients": [
+    {
+      "ingredientId": "shrimp",
+      "name": "蝦",
+      "quantity": 200.0,
+      "unit": "g",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_shrimp",
+      "sortOrder": 1
+    },
+    {
+      "ingredientId": "celery",
+      "name": "芹菜",
+      "quantity": 200.0,
+      "unit": "g",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_celery",
+      "sortOrder": 2
+    },
+    {
+      "ingredientId": "bell_pepper",
+      "name": "甜椒",
+      "quantity": 0.25,
+      "unit": "顆",
+      "group": null,
+      "optional": true,
+      "foodReferenceId": "nut_bell_pepper",
+      "sortOrder": 3
+    },
+    {
+      "ingredientId": "garlic",
+      "name": "蒜頭",
+      "quantity": 3.0,
+      "unit": "瓣",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_garlic",
+      "sortOrder": 4
+    },
+    {
+      "ingredientId": "salt",
+      "name": "食鹽",
+      "quantity": 0.3,
+      "unit": "小匙",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_salt",
+      "sortOrder": 5
+    },
+    {
+      "ingredientId": "white_pepper_powder",
+      "name": "白胡椒粉",
+      "quantity": 0.3,
+      "unit": "少許",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_white_pepper_powder",
+      "sortOrder": 6
+    },
+    {
+      "ingredientId": "rice_wine",
+      "name": "米酒",
+      "quantity": 1.0,
+      "unit": "大匙",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_ext_rice_wine",
+      "sortOrder": 7
+    },
+    {
+      "ingredientId": "oil",
+      "name": "沙拉油",
+      "quantity": 1.0,
+      "unit": "大匙",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_oil",
+      "sortOrder": 8
+    }
+  ],
+  "nutrition": {
+    "calories": 180.0,
+    "protein": 22.0,
+    "fat": 6.5,
+    "carbohydrate": 5.5,
+    "fiber": null,
+    "sodium": 500.0,
+    "source": "ocr_infographic",
+    "nutritionSource": "ocr_infographic",
+    "sourceNote": null
+  },
+  "imageUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_shrimp_celery/recipe.png",
+  "imageOriginalUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_shrimp_celery/recipe.png",
+  "steps": [],
+  "published": true
+}

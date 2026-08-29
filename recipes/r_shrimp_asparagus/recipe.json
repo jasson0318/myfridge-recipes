@@ -1,0 +1,129 @@
+{
+  "recipeId": "r_shrimp_asparagus",
+  "name": "蘆筍炒蝦仁",
+  "category": "待補資料",
+  "description": "翠綠鮮嫩蘆筍搭配爽脆鮮甜蝦仁，清爽低卡、色香味俱全的經典佳餚！",
+  "cookingTime": 12,
+  "cookingMinutes": 12,
+  "prepMinutes": 5,
+  "cookMinutes": 7,
+  "servings": 2,
+  "difficulty": "簡單",
+  "access": "FREE",
+  "accessLevel": "FREE",
+  "isPremium": false,
+  "version": 1,
+  "updatedAt": "2026-08-28T14:09:10.557835Z",
+  "heroUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_shrimp_asparagus/hero.png",
+  "recipeUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_shrimp_asparagus/",
+  "websiteUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_shrimp_asparagus/",
+  "thumbnailUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_shrimp_asparagus/hero.png",
+  "tags": {
+    "cuisine": [],
+    "goal": [],
+    "allergen": [],
+    "disliked": []
+  },
+  "mealTypes": [],
+  "equipmentIds": [],
+  "locked": false,
+  "requiresVip": false,
+  "tips": null,
+  "ingredients": [
+    {
+      "ingredientId": "shrimp",
+      "name": "蝦",
+      "quantity": 200.0,
+      "unit": "g",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_shrimp",
+      "sortOrder": 1
+    },
+    {
+      "ingredientId": "asparagus",
+      "name": "蘆筍",
+      "quantity": 200.0,
+      "unit": "g",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_asparagus",
+      "sortOrder": 2
+    },
+    {
+      "ingredientId": "garlic",
+      "name": "蒜頭",
+      "quantity": 3.0,
+      "unit": "瓣",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_garlic",
+      "sortOrder": 3
+    },
+    {
+      "ingredientId": "korean_chili_pepper",
+      "name": "紅辣椒",
+      "quantity": 0.5,
+      "unit": "根",
+      "group": null,
+      "optional": true,
+      "foodReferenceId": "nut_korean_chili_pepper",
+      "sortOrder": 4
+    },
+    {
+      "ingredientId": "salt",
+      "name": "食鹽",
+      "quantity": 0.3,
+      "unit": "小匙",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_salt",
+      "sortOrder": 5
+    },
+    {
+      "ingredientId": "white_pepper_powder",
+      "name": "白胡椒粉",
+      "quantity": 0.3,
+      "unit": "少許",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_white_pepper_powder",
+      "sortOrder": 6
+    },
+    {
+      "ingredientId": "rice_wine",
+      "name": "米酒",
+      "quantity": 1.0,
+      "unit": "大匙",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_ext_rice_wine",
+      "sortOrder": 7
+    },
+    {
+      "ingredientId": "oil",
+      "name": "沙拉油",
+      "quantity": 1.0,
+      "unit": "大匙",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_oil",
+      "sortOrder": 8
+    }
+  ],
+  "nutrition": {
+    "calories": 180.0,
+    "protein": 22.0,
+    "fat": 6.5,
+    "carbohydrate": 6.0,
+    "fiber": null,
+    "sodium": 480.0,
+    "source": "ocr_infographic",
+    "nutritionSource": "ocr_infographic",
+    "sourceNote": null
+  },
+  "imageUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_shrimp_asparagus/recipe.png",
+  "imageOriginalUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_shrimp_asparagus/recipe.png",
+  "steps": [],
+  "published": true
+}

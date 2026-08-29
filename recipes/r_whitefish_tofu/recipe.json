@@ -1,0 +1,159 @@
+{
+  "recipeId": "r_whitefish_tofu",
+  "name": "白肉魚豆腐煮",
+  "category": "待補資料",
+  "description": "清淡鮮美家常湯品，白肉魚搭配嫩豆腐與時蔬，營養均衡、低脂低熱量，老少咸宜！",
+  "cookingTime": 25,
+  "cookingMinutes": 25,
+  "prepMinutes": 10,
+  "cookMinutes": 15,
+  "servings": 2,
+  "difficulty": "簡單",
+  "access": "FREE",
+  "accessLevel": "FREE",
+  "isPremium": false,
+  "version": 1,
+  "updatedAt": "2026-08-28T14:09:15.316343Z",
+  "heroUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_whitefish_tofu/hero.png",
+  "recipeUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_whitefish_tofu/",
+  "websiteUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_whitefish_tofu/",
+  "thumbnailUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_whitefish_tofu/hero.png",
+  "tags": {
+    "cuisine": [],
+    "goal": [],
+    "allergen": [],
+    "disliked": []
+  },
+  "mealTypes": [],
+  "equipmentIds": [],
+  "locked": false,
+  "requiresVip": false,
+  "tips": null,
+  "ingredients": [
+    {
+      "ingredientId": "cod",
+      "name": "鱈魚",
+      "quantity": 250.0,
+      "unit": "g",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_cod",
+      "sortOrder": 1
+    },
+    {
+      "ingredientId": "tofu",
+      "name": "嫩豆腐",
+      "quantity": 300.0,
+      "unit": "g",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_tofu",
+      "sortOrder": 2
+    },
+    {
+      "ingredientId": "mushroom",
+      "name": "香菇",
+      "quantity": 3.0,
+      "unit": "朵",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_mushroom",
+      "sortOrder": 3
+    },
+    {
+      "ingredientId": "carrot",
+      "name": "胡蘿蔔",
+      "quantity": 50.0,
+      "unit": "g",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_carrot",
+      "sortOrder": 4
+    },
+    {
+      "ingredientId": "bok_choy",
+      "name": "青江菜",
+      "quantity": 2.0,
+      "unit": "株",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_bok_choy",
+      "sortOrder": 5
+    },
+    {
+      "ingredientId": "ginger",
+      "name": "薑",
+      "quantity": 3.0,
+      "unit": "片",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_ginger",
+      "sortOrder": 6
+    },
+    {
+      "ingredientId": "scallion",
+      "name": "青蔥",
+      "quantity": 1.0,
+      "unit": "支",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_scallion",
+      "sortOrder": 7
+    },
+    {
+      "ingredientId": "rice_wine",
+      "name": "米酒",
+      "quantity": 1.0,
+      "unit": "大匙",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_ext_rice_wine",
+      "sortOrder": 8
+    },
+    {
+      "ingredientId": "salt",
+      "name": "食鹽",
+      "quantity": 0.5,
+      "unit": "小匙",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_salt",
+      "sortOrder": 9
+    },
+    {
+      "ingredientId": "white_pepper_powder",
+      "name": "白胡椒粉",
+      "quantity": 0.3,
+      "unit": "少許",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_white_pepper_powder",
+      "sortOrder": 10
+    },
+    {
+      "ingredientId": "sesame_oil",
+      "name": "香油",
+      "quantity": 0.5,
+      "unit": "小匙",
+      "group": null,
+      "optional": true,
+      "foodReferenceId": "nut_sesame_oil",
+      "sortOrder": 11
+    }
+  ],
+  "nutrition": {
+    "calories": 260.0,
+    "protein": 23.0,
+    "fat": 10.0,
+    "carbohydrate": 14.0,
+    "fiber": null,
+    "sodium": 680.0,
+    "source": "ocr_infographic",
+    "nutritionSource": "ocr_infographic",
+    "sourceNote": null
+  },
+  "imageUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_whitefish_tofu/recipe.png",
+  "imageOriginalUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_whitefish_tofu/recipe.png",
+  "steps": [],
+  "published": true
+}

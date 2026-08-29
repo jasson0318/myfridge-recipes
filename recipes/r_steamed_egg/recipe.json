@@ -1,0 +1,119 @@
+{
+  "recipeId": "r_steamed_egg",
+  "name": "日式茶碗蒸",
+  "category": "待補資料",
+  "description": "如布丁般滑嫩細緻的日式蒸蛋，加入雞肉、鮮蝦與香菇，高湯鮮味十足，暖心療癒！",
+  "cookingTime": 20,
+  "cookingMinutes": 20,
+  "prepMinutes": 5,
+  "cookMinutes": 15,
+  "servings": 2,
+  "difficulty": "簡單",
+  "access": "FREE",
+  "accessLevel": "FREE",
+  "isPremium": false,
+  "version": 1,
+  "updatedAt": "2026-08-28T14:09:15.008339Z",
+  "heroUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_steamed_egg/hero.png",
+  "recipeUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_steamed_egg/",
+  "websiteUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_steamed_egg/",
+  "thumbnailUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_steamed_egg/hero.png",
+  "tags": {
+    "cuisine": [],
+    "goal": [],
+    "allergen": [],
+    "disliked": []
+  },
+  "mealTypes": [],
+  "equipmentIds": [],
+  "locked": false,
+  "requiresVip": false,
+  "tips": null,
+  "ingredients": [
+    {
+      "ingredientId": "egg",
+      "name": "雞蛋",
+      "quantity": 2.0,
+      "unit": "顆",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_egg",
+      "sortOrder": 1
+    },
+    {
+      "ingredientId": "chicken_breast",
+      "name": "雞胸肉",
+      "quantity": 50.0,
+      "unit": "g",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_chicken_breast",
+      "sortOrder": 2
+    },
+    {
+      "ingredientId": "shrimp",
+      "name": "蝦",
+      "quantity": 2.0,
+      "unit": "隻",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_shrimp",
+      "sortOrder": 3
+    },
+    {
+      "ingredientId": "dried_shiitake",
+      "name": "乾香菇",
+      "quantity": 1.0,
+      "unit": "朵",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_dried_shiitake",
+      "sortOrder": 4
+    },
+    {
+      "ingredientId": "soy_sauce",
+      "name": "醬油",
+      "quantity": 0.5,
+      "unit": "小匙",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_soy_sauce",
+      "sortOrder": 5
+    },
+    {
+      "ingredientId": "mirin",
+      "name": "味醂",
+      "quantity": 0.5,
+      "unit": "小匙",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_mirin",
+      "sortOrder": 6
+    },
+    {
+      "ingredientId": "salt",
+      "name": "食鹽",
+      "quantity": 0.3,
+      "unit": "小匙",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_salt",
+      "sortOrder": 7
+    }
+  ],
+  "nutrition": {
+    "calories": 160.0,
+    "protein": 15.0,
+    "fat": 9.0,
+    "carbohydrate": 4.0,
+    "fiber": null,
+    "sodium": 580.0,
+    "source": "ocr_infographic",
+    "nutritionSource": "ocr_infographic",
+    "sourceNote": null
+  },
+  "imageUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_steamed_egg/recipe.png",
+  "imageOriginalUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_steamed_egg/recipe.png",
+  "steps": [],
+  "published": true
+}

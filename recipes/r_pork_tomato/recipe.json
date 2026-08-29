@@ -1,0 +1,159 @@
+{
+  "recipeId": "r_pork_tomato",
+  "name": "番茄燉豬肉",
+  "category": "待補資料",
+  "description": "番茄的酸甜與豬肉的鮮美完美融合，湯汁濃郁開胃，拌飯或單喝都很棒！",
+  "cookingTime": 60,
+  "cookingMinutes": 60,
+  "prepMinutes": 15,
+  "cookMinutes": 45,
+  "servings": 2,
+  "difficulty": "簡單",
+  "access": "FREE",
+  "accessLevel": "FREE",
+  "isPremium": false,
+  "version": 1,
+  "updatedAt": "2026-08-28T14:09:08.407755Z",
+  "heroUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_pork_tomato/hero.png",
+  "recipeUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_pork_tomato/",
+  "websiteUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_pork_tomato/",
+  "thumbnailUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_pork_tomato/hero.png",
+  "tags": {
+    "cuisine": [],
+    "goal": [],
+    "allergen": [],
+    "disliked": []
+  },
+  "mealTypes": [],
+  "equipmentIds": [],
+  "locked": false,
+  "requiresVip": false,
+  "tips": null,
+  "ingredients": [
+    {
+      "ingredientId": "pork",
+      "name": "豬里肌肉",
+      "quantity": 300.0,
+      "unit": "g",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_pork",
+      "sortOrder": 1
+    },
+    {
+      "ingredientId": "tomato",
+      "name": "番茄",
+      "quantity": 500.0,
+      "unit": "g",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_tomato",
+      "sortOrder": 2
+    },
+    {
+      "ingredientId": "onion",
+      "name": "洋蔥",
+      "quantity": 0.5,
+      "unit": "顆",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_onion",
+      "sortOrder": 3
+    },
+    {
+      "ingredientId": "carrot",
+      "name": "胡蘿蔔",
+      "quantity": 0.5,
+      "unit": "條",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_carrot",
+      "sortOrder": 4
+    },
+    {
+      "ingredientId": "garlic",
+      "name": "蒜頭",
+      "quantity": 3.0,
+      "unit": "瓣",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_garlic",
+      "sortOrder": 5
+    },
+    {
+      "ingredientId": "scallion",
+      "name": "青蔥",
+      "quantity": 1.0,
+      "unit": "支",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_scallion",
+      "sortOrder": 6
+    },
+    {
+      "ingredientId": "ketchup",
+      "name": "番茄醬",
+      "quantity": 1.0,
+      "unit": "大匙",
+      "group": null,
+      "optional": true,
+      "foodReferenceId": "nut_ketchup",
+      "sortOrder": 7
+    },
+    {
+      "ingredientId": "soy_sauce",
+      "name": "醬油",
+      "quantity": 1.0,
+      "unit": "大匙",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_soy_sauce",
+      "sortOrder": 8
+    },
+    {
+      "ingredientId": "salt",
+      "name": "食鹽",
+      "quantity": 0.5,
+      "unit": "小匙",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_salt",
+      "sortOrder": 9
+    },
+    {
+      "ingredientId": "black_pepper_powder",
+      "name": "黑胡椒粉",
+      "quantity": 0.3,
+      "unit": "少許",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_black_pepper_powder",
+      "sortOrder": 10
+    },
+    {
+      "ingredientId": "olive_oil",
+      "name": "橄欖油",
+      "quantity": 1.0,
+      "unit": "大匙",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_olive_oil",
+      "sortOrder": 11
+    }
+  ],
+  "nutrition": {
+    "calories": 430.0,
+    "protein": 27.0,
+    "fat": 18.0,
+    "carbohydrate": 38.0,
+    "fiber": null,
+    "sodium": 780.0,
+    "source": "ocr_infographic",
+    "nutritionSource": "ocr_infographic",
+    "sourceNote": null
+  },
+  "imageUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_pork_tomato/recipe.png",
+  "imageOriginalUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_pork_tomato/recipe.png",
+  "steps": [],
+  "published": true
+}

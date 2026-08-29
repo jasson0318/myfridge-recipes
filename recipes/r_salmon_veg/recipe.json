@@ -1,0 +1,139 @@
+{
+  "recipeId": "r_salmon_veg",
+  "name": "香煎鮭魚蔬菜",
+  "category": "待補資料",
+  "description": "外皮金黃酥脆、內裡鮮嫩的鮭魚，搭配繽紛時蔬，簡單煎出健康美味的一餐！",
+  "cookingTime": 25,
+  "cookingMinutes": 25,
+  "prepMinutes": 10,
+  "cookMinutes": 15,
+  "servings": 2,
+  "difficulty": "簡單",
+  "access": "FREE",
+  "accessLevel": "FREE",
+  "isPremium": false,
+  "version": 1,
+  "updatedAt": "2026-08-28T14:09:10.259838Z",
+  "heroUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_salmon_veg/hero.png",
+  "recipeUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_salmon_veg/",
+  "websiteUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_salmon_veg/",
+  "thumbnailUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_salmon_veg/hero.png",
+  "tags": {
+    "cuisine": [],
+    "goal": [],
+    "allergen": [],
+    "disliked": []
+  },
+  "mealTypes": [],
+  "equipmentIds": [],
+  "locked": false,
+  "requiresVip": false,
+  "tips": null,
+  "ingredients": [
+    {
+      "ingredientId": "salmon",
+      "name": "鮭魚",
+      "quantity": 300.0,
+      "unit": "g",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_salmon",
+      "sortOrder": 1
+    },
+    {
+      "ingredientId": "cauliflower",
+      "name": "花椰菜",
+      "quantity": 100.0,
+      "unit": "g",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_cauliflower",
+      "sortOrder": 2
+    },
+    {
+      "ingredientId": "bell_pepper",
+      "name": "甜椒",
+      "quantity": 0.5,
+      "unit": "顆",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_bell_pepper",
+      "sortOrder": 3
+    },
+    {
+      "ingredientId": "zucchini",
+      "name": "櫛瓜",
+      "quantity": 0.5,
+      "unit": "條",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_zucchini",
+      "sortOrder": 4
+    },
+    {
+      "ingredientId": "garlic",
+      "name": "蒜頭",
+      "quantity": 2.0,
+      "unit": "瓣",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_garlic",
+      "sortOrder": 5
+    },
+    {
+      "ingredientId": "olive_oil",
+      "name": "橄欖油",
+      "quantity": 1.0,
+      "unit": "大匙",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_olive_oil",
+      "sortOrder": 6
+    },
+    {
+      "ingredientId": "salt",
+      "name": "食鹽",
+      "quantity": 0.5,
+      "unit": "小匙",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_salt",
+      "sortOrder": 7
+    },
+    {
+      "ingredientId": "black_pepper_powder",
+      "name": "黑胡椒粉",
+      "quantity": 0.3,
+      "unit": "少許",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_black_pepper_powder",
+      "sortOrder": 8
+    },
+    {
+      "ingredientId": "lemon",
+      "name": "檸檬",
+      "quantity": 0.25,
+      "unit": "顆",
+      "group": null,
+      "optional": true,
+      "foodReferenceId": "nut_lemon",
+      "sortOrder": 9
+    }
+  ],
+  "nutrition": {
+    "calories": 390.0,
+    "protein": 28.0,
+    "fat": 24.0,
+    "carbohydrate": 12.0,
+    "fiber": null,
+    "sodium": 520.0,
+    "source": "ocr_infographic",
+    "nutritionSource": "ocr_infographic",
+    "sourceNote": null
+  },
+  "imageUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_salmon_veg/recipe.png",
+  "imageOriginalUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_salmon_veg/recipe.png",
+  "steps": [],
+  "published": true
+}

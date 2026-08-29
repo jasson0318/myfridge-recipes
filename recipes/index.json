@@ -1,39 +1,7 @@
 {
-  "generatedAt": "2026-08-27T12:59:17Z",
-  "count": 102,
+  "generatedAt": "2026-08-29T09:27:10Z",
+  "count": 117,
   "recipes": [
-    {
-      "recipeId": "r_15min_veg_fried_rice",
-      "name": "15分鐘時蔬炒飯",
-      "category": "快速料理",
-      "description": "剩飯加時蔬，15分鐘上桌。",
-      "cookingTime": 20,
-      "cookingMinutes": 20,
-      "servings": 2,
-      "difficulty": "簡單",
-      "heroUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_15min_veg_fried_rice/hero.png",
-      "thumbnail": "https://jasson0318.github.io/myfridge-recipes/recipes/r_15min_veg_fried_rice/hero.png",
-      "recipeUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_15min_veg_fried_rice/",
-      "access": "FREE",
-      "accessLevel": "FREE",
-      "isPremium": false,
-      "version": 2,
-      "updatedAt": "2026-08-26T13:54:01.859432Z",
-      "tags": {
-        "cuisine": [],
-        "goal": [],
-        "allergen": [],
-        "disliked": []
-      },
-      "mealTypes": [
-        "午餐",
-        "晚餐"
-      ],
-      "equipmentIds": [
-        "wok"
-      ],
-      "featured": false
-    },
     {
       "recipeId": "r_airfry_chicken",
       "name": "氣炸高蛋白雞胸",
@@ -117,100 +85,6 @@
       "featured": false
     },
     {
-      "recipeId": "r_avocado_toast_bfast",
-      "name": "酪梨吐司",
-      "category": "早餐",
-      "description": "酪梨泥抹吐司，快速又營養。",
-      "cookingTime": 20,
-      "cookingMinutes": 20,
-      "servings": 2,
-      "difficulty": "簡單",
-      "heroUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_avocado_toast_bfast/hero.png",
-      "thumbnail": "https://jasson0318.github.io/myfridge-recipes/recipes/r_avocado_toast_bfast/hero.png",
-      "recipeUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_avocado_toast_bfast/",
-      "access": "FREE",
-      "accessLevel": "FREE",
-      "isPremium": false,
-      "version": 2,
-      "updatedAt": "2026-08-26T13:54:02.394140Z",
-      "tags": {
-        "cuisine": [],
-        "goal": [],
-        "allergen": [],
-        "disliked": []
-      },
-      "mealTypes": [
-        "早餐"
-      ],
-      "equipmentIds": [
-        "pan"
-      ],
-      "featured": false
-    },
-    {
-      "recipeId": "r_banana_oat_pan",
-      "name": "香蕉燕麥煎餅",
-      "category": "早餐",
-      "description": "香蕉自然甜，燕麥增加飽足。",
-      "cookingTime": 20,
-      "cookingMinutes": 20,
-      "servings": 2,
-      "difficulty": "簡單",
-      "heroUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_banana_oat_pan/hero.png",
-      "thumbnail": "https://jasson0318.github.io/myfridge-recipes/recipes/r_banana_oat_pan/hero.png",
-      "recipeUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_banana_oat_pan/",
-      "access": "FREE",
-      "accessLevel": "FREE",
-      "isPremium": false,
-      "version": 2,
-      "updatedAt": "2026-08-26T13:54:02.394140Z",
-      "tags": {
-        "cuisine": [],
-        "goal": [],
-        "allergen": [],
-        "disliked": []
-      },
-      "mealTypes": [
-        "早餐"
-      ],
-      "equipmentIds": [
-        "pan"
-      ],
-      "featured": false
-    },
-    {
-      "recipeId": "r_beef_broccoli_stir",
-      "name": "花椰菜炒牛肉片",
-      "category": "主菜",
-      "description": "花椰菜爽脆搭配牛肉片快炒。",
-      "cookingTime": 20,
-      "cookingMinutes": 20,
-      "servings": 2,
-      "difficulty": "簡單",
-      "heroUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_beef_broccoli_stir/hero.png",
-      "thumbnail": "https://jasson0318.github.io/myfridge-recipes/recipes/r_beef_broccoli_stir/hero.png",
-      "recipeUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_beef_broccoli_stir/",
-      "access": "FREE",
-      "accessLevel": "FREE",
-      "isPremium": false,
-      "version": 2,
-      "updatedAt": "2026-08-26T13:54:02.394140Z",
-      "tags": {
-        "cuisine": [],
-        "goal": [],
-        "allergen": [],
-        "disliked": []
-      },
-      "mealTypes": [
-        "午餐",
-        "晚餐"
-      ],
-      "equipmentIds": [
-        "wok"
-      ],
-      "featured": false
-    },
-    {
       "recipeId": "r_beef_noodles",
       "name": "清燉牛肉麵",
       "category": "湯品",
@@ -250,100 +124,6 @@
       "equipmentIds": [
         "pot",
         "pressure_cooker"
-      ],
-      "featured": false
-    },
-    {
-      "recipeId": "r_beef_onion_stir",
-      "name": "洋蔥炒牛肉",
-      "category": "主菜",
-      "description": "洋蔥甜味融入牛肉。",
-      "cookingTime": 20,
-      "cookingMinutes": 20,
-      "servings": 2,
-      "difficulty": "簡單",
-      "heroUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_beef_onion_stir/hero.png",
-      "thumbnail": "https://jasson0318.github.io/myfridge-recipes/recipes/r_beef_onion_stir/hero.png",
-      "recipeUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_beef_onion_stir/",
-      "access": "FREE",
-      "accessLevel": "FREE",
-      "isPremium": false,
-      "version": 2,
-      "updatedAt": "2026-08-26T13:54:02.630602Z",
-      "tags": {
-        "cuisine": [],
-        "goal": [],
-        "allergen": [],
-        "disliked": []
-      },
-      "mealTypes": [
-        "晚餐"
-      ],
-      "equipmentIds": [
-        "wok"
-      ],
-      "featured": false
-    },
-    {
-      "recipeId": "r_bitter_melon_egg",
-      "name": "苦瓜烘蛋",
-      "category": "主菜",
-      "description": "苦甘平衡，夏天開胃。",
-      "cookingTime": 20,
-      "cookingMinutes": 20,
-      "servings": 2,
-      "difficulty": "簡單",
-      "heroUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_bitter_melon_egg/hero.png",
-      "thumbnail": "https://jasson0318.github.io/myfridge-recipes/recipes/r_bitter_melon_egg/hero.png",
-      "recipeUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_bitter_melon_egg/",
-      "access": "FREE",
-      "accessLevel": "FREE",
-      "isPremium": false,
-      "version": 2,
-      "updatedAt": "2026-08-26T13:54:02.630602Z",
-      "tags": {
-        "cuisine": [],
-        "goal": [],
-        "allergen": [],
-        "disliked": []
-      },
-      "mealTypes": [
-        "午餐"
-      ],
-      "equipmentIds": [
-        "pan"
-      ],
-      "featured": false
-    },
-    {
-      "recipeId": "r_bokchoy_garlic",
-      "name": "蒜蓉小白菜",
-      "category": "主菜",
-      "description": "簡單蒜蓉快炒，清爽不膩。",
-      "cookingTime": 20,
-      "cookingMinutes": 20,
-      "servings": 2,
-      "difficulty": "簡單",
-      "heroUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_bokchoy_garlic/hero.png",
-      "thumbnail": "https://jasson0318.github.io/myfridge-recipes/recipes/r_bokchoy_garlic/hero.png",
-      "recipeUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_bokchoy_garlic/",
-      "access": "FREE",
-      "accessLevel": "FREE",
-      "isPremium": false,
-      "version": 2,
-      "updatedAt": "2026-08-26T13:54:02.630602Z",
-      "tags": {
-        "cuisine": [],
-        "goal": [],
-        "allergen": [],
-        "disliked": []
-      },
-      "mealTypes": [
-        "午餐",
-        "晚餐"
-      ],
-      "equipmentIds": [
-        "wok"
       ],
       "featured": false
     },
@@ -437,129 +217,57 @@
       "featured": false
     },
     {
-      "recipeId": "r_cabbage_pork_roll",
-      "name": "高麗菜肉卷",
-      "category": "主菜",
-      "description": "高麗菜包覆肉餡，湯汁清甜。",
-      "cookingTime": 20,
-      "cookingMinutes": 20,
+      "recipeId": "r_chicken_bokchoy",
+      "name": "青江菜炒雞肉",
+      "category": "待補資料",
+      "description": "清脆的青江菜搭配嫩滑的雞肉，大火快炒保留食材鮮甜，簡單調味就能上桌，是超下飯的家常料理！",
+      "cookingTime": 15,
+      "cookingMinutes": 15,
       "servings": 2,
       "difficulty": "簡單",
-      "heroUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_cabbage_pork_roll/hero.png",
-      "thumbnail": "https://jasson0318.github.io/myfridge-recipes/recipes/r_cabbage_pork_roll/hero.png",
-      "recipeUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_cabbage_pork_roll/",
+      "heroUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_chicken_bokchoy/hero.png",
+      "thumbnail": "https://jasson0318.github.io/myfridge-recipes/recipes/r_chicken_bokchoy/hero.png",
+      "recipeUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_chicken_bokchoy/",
       "access": "FREE",
       "accessLevel": "FREE",
       "isPremium": false,
-      "version": 2,
-      "updatedAt": "2026-08-26T13:54:03.093088Z",
+      "version": 1,
+      "updatedAt": "2026-08-28T14:08:56.746995Z",
       "tags": {
         "cuisine": [],
         "goal": [],
         "allergen": [],
         "disliked": []
       },
-      "mealTypes": [
-        "晚餐"
-      ],
-      "equipmentIds": [
-        "pot"
-      ],
+      "mealTypes": [],
+      "equipmentIds": [],
       "featured": false
     },
     {
-      "recipeId": "r_celery_pork",
-      "name": "芹菜炒肉絲",
-      "category": "主菜",
-      "description": "芹菜爽脆，肉絲嫩滑。",
-      "cookingTime": 20,
-      "cookingMinutes": 20,
+      "recipeId": "r_chicken_broccoli",
+      "name": "青花菜炒雞肉",
+      "category": "待補資料",
+      "description": "爽脆可口的青花菜搭配嫩雞肉，色香味俱全，營養滿分又下飯，簡單快炒就能上桌！",
+      "cookingTime": 15,
+      "cookingMinutes": 15,
       "servings": 2,
       "difficulty": "簡單",
-      "heroUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_celery_pork/hero.png",
-      "thumbnail": "https://jasson0318.github.io/myfridge-recipes/recipes/r_celery_pork/hero.png",
-      "recipeUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_celery_pork/",
+      "heroUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_chicken_broccoli/hero.png",
+      "thumbnail": "https://jasson0318.github.io/myfridge-recipes/recipes/r_chicken_broccoli/hero.png",
+      "recipeUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_chicken_broccoli/",
       "access": "FREE",
       "accessLevel": "FREE",
       "isPremium": false,
-      "version": 2,
-      "updatedAt": "2026-08-26T13:54:03.093088Z",
+      "version": 1,
+      "updatedAt": "2026-08-28T14:08:57.040707Z",
       "tags": {
         "cuisine": [],
         "goal": [],
         "allergen": [],
         "disliked": []
       },
-      "mealTypes": [
-        "午餐",
-        "晚餐"
-      ],
-      "equipmentIds": [
-        "wok"
-      ],
-      "featured": false
-    },
-    {
-      "recipeId": "r_cheese_quesadilla",
-      "name": "起司薄餅",
-      "category": "點心",
-      "description": "起司融化在薄餅中。",
-      "cookingTime": 20,
-      "cookingMinutes": 20,
-      "servings": 2,
-      "difficulty": "簡單",
-      "heroUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_cheese_quesadilla/hero.png",
-      "thumbnail": "https://jasson0318.github.io/myfridge-recipes/recipes/r_cheese_quesadilla/hero.png",
-      "recipeUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_cheese_quesadilla/",
-      "access": "FREE",
-      "accessLevel": "FREE",
-      "isPremium": false,
-      "version": 2,
-      "updatedAt": "2026-08-26T13:54:03.093088Z",
-      "tags": {
-        "cuisine": [],
-        "goal": [],
-        "allergen": [],
-        "disliked": []
-      },
-      "mealTypes": [
-        "午餐",
-        "宵夜"
-      ],
-      "equipmentIds": [
-        "pan"
-      ],
-      "featured": false
-    },
-    {
-      "recipeId": "r_cheese_scramble",
-      "name": "起司炒蛋",
-      "category": "早餐",
-      "description": "起司融化在炒蛋裡。",
-      "cookingTime": 20,
-      "cookingMinutes": 20,
-      "servings": 2,
-      "difficulty": "簡單",
-      "heroUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_cheese_scramble/hero.png",
-      "thumbnail": "https://jasson0318.github.io/myfridge-recipes/recipes/r_cheese_scramble/hero.png",
-      "recipeUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_cheese_scramble/",
-      "access": "FREE",
-      "accessLevel": "FREE",
-      "isPremium": false,
-      "version": 2,
-      "updatedAt": "2026-08-26T13:54:03.093088Z",
-      "tags": {
-        "cuisine": [],
-        "goal": [],
-        "allergen": [],
-        "disliked": []
-      },
-      "mealTypes": [
-        "早餐"
-      ],
-      "equipmentIds": [
-        "pan"
-      ],
+      "mealTypes": [],
+      "equipmentIds": [],
       "featured": false
     },
     {
@@ -595,6 +303,33 @@
       "featured": false
     },
     {
+      "recipeId": "r_chicken_carrot",
+      "name": "胡蘿蔔炒雞肉",
+      "category": "待補資料",
+      "description": "鮮嫩雞肉丁搭配胡蘿蔔與青蔥，色澤鮮豔、營養均衡，簡單快炒就能上桌，是家庭餐桌的好選擇！",
+      "cookingTime": 15,
+      "cookingMinutes": 15,
+      "servings": 2,
+      "difficulty": "簡單",
+      "heroUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_chicken_carrot/hero.png",
+      "thumbnail": "https://jasson0318.github.io/myfridge-recipes/recipes/r_chicken_carrot/hero.png",
+      "recipeUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_chicken_carrot/",
+      "access": "FREE",
+      "accessLevel": "FREE",
+      "isPremium": false,
+      "version": 1,
+      "updatedAt": "2026-08-28T14:08:57.335708Z",
+      "tags": {
+        "cuisine": [],
+        "goal": [],
+        "allergen": [],
+        "disliked": []
+      },
+      "mealTypes": [],
+      "equipmentIds": [],
+      "featured": false
+    },
+    {
       "recipeId": "r_chicken_cashew",
       "name": "腰果雞丁",
       "category": "主菜",
@@ -624,6 +359,33 @@
       "equipmentIds": [
         "wok"
       ],
+      "featured": false
+    },
+    {
+      "recipeId": "r_chicken_celery",
+      "name": "芹菜炒雞肉",
+      "category": "待補資料",
+      "description": "爽脆的芹菜搭配嫩滑的雞肉，快炒保留食材鮮甜與爽脆口感，美味快速上桌！",
+      "cookingTime": 15,
+      "cookingMinutes": 15,
+      "servings": 2,
+      "difficulty": "簡單",
+      "heroUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_chicken_celery/hero.png",
+      "thumbnail": "https://jasson0318.github.io/myfridge-recipes/recipes/r_chicken_celery/hero.png",
+      "recipeUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_chicken_celery/",
+      "access": "FREE",
+      "accessLevel": "FREE",
+      "isPremium": false,
+      "version": 1,
+      "updatedAt": "2026-08-28T14:08:57.630750Z",
+      "tags": {
+        "cuisine": [],
+        "goal": [],
+        "allergen": [],
+        "disliked": []
+      },
+      "mealTypes": [],
+      "equipmentIds": [],
       "featured": false
     },
     {
@@ -724,6 +486,33 @@
       "featured": false
     },
     {
+      "recipeId": "r_chicken_eggplant",
+      "name": "茄子炒雞肉",
+      "category": "待補資料",
+      "description": "茄子吸滿醬汁搭配嫩滑雞肉，快炒保留食材鮮甜，營養均衡又下飯！",
+      "cookingTime": 15,
+      "cookingMinutes": 15,
+      "servings": 2,
+      "difficulty": "簡單",
+      "heroUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_chicken_eggplant/hero.png",
+      "thumbnail": "https://jasson0318.github.io/myfridge-recipes/recipes/r_chicken_eggplant/hero.png",
+      "recipeUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_chicken_eggplant/",
+      "access": "FREE",
+      "accessLevel": "FREE",
+      "isPremium": false,
+      "version": 1,
+      "updatedAt": "2026-08-28T14:08:57.926525Z",
+      "tags": {
+        "cuisine": [],
+        "goal": [],
+        "allergen": [],
+        "disliked": []
+      },
+      "mealTypes": [],
+      "equipmentIds": [],
+      "featured": false
+    },
+    {
       "recipeId": "r_chicken_ginger",
       "name": "薑汁雞肉",
       "category": "主菜",
@@ -819,6 +608,87 @@
       "featured": false
     },
     {
+      "recipeId": "r_chicken_pepper",
+      "name": "彩椒炒雞肉",
+      "category": "待補資料",
+      "description": "色彩繽紛的彩椒搭配嫩口雞肉，口感清爽、營養豐富，快速翻炒就能上桌！",
+      "cookingTime": 15,
+      "cookingMinutes": 15,
+      "servings": 2,
+      "difficulty": "簡單",
+      "heroUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_chicken_pepper/hero.png",
+      "thumbnail": "https://jasson0318.github.io/myfridge-recipes/recipes/r_chicken_pepper/hero.png",
+      "recipeUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_chicken_pepper/",
+      "access": "FREE",
+      "accessLevel": "FREE",
+      "isPremium": false,
+      "version": 1,
+      "updatedAt": "2026-08-28T14:08:58.218529Z",
+      "tags": {
+        "cuisine": [],
+        "goal": [],
+        "allergen": [],
+        "disliked": []
+      },
+      "mealTypes": [],
+      "equipmentIds": [],
+      "featured": false
+    },
+    {
+      "recipeId": "r_chicken_potato",
+      "name": "馬鈴薯燉雞肉",
+      "category": "待補資料",
+      "description": "家常必備的暖心料理，馬鈴薯綿密入味、雞肉軟嫩多汁，簡單燉煮就能上桌！",
+      "cookingTime": 30,
+      "cookingMinutes": 30,
+      "servings": 2,
+      "difficulty": "簡單",
+      "heroUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_chicken_potato/hero.png",
+      "thumbnail": "https://jasson0318.github.io/myfridge-recipes/recipes/r_chicken_potato/hero.png",
+      "recipeUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_chicken_potato/",
+      "access": "FREE",
+      "accessLevel": "FREE",
+      "isPremium": false,
+      "version": 1,
+      "updatedAt": "2026-08-28T14:08:58.541031Z",
+      "tags": {
+        "cuisine": [],
+        "goal": [],
+        "allergen": [],
+        "disliked": []
+      },
+      "mealTypes": [],
+      "equipmentIds": [],
+      "featured": false
+    },
+    {
+      "recipeId": "r_chicken_radish",
+      "name": "蘿蔔燉雞肉",
+      "category": "待補資料",
+      "description": "清甜爽口的家常菜，蘿蔔吸收雞湯精華，雞肉鮮嫩不柴，營養滿分，全家都喜歡！",
+      "cookingTime": 60,
+      "cookingMinutes": 60,
+      "servings": 2,
+      "difficulty": "簡單",
+      "heroUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_chicken_radish/hero.png",
+      "thumbnail": "https://jasson0318.github.io/myfridge-recipes/recipes/r_chicken_radish/hero.png",
+      "recipeUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_chicken_radish/",
+      "access": "FREE",
+      "accessLevel": "FREE",
+      "isPremium": false,
+      "version": 1,
+      "updatedAt": "2026-08-28T14:08:58.849033Z",
+      "tags": {
+        "cuisine": [],
+        "goal": [],
+        "allergen": [],
+        "disliked": []
+      },
+      "mealTypes": [],
+      "equipmentIds": [],
+      "featured": false
+    },
+    {
       "recipeId": "r_chicken_teriyaki",
       "name": "照燒雞腿",
       "category": "主菜",
@@ -848,6 +718,60 @@
       "equipmentIds": [
         "pan"
       ],
+      "featured": false
+    },
+    {
+      "recipeId": "r_chicken_tofu",
+      "name": "雞肉燴豆腐",
+      "category": "待補資料",
+      "description": "嫩滑豆腐搭配雞肉與時蔬，濃郁醬汁燴煮入味，口感鮮美、營養均衡又下飯！",
+      "cookingTime": 15,
+      "cookingMinutes": 15,
+      "servings": 2,
+      "difficulty": "簡單",
+      "heroUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_chicken_tofu/hero.png",
+      "thumbnail": "https://jasson0318.github.io/myfridge-recipes/recipes/r_chicken_tofu/hero.png",
+      "recipeUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_chicken_tofu/",
+      "access": "FREE",
+      "accessLevel": "FREE",
+      "isPremium": false,
+      "version": 1,
+      "updatedAt": "2026-08-28T14:08:59.145032Z",
+      "tags": {
+        "cuisine": [],
+        "goal": [],
+        "allergen": [],
+        "disliked": []
+      },
+      "mealTypes": [],
+      "equipmentIds": [],
+      "featured": false
+    },
+    {
+      "recipeId": "r_chicken_zucchini",
+      "name": "櫛瓜炒雞肉",
+      "category": "待補資料",
+      "description": "清甜多汁的櫛瓜搭配嫩滑雞肉，快炒保留食材鮮甜，營養均衡又下飯！",
+      "cookingTime": 15,
+      "cookingMinutes": 15,
+      "servings": 2,
+      "difficulty": "簡單",
+      "heroUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_chicken_zucchini/hero.png",
+      "thumbnail": "https://jasson0318.github.io/myfridge-recipes/recipes/r_chicken_zucchini/hero.png",
+      "recipeUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_chicken_zucchini/",
+      "access": "FREE",
+      "accessLevel": "FREE",
+      "isPremium": false,
+      "version": 1,
+      "updatedAt": "2026-08-28T14:08:59.438032Z",
+      "tags": {
+        "cuisine": [],
+        "goal": [],
+        "allergen": [],
+        "disliked": []
+      },
+      "mealTypes": [],
+      "equipmentIds": [],
       "featured": false
     },
     {
@@ -890,34 +814,30 @@
       "featured": false
     },
     {
-      "recipeId": "r_clam_basil",
-      "name": "九層塔炒蛤蜊",
-      "category": "主菜",
-      "description": "九層塔香氣與蛤蜊鮮味。",
-      "cookingTime": 20,
-      "cookingMinutes": 20,
+      "recipeId": "r_chinese_chives_egg",
+      "name": "韭菜炒蛋",
+      "category": "待補資料",
+      "description": "香濃滑蛋與香氣濃郁的韭菜完美結合，簡單調味、快速翻炒，經典家常好味道！",
+      "cookingTime": 10,
+      "cookingMinutes": 10,
       "servings": 2,
       "difficulty": "簡單",
-      "heroUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_clam_basil/hero.png",
-      "thumbnail": "https://jasson0318.github.io/myfridge-recipes/recipes/r_clam_basil/hero.png",
-      "recipeUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_clam_basil/",
+      "heroUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_chinese_chives_egg/hero.png",
+      "thumbnail": "https://jasson0318.github.io/myfridge-recipes/recipes/r_chinese_chives_egg/hero.png",
+      "recipeUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_chinese_chives_egg/",
       "access": "FREE",
       "accessLevel": "FREE",
       "isPremium": false,
-      "version": 2,
-      "updatedAt": "2026-08-26T13:54:05.156319Z",
+      "version": 1,
+      "updatedAt": "2026-08-28T14:08:59.735247Z",
       "tags": {
         "cuisine": [],
         "goal": [],
         "allergen": [],
         "disliked": []
       },
-      "mealTypes": [
-        "晚餐"
-      ],
-      "equipmentIds": [
-        "wok"
-      ],
+      "mealTypes": [],
+      "equipmentIds": [],
       "featured": false
     },
     {
@@ -963,93 +883,56 @@
       "featured": false
     },
     {
-      "recipeId": "r_cold_sesame_noodles",
-      "name": "麻醬涼麵",
-      "category": "前菜",
-      "description": "冰涼麵條，夏天開胃。",
-      "cookingTime": 20,
-      "cookingMinutes": 20,
+      "recipeId": "r_cod_ginger",
+      "name": "薑蒸鱈魚",
+      "category": "待補資料",
+      "description": "清蒸鎖住鱈魚的鮮嫩多汁，搭配薑絲與青蔥去腥提香，健康少油又美味！",
+      "cookingTime": 15,
+      "cookingMinutes": 15,
       "servings": 2,
       "difficulty": "簡單",
-      "heroUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_cold_sesame_noodles/hero.png",
-      "thumbnail": "https://jasson0318.github.io/myfridge-recipes/recipes/r_cold_sesame_noodles/hero.png",
-      "recipeUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_cold_sesame_noodles/",
+      "heroUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_cod_ginger/hero.png",
+      "thumbnail": "https://jasson0318.github.io/myfridge-recipes/recipes/r_cod_ginger/hero.png",
+      "recipeUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_cod_ginger/",
       "access": "FREE",
       "accessLevel": "FREE",
       "isPremium": false,
-      "version": 2,
-      "updatedAt": "2026-08-26T13:54:05.383043Z",
+      "version": 1,
+      "updatedAt": "2026-08-28T14:09:00.033245Z",
       "tags": {
         "cuisine": [],
         "goal": [],
         "allergen": [],
         "disliked": []
       },
-      "mealTypes": [
-        "午餐"
-      ],
+      "mealTypes": [],
       "equipmentIds": [],
       "featured": false
     },
     {
-      "recipeId": "r_corn_egg_soup",
-      "name": "玉米蛋花湯",
-      "category": "湯品",
-      "description": "玉米甜香，蛋花細緻。",
-      "cookingTime": 20,
-      "cookingMinutes": 20,
+      "recipeId": "r_corn_egg",
+      "name": "玉米炒蛋",
+      "category": "待補資料",
+      "description": "香甜玉米粒搭配滑嫩雞蛋，老少咸宜，做法簡單快速，便當常備菜！",
+      "cookingTime": 10,
+      "cookingMinutes": 10,
       "servings": 2,
       "difficulty": "簡單",
-      "heroUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_corn_egg_soup/hero.png",
-      "thumbnail": "https://jasson0318.github.io/myfridge-recipes/recipes/r_corn_egg_soup/hero.png",
-      "recipeUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_corn_egg_soup/",
+      "heroUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_corn_egg/hero.png",
+      "thumbnail": "https://jasson0318.github.io/myfridge-recipes/recipes/r_corn_egg/hero.png",
+      "recipeUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_corn_egg/",
       "access": "FREE",
       "accessLevel": "FREE",
       "isPremium": false,
-      "version": 2,
-      "updatedAt": "2026-08-26T13:54:05.384045Z",
+      "version": 1,
+      "updatedAt": "2026-08-28T14:09:00.325334Z",
       "tags": {
         "cuisine": [],
         "goal": [],
         "allergen": [],
         "disliked": []
       },
-      "mealTypes": [
-        "午餐",
-        "晚餐"
-      ],
-      "equipmentIds": [
-        "pot"
-      ],
-      "featured": false
-    },
-    {
-      "recipeId": "r_cucumber_salad",
-      "name": "小黃瓜沙拉",
-      "category": "前菜",
-      "description": "小黃瓜爽脆，開胃解膩。",
-      "cookingTime": 20,
-      "cookingMinutes": 20,
-      "servings": 2,
-      "difficulty": "簡單",
-      "heroUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_cucumber_salad/hero.png",
-      "thumbnail": "https://jasson0318.github.io/myfridge-recipes/recipes/r_cucumber_salad/hero.png",
-      "recipeUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_cucumber_salad/",
-      "access": "FREE",
-      "accessLevel": "FREE",
-      "isPremium": false,
-      "version": 2,
-      "updatedAt": "2026-08-26T13:54:05.384045Z",
-      "tags": {
-        "cuisine": [],
-        "goal": [],
-        "allergen": [],
-        "disliked": []
-      },
-      "mealTypes": [
-        "午餐",
-        "晚餐"
-      ],
+      "mealTypes": [],
       "equipmentIds": [],
       "featured": false
     },
@@ -1140,34 +1023,111 @@
       "featured": false
     },
     {
-      "recipeId": "r_egg_wrap",
-      "name": "蛋餅卷",
-      "category": "早餐",
-      "description": "蛋皮捲時蔬，方便外帶。",
-      "cookingTime": 20,
-      "cookingMinutes": 20,
-      "servings": 2,
+      "recipeId": "r_egg_rice_bowl",
+      "name": "滑蛋蔬菜丼",
+      "category": "待補資料",
+      "description": "滿滿蔬菜與滑嫩蛋液鋪在熱騰騰白飯上，簡單快手一鍋搞定，營養豐富又飽足！",
+      "cookingTime": 15,
+      "cookingMinutes": 15,
+      "servings": 1,
       "difficulty": "簡單",
-      "heroUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_egg_wrap/hero.png",
-      "thumbnail": "https://jasson0318.github.io/myfridge-recipes/recipes/r_egg_wrap/hero.png",
-      "recipeUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_egg_wrap/",
+      "heroUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_egg_rice_bowl/hero.png",
+      "thumbnail": "https://jasson0318.github.io/myfridge-recipes/recipes/r_egg_rice_bowl/hero.png",
+      "recipeUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_egg_rice_bowl/",
       "access": "FREE",
       "accessLevel": "FREE",
       "isPremium": false,
-      "version": 2,
-      "updatedAt": "2026-08-26T13:54:05.841142Z",
+      "version": 1,
+      "updatedAt": "2026-08-28T14:09:00.619810Z",
       "tags": {
         "cuisine": [],
         "goal": [],
         "allergen": [],
         "disliked": []
       },
-      "mealTypes": [
-        "早餐"
-      ],
-      "equipmentIds": [
-        "pan"
-      ],
+      "mealTypes": [],
+      "equipmentIds": [],
+      "featured": false
+    },
+    {
+      "recipeId": "r_egg_spinach_soup",
+      "name": "菠菜蛋花湯",
+      "category": "待補資料",
+      "description": "翠綠菠菜搭配如絲般細緻的蛋花，清爽甘甜、營養滿分，暖胃又好喝！",
+      "cookingTime": 10,
+      "cookingMinutes": 10,
+      "servings": 2,
+      "difficulty": "簡單",
+      "heroUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_egg_spinach_soup/hero.png",
+      "thumbnail": "https://jasson0318.github.io/myfridge-recipes/recipes/r_egg_spinach_soup/hero.png",
+      "recipeUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_egg_spinach_soup/",
+      "access": "FREE",
+      "accessLevel": "FREE",
+      "isPremium": false,
+      "version": 1,
+      "updatedAt": "2026-08-28T14:09:00.907810Z",
+      "tags": {
+        "cuisine": [],
+        "goal": [],
+        "allergen": [],
+        "disliked": []
+      },
+      "mealTypes": [],
+      "equipmentIds": [],
+      "featured": false
+    },
+    {
+      "recipeId": "r_egg_tofu",
+      "name": "豆腐蒸蛋",
+      "category": "待補資料",
+      "description": "滑嫩雞蛋與柔滑嫩豆腐雙重口感，少油低熱量，老少咸宜的高蛋白健康料理！",
+      "cookingTime": 15,
+      "cookingMinutes": 15,
+      "servings": 2,
+      "difficulty": "簡單",
+      "heroUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_egg_tofu/hero.png",
+      "thumbnail": "https://jasson0318.github.io/myfridge-recipes/recipes/r_egg_tofu/hero.png",
+      "recipeUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_egg_tofu/",
+      "access": "FREE",
+      "accessLevel": "FREE",
+      "isPremium": false,
+      "version": 1,
+      "updatedAt": "2026-08-28T14:09:01.189809Z",
+      "tags": {
+        "cuisine": [],
+        "goal": [],
+        "allergen": [],
+        "disliked": []
+      },
+      "mealTypes": [],
+      "equipmentIds": [],
+      "featured": false
+    },
+    {
+      "recipeId": "r_egg_tomato_soup",
+      "name": "番茄蛋花湯",
+      "category": "待補資料",
+      "description": "酸甜多汁的番茄熬出濃醇湯頭，搭配滑嫩蛋花，開胃爽口，全家都愛！",
+      "cookingTime": 12,
+      "cookingMinutes": 12,
+      "servings": 2,
+      "difficulty": "簡單",
+      "heroUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_egg_tomato_soup/hero.png",
+      "thumbnail": "https://jasson0318.github.io/myfridge-recipes/recipes/r_egg_tomato_soup/hero.png",
+      "recipeUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_egg_tomato_soup/",
+      "access": "FREE",
+      "accessLevel": "FREE",
+      "isPremium": false,
+      "version": 1,
+      "updatedAt": "2026-08-28T14:09:01.484810Z",
+      "tags": {
+        "cuisine": [],
+        "goal": [],
+        "allergen": [],
+        "disliked": []
+      },
+      "mealTypes": [],
+      "equipmentIds": [],
       "featured": false
     },
     {
@@ -1213,65 +1173,111 @@
       "featured": false
     },
     {
-      "recipeId": "r_eggplant_pork",
-      "name": "茄子燒肉丁",
-      "category": "主菜",
-      "description": "茄子吸飽肉汁，下飯首選。",
-      "cookingTime": 20,
-      "cookingMinutes": 20,
+      "recipeId": "r_fish_miso_soup",
+      "name": "味噌魚片湯",
+      "category": "待補資料",
+      "description": "日式家常湯品，味噌溫潤甘醇、魚肉鮮嫩不腥，搭配豆腐與海帶，營養滿分又暖胃！",
+      "cookingTime": 25,
+      "cookingMinutes": 25,
       "servings": 2,
       "difficulty": "簡單",
-      "heroUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_eggplant_pork/hero.png",
-      "thumbnail": "https://jasson0318.github.io/myfridge-recipes/recipes/r_eggplant_pork/hero.png",
-      "recipeUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_eggplant_pork/",
+      "heroUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_fish_miso_soup/hero.png",
+      "thumbnail": "https://jasson0318.github.io/myfridge-recipes/recipes/r_fish_miso_soup/hero.png",
+      "recipeUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_fish_miso_soup/",
       "access": "FREE",
       "accessLevel": "FREE",
       "isPremium": false,
-      "version": 2,
-      "updatedAt": "2026-08-26T13:54:06.070649Z",
+      "version": 1,
+      "updatedAt": "2026-08-28T14:09:01.810810Z",
       "tags": {
         "cuisine": [],
         "goal": [],
         "allergen": [],
         "disliked": []
       },
-      "mealTypes": [
-        "晚餐"
-      ],
-      "equipmentIds": [
-        "wok"
-      ],
+      "mealTypes": [],
+      "equipmentIds": [],
       "featured": false
     },
     {
-      "recipeId": "r_fish_tofu_soup",
+      "recipeId": "r_fish_tofu",
       "name": "魚片豆腐湯",
-      "category": "湯品",
-      "description": "魚片與豆腐同煮，湯頭鮮。",
-      "cookingTime": 20,
-      "cookingMinutes": 20,
+      "category": "待補資料",
+      "description": "魚片鮮美滑嫩、嫩豆腐滑順爽口，湯頭清澈甘甜，少油高蛋白健康湯品！",
+      "cookingTime": 15,
+      "cookingMinutes": 15,
       "servings": 2,
       "difficulty": "簡單",
-      "heroUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_fish_tofu_soup/hero.png",
-      "thumbnail": "https://jasson0318.github.io/myfridge-recipes/recipes/r_fish_tofu_soup/hero.png",
-      "recipeUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_fish_tofu_soup/",
+      "heroUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_fish_tofu/hero.png",
+      "thumbnail": "https://jasson0318.github.io/myfridge-recipes/recipes/r_fish_tofu/hero.png",
+      "recipeUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_fish_tofu/",
       "access": "FREE",
       "accessLevel": "FREE",
       "isPremium": false,
-      "version": 2,
-      "updatedAt": "2026-08-26T13:54:06.071650Z",
+      "version": 1,
+      "updatedAt": "2026-08-28T14:09:02.092811Z",
       "tags": {
         "cuisine": [],
         "goal": [],
         "allergen": [],
         "disliked": []
       },
-      "mealTypes": [
-        "晚餐"
-      ],
-      "equipmentIds": [
-        "pot"
-      ],
+      "mealTypes": [],
+      "equipmentIds": [],
+      "featured": false
+    },
+    {
+      "recipeId": "r_fish_tomato_soup",
+      "name": "番茄魚片湯",
+      "category": "待補資料",
+      "description": "酸甜開胃的番茄魚片湯，魚肉鮮嫩不腥，搭配蛋花與蔬菜，營養滿分又暖胃！",
+      "cookingTime": 25,
+      "cookingMinutes": 25,
+      "servings": 2,
+      "difficulty": "簡單",
+      "heroUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_fish_tomato_soup/hero.png",
+      "thumbnail": "https://jasson0318.github.io/myfridge-recipes/recipes/r_fish_tomato_soup/hero.png",
+      "recipeUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_fish_tomato_soup/",
+      "access": "FREE",
+      "accessLevel": "FREE",
+      "isPremium": false,
+      "version": 1,
+      "updatedAt": "2026-08-28T14:09:02.402917Z",
+      "tags": {
+        "cuisine": [],
+        "goal": [],
+        "allergen": [],
+        "disliked": []
+      },
+      "mealTypes": [],
+      "equipmentIds": [],
+      "featured": false
+    },
+    {
+      "recipeId": "r_fish_veg",
+      "name": "清炒魚片蔬菜",
+      "category": "待補資料",
+      "description": "嫩滑魚片搭配花椰菜、胡蘿蔔與玉米筍，色澤鮮豔、低脂高蛋白，清爽無負擔！",
+      "cookingTime": 15,
+      "cookingMinutes": 15,
+      "servings": 2,
+      "difficulty": "簡單",
+      "heroUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_fish_veg/hero.png",
+      "thumbnail": "https://jasson0318.github.io/myfridge-recipes/recipes/r_fish_veg/hero.png",
+      "recipeUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_fish_veg/",
+      "access": "FREE",
+      "accessLevel": "FREE",
+      "isPremium": false,
+      "version": 1,
+      "updatedAt": "2026-08-28T14:09:02.702039Z",
+      "tags": {
+        "cuisine": [],
+        "goal": [],
+        "allergen": [],
+        "disliked": []
+      },
+      "mealTypes": [],
+      "equipmentIds": [],
       "featured": false
     },
     {
@@ -1290,7 +1296,7 @@
       "accessLevel": "FREE",
       "isPremium": false,
       "version": 3,
-      "updatedAt": "2026-08-26T13:54:06.281349Z",
+      "updatedAt": "2026-08-28T14:09:15.616050Z",
       "tags": {
         "cuisine": [],
         "goal": [],
@@ -1300,99 +1306,6 @@
       "mealTypes": [],
       "equipmentIds": [],
       "featured": true
-    },
-    {
-      "recipeId": "r_french_toast_bfast",
-      "name": "法式吐司",
-      "category": "早餐",
-      "description": "外酥內軟，早餐經典。",
-      "cookingTime": 20,
-      "cookingMinutes": 20,
-      "servings": 2,
-      "difficulty": "簡單",
-      "heroUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_french_toast_bfast/hero.png",
-      "thumbnail": "https://jasson0318.github.io/myfridge-recipes/recipes/r_french_toast_bfast/hero.png",
-      "recipeUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_french_toast_bfast/",
-      "access": "FREE",
-      "accessLevel": "FREE",
-      "isPremium": false,
-      "version": 2,
-      "updatedAt": "2026-08-26T13:54:06.281349Z",
-      "tags": {
-        "cuisine": [],
-        "goal": [],
-        "allergen": [],
-        "disliked": []
-      },
-      "mealTypes": [
-        "早餐"
-      ],
-      "equipmentIds": [
-        "pan"
-      ],
-      "featured": false
-    },
-    {
-      "recipeId": "r_fruit_yogurt_cup",
-      "name": "水果優格杯",
-      "category": "點心",
-      "description": "水果與優格，輕盈點心。",
-      "cookingTime": 20,
-      "cookingMinutes": 20,
-      "servings": 2,
-      "difficulty": "簡單",
-      "heroUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_fruit_yogurt_cup/hero.png",
-      "thumbnail": "https://jasson0318.github.io/myfridge-recipes/recipes/r_fruit_yogurt_cup/hero.png",
-      "recipeUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_fruit_yogurt_cup/",
-      "access": "FREE",
-      "accessLevel": "FREE",
-      "isPremium": false,
-      "version": 2,
-      "updatedAt": "2026-08-26T13:54:06.281862Z",
-      "tags": {
-        "cuisine": [],
-        "goal": [],
-        "allergen": [],
-        "disliked": []
-      },
-      "mealTypes": [
-        "早餐",
-        "宵夜"
-      ],
-      "equipmentIds": [],
-      "featured": false
-    },
-    {
-      "recipeId": "r_garlic_bread_side",
-      "name": "蒜香麵包",
-      "category": "前菜",
-      "description": "烤箱加熱，蒜香四溢。",
-      "cookingTime": 20,
-      "cookingMinutes": 20,
-      "servings": 2,
-      "difficulty": "簡單",
-      "heroUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_garlic_bread_side/hero.png",
-      "thumbnail": "https://jasson0318.github.io/myfridge-recipes/recipes/r_garlic_bread_side/hero.png",
-      "recipeUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_garlic_bread_side/",
-      "access": "FREE",
-      "accessLevel": "FREE",
-      "isPremium": false,
-      "version": 2,
-      "updatedAt": "2026-08-26T13:54:06.281862Z",
-      "tags": {
-        "cuisine": [],
-        "goal": [],
-        "allergen": [],
-        "disliked": []
-      },
-      "mealTypes": [
-        "午餐",
-        "晚餐"
-      ],
-      "equipmentIds": [
-        "oven"
-      ],
-      "featured": false
     },
     {
       "recipeId": "r_garlic_shrimp",
@@ -1422,37 +1335,6 @@
       ],
       "equipmentIds": [
         "pan"
-      ],
-      "featured": false
-    },
-    {
-      "recipeId": "r_ginger_steamed_fish",
-      "name": "薑蔥蒸魚",
-      "category": "主菜",
-      "description": "薑蔥提鮮，蒸魚保留原味。",
-      "cookingTime": 20,
-      "cookingMinutes": 20,
-      "servings": 2,
-      "difficulty": "簡單",
-      "heroUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_ginger_steamed_fish/hero.png",
-      "thumbnail": "https://jasson0318.github.io/myfridge-recipes/recipes/r_ginger_steamed_fish/hero.png",
-      "recipeUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_ginger_steamed_fish/",
-      "access": "FREE",
-      "accessLevel": "FREE",
-      "isPremium": false,
-      "version": 2,
-      "updatedAt": "2026-08-26T13:54:06.505799Z",
-      "tags": {
-        "cuisine": [],
-        "goal": [],
-        "allergen": [],
-        "disliked": []
-      },
-      "mealTypes": [
-        "晚餐"
-      ],
-      "equipmentIds": [
-        "pot"
       ],
       "featured": false
     },
@@ -1497,37 +1379,6 @@
         "breakfast"
       ],
       "equipmentIds": [],
-      "featured": false
-    },
-    {
-      "recipeId": "r_green_bean_pork",
-      "name": "四季豆炒肉絲",
-      "category": "主菜",
-      "description": "四季豆斷生，口感清脆。",
-      "cookingTime": 20,
-      "cookingMinutes": 20,
-      "servings": 2,
-      "difficulty": "簡單",
-      "heroUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_green_bean_pork/hero.png",
-      "thumbnail": "https://jasson0318.github.io/myfridge-recipes/recipes/r_green_bean_pork/hero.png",
-      "recipeUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_green_bean_pork/",
-      "access": "FREE",
-      "accessLevel": "FREE",
-      "isPremium": false,
-      "version": 2,
-      "updatedAt": "2026-08-26T13:54:06.736800Z",
-      "tags": {
-        "cuisine": [],
-        "goal": [],
-        "allergen": [],
-        "disliked": []
-      },
-      "mealTypes": [
-        "晚餐"
-      ],
-      "equipmentIds": [
-        "wok"
-      ],
       "featured": false
     },
     {
@@ -1610,6 +1461,42 @@
       "equipmentIds": [
         "pan",
         "wok"
+      ],
+      "featured": false
+    },
+    {
+      "recipeId": "r_korean_spicy_chicken",
+      "name": "韓式辣炒雞",
+      "category": "主菜",
+      "description": "以韓式辣醬與韓式辣椒粉調製濃郁醬汁，搭配嫩滑雞腿肉、洋蔥、青蔥與香菇炒煮入味，是香辣下飯的韓式家常料理。",
+      "cookingTime": 40,
+      "cookingMinutes": 40,
+      "servings": 2,
+      "difficulty": "簡單",
+      "heroUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_korean_spicy_chicken/hero.png",
+      "thumbnail": "https://jasson0318.github.io/myfridge-recipes/recipes/r_korean_spicy_chicken/hero.png",
+      "recipeUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_korean_spicy_chicken/",
+      "access": "FREE",
+      "accessLevel": "FREE",
+      "isPremium": false,
+      "version": 1,
+      "updatedAt": "2026-08-28T13:10:26.981492Z",
+      "tags": {
+        "cuisine": [
+          "韓式料理"
+        ],
+        "goal": [],
+        "allergen": [],
+        "disliked": []
+      },
+      "mealTypes": [
+        "午餐",
+        "晚餐"
+      ],
+      "equipmentIds": [
+        "炒鍋",
+        "菜刀",
+        "砧板"
       ],
       "featured": false
     },
@@ -1726,69 +1613,6 @@
       "featured": false
     },
     {
-      "recipeId": "r_microwave_sweet_potato",
-      "name": "微波地瓜",
-      "category": "快速料理",
-      "description": "微波加熱，保留甜味。",
-      "cookingTime": 20,
-      "cookingMinutes": 20,
-      "servings": 2,
-      "difficulty": "簡單",
-      "heroUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_microwave_sweet_potato/hero.png",
-      "thumbnail": "https://jasson0318.github.io/myfridge-recipes/recipes/r_microwave_sweet_potato/hero.png",
-      "recipeUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_microwave_sweet_potato/",
-      "access": "FREE",
-      "accessLevel": "FREE",
-      "isPremium": false,
-      "version": 2,
-      "updatedAt": "2026-08-26T13:54:07.895680Z",
-      "tags": {
-        "cuisine": [],
-        "goal": [],
-        "allergen": [],
-        "disliked": []
-      },
-      "mealTypes": [
-        "早餐",
-        "宵夜"
-      ],
-      "equipmentIds": [
-        "microwave"
-      ],
-      "featured": false
-    },
-    {
-      "recipeId": "r_milk_egg_pancake",
-      "name": "牛奶雞蛋鬆餅",
-      "category": "早餐",
-      "description": "鬆軟鬆餅，小孩也愛。",
-      "cookingTime": 20,
-      "cookingMinutes": 20,
-      "servings": 2,
-      "difficulty": "簡單",
-      "heroUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_milk_egg_pancake/hero.png",
-      "thumbnail": "https://jasson0318.github.io/myfridge-recipes/recipes/r_milk_egg_pancake/hero.png",
-      "recipeUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_milk_egg_pancake/",
-      "access": "FREE",
-      "accessLevel": "FREE",
-      "isPremium": false,
-      "version": 2,
-      "updatedAt": "2026-08-26T13:54:07.895680Z",
-      "tags": {
-        "cuisine": [],
-        "goal": [],
-        "allergen": [],
-        "disliked": []
-      },
-      "mealTypes": [
-        "早餐"
-      ],
-      "equipmentIds": [
-        "pan"
-      ],
-      "featured": false
-    },
-    {
       "recipeId": "r_miso_soup",
       "name": "味噌湯",
       "category": "湯品",
@@ -1832,65 +1656,30 @@
       "featured": false
     },
     {
-      "recipeId": "r_mushroom_bokchoy",
-      "name": "香菇小白菜",
-      "category": "主菜",
-      "description": "香菇鮮味襯托青菜。",
-      "cookingTime": 20,
-      "cookingMinutes": 20,
+      "recipeId": "r_mushroom_egg",
+      "name": "香菇炒蛋",
+      "category": "待補資料",
+      "description": "濃郁香菇香氣融合滑嫩蛋香，做法簡單、快速上桌，是一道經典又下飯的家常好菜！",
+      "cookingTime": 10,
+      "cookingMinutes": 10,
       "servings": 2,
       "difficulty": "簡單",
-      "heroUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_mushroom_bokchoy/hero.png",
-      "thumbnail": "https://jasson0318.github.io/myfridge-recipes/recipes/r_mushroom_bokchoy/hero.png",
-      "recipeUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_mushroom_bokchoy/",
+      "heroUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_mushroom_egg/hero.png",
+      "thumbnail": "https://jasson0318.github.io/myfridge-recipes/recipes/r_mushroom_egg/hero.png",
+      "recipeUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_mushroom_egg/",
       "access": "FREE",
       "accessLevel": "FREE",
       "isPremium": false,
-      "version": 2,
-      "updatedAt": "2026-08-26T13:54:08.120831Z",
+      "version": 1,
+      "updatedAt": "2026-08-28T14:09:02.992196Z",
       "tags": {
         "cuisine": [],
         "goal": [],
         "allergen": [],
         "disliked": []
       },
-      "mealTypes": [
-        "午餐"
-      ],
-      "equipmentIds": [
-        "wok"
-      ],
-      "featured": false
-    },
-    {
-      "recipeId": "r_mushroom_cream_soup",
-      "name": "蘑菇濃湯",
-      "category": "湯品",
-      "description": "蘑菇香氣濃郁。",
-      "cookingTime": 20,
-      "cookingMinutes": 20,
-      "servings": 2,
-      "difficulty": "簡單",
-      "heroUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_mushroom_cream_soup/hero.png",
-      "thumbnail": "https://jasson0318.github.io/myfridge-recipes/recipes/r_mushroom_cream_soup/hero.png",
-      "recipeUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_mushroom_cream_soup/",
-      "access": "FREE",
-      "accessLevel": "FREE",
-      "isPremium": false,
-      "version": 2,
-      "updatedAt": "2026-08-26T13:54:08.121831Z",
-      "tags": {
-        "cuisine": [],
-        "goal": [],
-        "allergen": [],
-        "disliked": []
-      },
-      "mealTypes": [
-        "午餐"
-      ],
-      "equipmentIds": [
-        "pot"
-      ],
+      "mealTypes": [],
+      "equipmentIds": [],
       "featured": false
     },
     {
@@ -1933,35 +1722,6 @@
       "equipmentIds": [
         "pot"
       ],
-      "featured": false
-    },
-    {
-      "recipeId": "r_nut_bowl",
-      "name": "綜合堅果碗",
-      "category": "點心",
-      "description": "堅果補充能量。",
-      "cookingTime": 20,
-      "cookingMinutes": 20,
-      "servings": 2,
-      "difficulty": "簡單",
-      "heroUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_nut_bowl/hero.png",
-      "thumbnail": "https://jasson0318.github.io/myfridge-recipes/recipes/r_nut_bowl/hero.png",
-      "recipeUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_nut_bowl/",
-      "access": "FREE",
-      "accessLevel": "FREE",
-      "isPremium": false,
-      "version": 2,
-      "updatedAt": "2026-08-26T13:54:08.343890Z",
-      "tags": {
-        "cuisine": [],
-        "goal": [],
-        "allergen": [],
-        "disliked": []
-      },
-      "mealTypes": [
-        "宵夜"
-      ],
-      "equipmentIds": [],
       "featured": false
     },
     {
@@ -2174,6 +1934,222 @@
       "featured": false
     },
     {
+      "recipeId": "r_pork_bokchoy",
+      "name": "青江菜炒豬肉",
+      "category": "待補資料",
+      "description": "翠綠青江菜搭配嫩炒豬肉片，大火快炒香氣四溢，清脆爽口又下飯！",
+      "cookingTime": 15,
+      "cookingMinutes": 15,
+      "servings": 2,
+      "difficulty": "簡單",
+      "heroUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_pork_bokchoy/hero.png",
+      "thumbnail": "https://jasson0318.github.io/myfridge-recipes/recipes/r_pork_bokchoy/hero.png",
+      "recipeUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_pork_bokchoy/",
+      "access": "FREE",
+      "accessLevel": "FREE",
+      "isPremium": false,
+      "version": 1,
+      "updatedAt": "2026-08-28T14:09:03.292196Z",
+      "tags": {
+        "cuisine": [],
+        "goal": [],
+        "allergen": [],
+        "disliked": []
+      },
+      "mealTypes": [],
+      "equipmentIds": [],
+      "featured": false
+    },
+    {
+      "recipeId": "r_pork_broccoli",
+      "name": "青花菜炒豬肉",
+      "category": "待補資料",
+      "description": "鮮甜青花菜搭配滑嫩豬肉片，口感爽脆豐富，營養均衡美味滿分！",
+      "cookingTime": 15,
+      "cookingMinutes": 15,
+      "servings": 2,
+      "difficulty": "簡單",
+      "heroUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_pork_broccoli/hero.png",
+      "thumbnail": "https://jasson0318.github.io/myfridge-recipes/recipes/r_pork_broccoli/hero.png",
+      "recipeUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_pork_broccoli/",
+      "access": "FREE",
+      "accessLevel": "FREE",
+      "isPremium": false,
+      "version": 1,
+      "updatedAt": "2026-08-28T14:09:03.596061Z",
+      "tags": {
+        "cuisine": [],
+        "goal": [],
+        "allergen": [],
+        "disliked": []
+      },
+      "mealTypes": [],
+      "equipmentIds": [],
+      "featured": false
+    },
+    {
+      "recipeId": "r_pork_cabbage",
+      "name": "高麗菜炒豬肉",
+      "category": "待補資料",
+      "description": "爽甜高麗菜大火快炒嫩豬肉，蒜香撲鼻、甘甜多汁，是餐桌上最受歡迎的家常菜！",
+      "cookingTime": 12,
+      "cookingMinutes": 12,
+      "servings": 2,
+      "difficulty": "簡單",
+      "heroUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_pork_cabbage/hero.png",
+      "thumbnail": "https://jasson0318.github.io/myfridge-recipes/recipes/r_pork_cabbage/hero.png",
+      "recipeUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_pork_cabbage/",
+      "access": "FREE",
+      "accessLevel": "FREE",
+      "isPremium": false,
+      "version": 1,
+      "updatedAt": "2026-08-28T14:09:03.895061Z",
+      "tags": {
+        "cuisine": [],
+        "goal": [],
+        "allergen": [],
+        "disliked": []
+      },
+      "mealTypes": [],
+      "equipmentIds": [],
+      "featured": false
+    },
+    {
+      "recipeId": "r_pork_carrot",
+      "name": "胡蘿蔔炒豬肉",
+      "category": "待補資料",
+      "description": "胡蘿蔔自然甘甜與嫩豬肉絲完美交融，色澤鮮豔、營養豐富，簡單快手！",
+      "cookingTime": 15,
+      "cookingMinutes": 15,
+      "servings": 2,
+      "difficulty": "簡單",
+      "heroUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_pork_carrot/hero.png",
+      "thumbnail": "https://jasson0318.github.io/myfridge-recipes/recipes/r_pork_carrot/hero.png",
+      "recipeUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_pork_carrot/",
+      "access": "FREE",
+      "accessLevel": "FREE",
+      "isPremium": false,
+      "version": 1,
+      "updatedAt": "2026-08-28T14:09:04.193061Z",
+      "tags": {
+        "cuisine": [],
+        "goal": [],
+        "allergen": [],
+        "disliked": []
+      },
+      "mealTypes": [],
+      "equipmentIds": [],
+      "featured": false
+    },
+    {
+      "recipeId": "r_pork_celery",
+      "name": "芹菜炒豬肉",
+      "category": "待補資料",
+      "description": "清脆芹菜搭嫩炒豬肉絲，獨特清香解膩開胃，大火快炒迅速上桌！",
+      "cookingTime": 12,
+      "cookingMinutes": 12,
+      "servings": 2,
+      "difficulty": "簡單",
+      "heroUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_pork_celery/hero.png",
+      "thumbnail": "https://jasson0318.github.io/myfridge-recipes/recipes/r_pork_celery/hero.png",
+      "recipeUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_pork_celery/",
+      "access": "FREE",
+      "accessLevel": "FREE",
+      "isPremium": false,
+      "version": 1,
+      "updatedAt": "2026-08-28T14:09:04.485610Z",
+      "tags": {
+        "cuisine": [],
+        "goal": [],
+        "allergen": [],
+        "disliked": []
+      },
+      "mealTypes": [],
+      "equipmentIds": [],
+      "featured": false
+    },
+    {
+      "recipeId": "r_pork_corn",
+      "name": "玉米炒豬肉",
+      "category": "待補資料",
+      "description": "甜脆玉米粒與嫩豬肉丁快炒，口感豐富鮮甜，深受小朋友喜愛！",
+      "cookingTime": 15,
+      "cookingMinutes": 15,
+      "servings": 2,
+      "difficulty": "簡單",
+      "heroUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_pork_corn/hero.png",
+      "thumbnail": "https://jasson0318.github.io/myfridge-recipes/recipes/r_pork_corn/hero.png",
+      "recipeUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_pork_corn/",
+      "access": "FREE",
+      "accessLevel": "FREE",
+      "isPremium": false,
+      "version": 1,
+      "updatedAt": "2026-08-28T14:09:04.788610Z",
+      "tags": {
+        "cuisine": [],
+        "goal": [],
+        "allergen": [],
+        "disliked": []
+      },
+      "mealTypes": [],
+      "equipmentIds": [],
+      "featured": false
+    },
+    {
+      "recipeId": "r_pork_cucumber",
+      "name": "小黃瓜炒豬肉",
+      "category": "待補資料",
+      "description": "爽脆小黃瓜搭配軟嫩豬肉片，清爽不油膩，簡單快炒夏日消暑開胃！",
+      "cookingTime": 12,
+      "cookingMinutes": 12,
+      "servings": 2,
+      "difficulty": "簡單",
+      "heroUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_pork_cucumber/hero.png",
+      "thumbnail": "https://jasson0318.github.io/myfridge-recipes/recipes/r_pork_cucumber/hero.png",
+      "recipeUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_pork_cucumber/",
+      "access": "FREE",
+      "accessLevel": "FREE",
+      "isPremium": false,
+      "version": 1,
+      "updatedAt": "2026-08-28T14:09:05.084610Z",
+      "tags": {
+        "cuisine": [],
+        "goal": [],
+        "allergen": [],
+        "disliked": []
+      },
+      "mealTypes": [],
+      "equipmentIds": [],
+      "featured": false
+    },
+    {
+      "recipeId": "r_pork_eggplant",
+      "name": "茄子炒豬肉",
+      "category": "待補資料",
+      "description": "茄子吸附豬肉香氣與濃郁醬汁，軟嫩綿密入口即化，是極佳的白飯殺手！",
+      "cookingTime": 15,
+      "cookingMinutes": 15,
+      "servings": 2,
+      "difficulty": "簡單",
+      "heroUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_pork_eggplant/hero.png",
+      "thumbnail": "https://jasson0318.github.io/myfridge-recipes/recipes/r_pork_eggplant/hero.png",
+      "recipeUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_pork_eggplant/",
+      "access": "FREE",
+      "accessLevel": "FREE",
+      "isPremium": false,
+      "version": 1,
+      "updatedAt": "2026-08-28T14:09:05.386803Z",
+      "tags": {
+        "cuisine": [],
+        "goal": [],
+        "allergen": [],
+        "disliked": []
+      },
+      "mealTypes": [],
+      "equipmentIds": [],
+      "featured": false
+    },
+    {
       "recipeId": "r_pork_ginger",
       "name": "薑汁豬肉",
       "category": "主菜",
@@ -2205,34 +2181,138 @@
       "featured": false
     },
     {
-      "recipeId": "r_pork_mince_tofu",
-      "name": "肉末燒豆腐",
-      "category": "主菜",
-      "description": "肉末香氣滲入豆腐。",
-      "cookingTime": 20,
-      "cookingMinutes": 20,
+      "recipeId": "r_pork_greenpepper",
+      "name": "青椒炒豬肉",
+      "category": "待補資料",
+      "description": "青椒爽脆帶點甘苦清香，與滑嫩豬肉大火快炒，鹹香撲鼻超下飯！",
+      "cookingTime": 12,
+      "cookingMinutes": 12,
       "servings": 2,
       "difficulty": "簡單",
-      "heroUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_pork_mince_tofu/hero.png",
-      "thumbnail": "https://jasson0318.github.io/myfridge-recipes/recipes/r_pork_mince_tofu/hero.png",
-      "recipeUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_pork_mince_tofu/",
+      "heroUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_pork_greenpepper/hero.png",
+      "thumbnail": "https://jasson0318.github.io/myfridge-recipes/recipes/r_pork_greenpepper/hero.png",
+      "recipeUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_pork_greenpepper/",
       "access": "FREE",
       "accessLevel": "FREE",
       "isPremium": false,
-      "version": 2,
-      "updatedAt": "2026-08-26T13:54:09.733190Z",
+      "version": 1,
+      "updatedAt": "2026-08-28T14:09:05.684315Z",
       "tags": {
         "cuisine": [],
         "goal": [],
         "allergen": [],
         "disliked": []
       },
-      "mealTypes": [
-        "晚餐"
-      ],
-      "equipmentIds": [
-        "pan"
-      ],
+      "mealTypes": [],
+      "equipmentIds": [],
+      "featured": false
+    },
+    {
+      "recipeId": "r_pork_kimchi",
+      "name": "泡菜豬肉",
+      "category": "待補資料",
+      "description": "韓式酸辣泡菜與豬肉片大火翻炒，酸爽開胃、辣香撲鼻，白飯必備！",
+      "cookingTime": 15,
+      "cookingMinutes": 15,
+      "servings": 2,
+      "difficulty": "簡單",
+      "heroUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_pork_kimchi/hero.png",
+      "thumbnail": "https://jasson0318.github.io/myfridge-recipes/recipes/r_pork_kimchi/hero.png",
+      "recipeUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_pork_kimchi/",
+      "access": "FREE",
+      "accessLevel": "FREE",
+      "isPremium": false,
+      "version": 1,
+      "updatedAt": "2026-08-28T14:09:05.985160Z",
+      "tags": {
+        "cuisine": [],
+        "goal": [],
+        "allergen": [],
+        "disliked": []
+      },
+      "mealTypes": [],
+      "equipmentIds": [],
+      "featured": false
+    },
+    {
+      "recipeId": "r_pork_leek",
+      "name": "蒜苗炒豬肉",
+      "category": "待補資料",
+      "description": "經典熱炒必點！蒜苗獨特香氣與豬肉片大火翻炒，鹹香入味超滿足！",
+      "cookingTime": 12,
+      "cookingMinutes": 12,
+      "servings": 2,
+      "difficulty": "簡單",
+      "heroUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_pork_leek/hero.png",
+      "thumbnail": "https://jasson0318.github.io/myfridge-recipes/recipes/r_pork_leek/hero.png",
+      "recipeUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_pork_leek/",
+      "access": "FREE",
+      "accessLevel": "FREE",
+      "isPremium": false,
+      "version": 1,
+      "updatedAt": "2026-08-28T14:09:06.274670Z",
+      "tags": {
+        "cuisine": [],
+        "goal": [],
+        "allergen": [],
+        "disliked": []
+      },
+      "mealTypes": [],
+      "equipmentIds": [],
+      "featured": false
+    },
+    {
+      "recipeId": "r_pork_miso",
+      "name": "味噌豬肉",
+      "category": "待補資料",
+      "description": "日式甘醇味噌醬汁醃炒豬肉，洋蔥甘甜搭配蔥段，濃郁醇厚又下飯！",
+      "cookingTime": 15,
+      "cookingMinutes": 15,
+      "servings": 2,
+      "difficulty": "簡單",
+      "heroUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_pork_miso/hero.png",
+      "thumbnail": "https://jasson0318.github.io/myfridge-recipes/recipes/r_pork_miso/hero.png",
+      "recipeUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_pork_miso/",
+      "access": "FREE",
+      "accessLevel": "FREE",
+      "isPremium": false,
+      "version": 1,
+      "updatedAt": "2026-08-28T14:09:06.571137Z",
+      "tags": {
+        "cuisine": [],
+        "goal": [],
+        "allergen": [],
+        "disliked": []
+      },
+      "mealTypes": [],
+      "equipmentIds": [],
+      "featured": false
+    },
+    {
+      "recipeId": "r_pork_mushroom",
+      "name": "香菇炒豬肉",
+      "category": "待補資料",
+      "description": "厚實香菇釋放濃郁蕈菇香氣，搭配滑嫩豬肉片，醬香四溢、家常首選！",
+      "cookingTime": 15,
+      "cookingMinutes": 15,
+      "servings": 2,
+      "difficulty": "簡單",
+      "heroUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_pork_mushroom/hero.png",
+      "thumbnail": "https://jasson0318.github.io/myfridge-recipes/recipes/r_pork_mushroom/hero.png",
+      "recipeUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_pork_mushroom/",
+      "access": "FREE",
+      "accessLevel": "FREE",
+      "isPremium": false,
+      "version": 1,
+      "updatedAt": "2026-08-28T14:09:06.879138Z",
+      "tags": {
+        "cuisine": [],
+        "goal": [],
+        "allergen": [],
+        "disliked": []
+      },
+      "mealTypes": [],
+      "equipmentIds": [],
       "featured": false
     },
     {
@@ -2271,6 +2351,195 @@
         "wok",
         "pan"
       ],
+      "featured": false
+    },
+    {
+      "recipeId": "r_pork_pepper",
+      "name": "彩椒炒豬肉",
+      "category": "待補資料",
+      "description": "繽紛彩椒脆口甘甜，搭配滑嫩豬肉片，色香味俱全、營養豐富！",
+      "cookingTime": 15,
+      "cookingMinutes": 15,
+      "servings": 2,
+      "difficulty": "簡單",
+      "heroUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_pork_pepper/hero.png",
+      "thumbnail": "https://jasson0318.github.io/myfridge-recipes/recipes/r_pork_pepper/hero.png",
+      "recipeUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_pork_pepper/",
+      "access": "FREE",
+      "accessLevel": "FREE",
+      "isPremium": false,
+      "version": 1,
+      "updatedAt": "2026-08-28T14:09:07.182137Z",
+      "tags": {
+        "cuisine": [],
+        "goal": [],
+        "allergen": [],
+        "disliked": []
+      },
+      "mealTypes": [],
+      "equipmentIds": [],
+      "featured": false
+    },
+    {
+      "recipeId": "r_pork_potato",
+      "name": "馬鈴薯燉豬肉",
+      "category": "待補資料",
+      "description": "綿密入味的馬鈴薯與鮮嫩豬肉塊慢火燉煮，湯汁濃郁甘甜，白飯必備！",
+      "cookingTime": 35,
+      "cookingMinutes": 35,
+      "servings": 2,
+      "difficulty": "簡單",
+      "heroUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_pork_potato/hero.png",
+      "thumbnail": "https://jasson0318.github.io/myfridge-recipes/recipes/r_pork_potato/hero.png",
+      "recipeUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_pork_potato/",
+      "access": "FREE",
+      "accessLevel": "FREE",
+      "isPremium": false,
+      "version": 1,
+      "updatedAt": "2026-08-28T14:09:07.477137Z",
+      "tags": {
+        "cuisine": [],
+        "goal": [],
+        "allergen": [],
+        "disliked": []
+      },
+      "mealTypes": [],
+      "equipmentIds": [],
+      "featured": false
+    },
+    {
+      "recipeId": "r_pork_radish",
+      "name": "蘿蔔燉豬肉",
+      "category": "待補資料",
+      "description": "蘿蔔清甜軟嫩，搭配豬肉慢火燉煮，湯頭鮮美不油膩，簡單家常的經典美味！",
+      "cookingTime": 60,
+      "cookingMinutes": 60,
+      "servings": 2,
+      "difficulty": "簡單",
+      "heroUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_pork_radish/hero.png",
+      "thumbnail": "https://jasson0318.github.io/myfridge-recipes/recipes/r_pork_radish/hero.png",
+      "recipeUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_pork_radish/",
+      "access": "FREE",
+      "accessLevel": "FREE",
+      "isPremium": false,
+      "version": 1,
+      "updatedAt": "2026-08-28T14:09:07.794138Z",
+      "tags": {
+        "cuisine": [],
+        "goal": [],
+        "allergen": [],
+        "disliked": []
+      },
+      "mealTypes": [],
+      "equipmentIds": [],
+      "featured": false
+    },
+    {
+      "recipeId": "r_pork_tofu",
+      "name": "豬肉燴豆腐",
+      "category": "待補資料",
+      "description": "滑嫩豆腐吸附肉汁精華，濃郁醬汁勾芡燴煮，鮮嫩順口又下飯！",
+      "cookingTime": 15,
+      "cookingMinutes": 15,
+      "servings": 2,
+      "difficulty": "簡單",
+      "heroUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_pork_tofu/hero.png",
+      "thumbnail": "https://jasson0318.github.io/myfridge-recipes/recipes/r_pork_tofu/hero.png",
+      "recipeUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_pork_tofu/",
+      "access": "FREE",
+      "accessLevel": "FREE",
+      "isPremium": false,
+      "version": 1,
+      "updatedAt": "2026-08-28T14:09:08.094245Z",
+      "tags": {
+        "cuisine": [],
+        "goal": [],
+        "allergen": [],
+        "disliked": []
+      },
+      "mealTypes": [],
+      "equipmentIds": [],
+      "featured": false
+    },
+    {
+      "recipeId": "r_pork_tomato",
+      "name": "番茄燉豬肉",
+      "category": "待補資料",
+      "description": "番茄的酸甜與豬肉的鮮美完美融合，湯汁濃郁開胃，拌飯或單喝都很棒！",
+      "cookingTime": 60,
+      "cookingMinutes": 60,
+      "servings": 2,
+      "difficulty": "簡單",
+      "heroUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_pork_tomato/hero.png",
+      "thumbnail": "https://jasson0318.github.io/myfridge-recipes/recipes/r_pork_tomato/hero.png",
+      "recipeUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_pork_tomato/",
+      "access": "FREE",
+      "accessLevel": "FREE",
+      "isPremium": false,
+      "version": 1,
+      "updatedAt": "2026-08-28T14:09:08.407755Z",
+      "tags": {
+        "cuisine": [],
+        "goal": [],
+        "allergen": [],
+        "disliked": []
+      },
+      "mealTypes": [],
+      "equipmentIds": [],
+      "featured": false
+    },
+    {
+      "recipeId": "r_pork_wood_ear",
+      "name": "木耳炒豬肉",
+      "category": "待補資料",
+      "description": "黑木耳脆嫩爽口，搭配豬肉片與胡蘿蔔絲，大火快炒香氣濃郁，健康又美味！",
+      "cookingTime": 12,
+      "cookingMinutes": 12,
+      "servings": 2,
+      "difficulty": "簡單",
+      "heroUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_pork_wood_ear/hero.png",
+      "thumbnail": "https://jasson0318.github.io/myfridge-recipes/recipes/r_pork_wood_ear/hero.png",
+      "recipeUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_pork_wood_ear/",
+      "access": "FREE",
+      "accessLevel": "FREE",
+      "isPremium": false,
+      "version": 1,
+      "updatedAt": "2026-08-28T14:09:08.705214Z",
+      "tags": {
+        "cuisine": [],
+        "goal": [],
+        "allergen": [],
+        "disliked": []
+      },
+      "mealTypes": [],
+      "equipmentIds": [],
+      "featured": false
+    },
+    {
+      "recipeId": "r_pork_zucchini",
+      "name": "櫛瓜炒豬肉",
+      "category": "待補資料",
+      "description": "鮮嫩櫛瓜多汁清甜，搭配豬肉片快炒，口感層次分明，爽口下飯！",
+      "cookingTime": 12,
+      "cookingMinutes": 12,
+      "servings": 2,
+      "difficulty": "簡單",
+      "heroUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_pork_zucchini/hero.png",
+      "thumbnail": "https://jasson0318.github.io/myfridge-recipes/recipes/r_pork_zucchini/hero.png",
+      "recipeUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_pork_zucchini/",
+      "access": "FREE",
+      "accessLevel": "FREE",
+      "isPremium": false,
+      "version": 1,
+      "updatedAt": "2026-08-28T14:09:08.997071Z",
+      "tags": {
+        "cuisine": [],
+        "goal": [],
+        "allergen": [],
+        "disliked": []
+      },
+      "mealTypes": [],
+      "equipmentIds": [],
       "featured": false
     },
     {
@@ -2317,69 +2586,6 @@
       "featured": false
     },
     {
-      "recipeId": "r_pumpkin_soup",
-      "name": "南瓜濃湯",
-      "category": "湯品",
-      "description": "南瓜自然甜味，口感綿密。",
-      "cookingTime": 20,
-      "cookingMinutes": 20,
-      "servings": 2,
-      "difficulty": "簡單",
-      "heroUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_pumpkin_soup/hero.png",
-      "thumbnail": "https://jasson0318.github.io/myfridge-recipes/recipes/r_pumpkin_soup/hero.png",
-      "recipeUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_pumpkin_soup/",
-      "access": "FREE",
-      "accessLevel": "FREE",
-      "isPremium": false,
-      "version": 2,
-      "updatedAt": "2026-08-26T13:54:10.187603Z",
-      "tags": {
-        "cuisine": [],
-        "goal": [],
-        "allergen": [],
-        "disliked": []
-      },
-      "mealTypes": [
-        "午餐"
-      ],
-      "equipmentIds": [
-        "pot"
-      ],
-      "featured": false
-    },
-    {
-      "recipeId": "r_quick_miso_egg",
-      "name": "味噌蛋花速食湯",
-      "category": "快速料理",
-      "description": "味噌湯加蛋花，快速暖胃。",
-      "cookingTime": 20,
-      "cookingMinutes": 20,
-      "servings": 2,
-      "difficulty": "簡單",
-      "heroUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_quick_miso_egg/hero.png",
-      "thumbnail": "https://jasson0318.github.io/myfridge-recipes/recipes/r_quick_miso_egg/hero.png",
-      "recipeUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_quick_miso_egg/",
-      "access": "FREE",
-      "accessLevel": "FREE",
-      "isPremium": false,
-      "version": 2,
-      "updatedAt": "2026-08-26T13:54:10.187603Z",
-      "tags": {
-        "cuisine": [],
-        "goal": [],
-        "allergen": [],
-        "disliked": []
-      },
-      "mealTypes": [
-        "早餐",
-        "宵夜"
-      ],
-      "equipmentIds": [
-        "pot"
-      ],
-      "featured": false
-    },
-    {
       "recipeId": "r_quinoa_bowl",
       "name": "藜麥蔬食碗",
       "category": "主菜",
@@ -2418,97 +2624,6 @@
         "pot",
         "rice_cooker"
       ],
-      "featured": false
-    },
-    {
-      "recipeId": "r_r4_live_test",
-      "name": "R4 Live Test Recipe",
-      "category": "測試",
-      "description": "Temporary R4.3 live sync test. Safe to delete.",
-      "cookingTime": 5,
-      "cookingMinutes": 5,
-      "servings": 1,
-      "difficulty": "easy",
-      "heroUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_r4_live_test/hero.png",
-      "thumbnail": "https://jasson0318.github.io/myfridge-recipes/recipes/r_r4_live_test/hero.png",
-      "recipeUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_r4_live_test/",
-      "access": "FREE",
-      "accessLevel": "FREE",
-      "isPremium": false,
-      "version": 1,
-      "updatedAt": "2026-08-27T14:37:21Z",
-      "tags": {
-        "cuisine": [],
-        "goal": [],
-        "allergen": [],
-        "disliked": []
-      },
-      "mealTypes": [
-        "snack"
-      ],
-      "equipmentIds": [],
-      "featured": false
-    },
-    {
-      "recipeId": "r_radish_pork_soup",
-      "name": "白蘿蔔豬肉湯",
-      "category": "湯品",
-      "description": "白蘿蔔燉到透明，湯頭清甜。",
-      "cookingTime": 20,
-      "cookingMinutes": 20,
-      "servings": 2,
-      "difficulty": "簡單",
-      "heroUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_radish_pork_soup/hero.png",
-      "thumbnail": "https://jasson0318.github.io/myfridge-recipes/recipes/r_radish_pork_soup/hero.png",
-      "recipeUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_radish_pork_soup/",
-      "access": "FREE",
-      "accessLevel": "FREE",
-      "isPremium": false,
-      "version": 2,
-      "updatedAt": "2026-08-26T13:54:10.429603Z",
-      "tags": {
-        "cuisine": [],
-        "goal": [],
-        "allergen": [],
-        "disliked": []
-      },
-      "mealTypes": [
-        "午餐",
-        "晚餐"
-      ],
-      "equipmentIds": [
-        "pot"
-      ],
-      "featured": false
-    },
-    {
-      "recipeId": "r_rice_ball_snack",
-      "name": "飯糰",
-      "category": "點心",
-      "description": "捏成飯糰，方便帶走。",
-      "cookingTime": 20,
-      "cookingMinutes": 20,
-      "servings": 2,
-      "difficulty": "簡單",
-      "heroUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_rice_ball_snack/hero.png",
-      "thumbnail": "https://jasson0318.github.io/myfridge-recipes/recipes/r_rice_ball_snack/hero.png",
-      "recipeUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_rice_ball_snack/",
-      "access": "FREE",
-      "accessLevel": "FREE",
-      "isPremium": false,
-      "version": 2,
-      "updatedAt": "2026-08-26T13:54:10.429603Z",
-      "tags": {
-        "cuisine": [],
-        "goal": [],
-        "allergen": [],
-        "disliked": []
-      },
-      "mealTypes": [
-        "早餐",
-        "午餐"
-      ],
-      "equipmentIds": [],
       "featured": false
     },
     {
@@ -2551,37 +2666,6 @@
       ],
       "equipmentIds": [
         "rice_cooker"
-      ],
-      "featured": false
-    },
-    {
-      "recipeId": "r_rice_porridge",
-      "name": "白粥",
-      "category": "早餐",
-      "description": "簡單白粥，搭配小菜剛好。",
-      "cookingTime": 20,
-      "cookingMinutes": 20,
-      "servings": 2,
-      "difficulty": "簡單",
-      "heroUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_rice_porridge/hero.png",
-      "thumbnail": "https://jasson0318.github.io/myfridge-recipes/recipes/r_rice_porridge/hero.png",
-      "recipeUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_rice_porridge/",
-      "access": "FREE",
-      "accessLevel": "FREE",
-      "isPremium": false,
-      "version": 2,
-      "updatedAt": "2026-08-26T13:54:10.655887Z",
-      "tags": {
-        "cuisine": [],
-        "goal": [],
-        "allergen": [],
-        "disliked": []
-      },
-      "mealTypes": [
-        "早餐"
-      ],
-      "equipmentIds": [
-        "pot"
       ],
       "featured": false
     },
@@ -2630,6 +2714,60 @@
       "featured": false
     },
     {
+      "recipeId": "r_salmon_egg",
+      "name": "鮭魚炒蛋",
+      "category": "待補資料",
+      "description": "鮭魚的鮮美與蛋香完美結合，簡單快手、營養豐富，是早餐或便當的絕佳選擇！",
+      "cookingTime": 15,
+      "cookingMinutes": 15,
+      "servings": 2,
+      "difficulty": "簡單",
+      "heroUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_salmon_egg/hero.png",
+      "thumbnail": "https://jasson0318.github.io/myfridge-recipes/recipes/r_salmon_egg/hero.png",
+      "recipeUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_salmon_egg/",
+      "access": "FREE",
+      "accessLevel": "FREE",
+      "isPremium": false,
+      "version": 1,
+      "updatedAt": "2026-08-28T14:09:09.319072Z",
+      "tags": {
+        "cuisine": [],
+        "goal": [],
+        "allergen": [],
+        "disliked": []
+      },
+      "mealTypes": [],
+      "equipmentIds": [],
+      "featured": false
+    },
+    {
+      "recipeId": "r_salmon_mushroom",
+      "name": "香煎鮭魚菇",
+      "category": "待補資料",
+      "description": "鮭魚外皮香酥、內裡鮮嫩多汁，搭配多種菇類的鮮甜與蒜香，健康又美味！",
+      "cookingTime": 25,
+      "cookingMinutes": 25,
+      "servings": 2,
+      "difficulty": "簡單",
+      "heroUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_salmon_mushroom/hero.png",
+      "thumbnail": "https://jasson0318.github.io/myfridge-recipes/recipes/r_salmon_mushroom/hero.png",
+      "recipeUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_salmon_mushroom/",
+      "access": "FREE",
+      "accessLevel": "FREE",
+      "isPremium": false,
+      "version": 1,
+      "updatedAt": "2026-08-28T14:09:09.630219Z",
+      "tags": {
+        "cuisine": [],
+        "goal": [],
+        "allergen": [],
+        "disliked": []
+      },
+      "mealTypes": [],
+      "equipmentIds": [],
+      "featured": false
+    },
+    {
       "recipeId": "r_salmon_rice",
       "name": "鮭魚飯",
       "category": "主菜",
@@ -2675,64 +2813,273 @@
       "featured": true
     },
     {
-      "recipeId": "r_seaweed_salad",
-      "name": "海藻沙拉",
-      "category": "前菜",
-      "description": "海藻口感，日式開胃。",
-      "cookingTime": 20,
-      "cookingMinutes": 20,
+      "recipeId": "r_salmon_tofu",
+      "name": "鮭魚豆腐湯",
+      "category": "待補資料",
+      "description": "鮭魚富含優質蛋白與Omega-3，搭配豆腐與海帶，清爽鮮甜、營養均衡！",
+      "cookingTime": 30,
+      "cookingMinutes": 30,
       "servings": 2,
       "difficulty": "簡單",
-      "heroUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_seaweed_salad/hero.png",
-      "thumbnail": "https://jasson0318.github.io/myfridge-recipes/recipes/r_seaweed_salad/hero.png",
-      "recipeUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_seaweed_salad/",
+      "heroUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_salmon_tofu/hero.png",
+      "thumbnail": "https://jasson0318.github.io/myfridge-recipes/recipes/r_salmon_tofu/hero.png",
+      "recipeUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_salmon_tofu/",
       "access": "FREE",
       "accessLevel": "FREE",
       "isPremium": false,
-      "version": 2,
-      "updatedAt": "2026-08-26T13:54:11.123308Z",
+      "version": 1,
+      "updatedAt": "2026-08-28T14:09:09.939220Z",
       "tags": {
         "cuisine": [],
         "goal": [],
         "allergen": [],
         "disliked": []
       },
-      "mealTypes": [
-        "午餐",
-        "晚餐"
-      ],
+      "mealTypes": [],
       "equipmentIds": [],
       "featured": false
     },
     {
-      "recipeId": "r_seaweed_tofu_soup",
-      "name": "海帶豆腐湯",
-      "category": "湯品",
-      "description": "海帶鮮味，豆腐滑嫩。",
-      "cookingTime": 20,
-      "cookingMinutes": 20,
+      "recipeId": "r_salmon_veg",
+      "name": "香煎鮭魚蔬菜",
+      "category": "待補資料",
+      "description": "外皮金黃酥脆、內裡鮮嫩的鮭魚，搭配繽紛時蔬，簡單煎出健康美味的一餐！",
+      "cookingTime": 25,
+      "cookingMinutes": 25,
       "servings": 2,
       "difficulty": "簡單",
-      "heroUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_seaweed_tofu_soup/hero.png",
-      "thumbnail": "https://jasson0318.github.io/myfridge-recipes/recipes/r_seaweed_tofu_soup/hero.png",
-      "recipeUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_seaweed_tofu_soup/",
+      "heroUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_salmon_veg/hero.png",
+      "thumbnail": "https://jasson0318.github.io/myfridge-recipes/recipes/r_salmon_veg/hero.png",
+      "recipeUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_salmon_veg/",
       "access": "FREE",
       "accessLevel": "FREE",
       "isPremium": false,
-      "version": 2,
-      "updatedAt": "2026-08-26T13:54:11.123308Z",
+      "version": 1,
+      "updatedAt": "2026-08-28T14:09:10.259838Z",
       "tags": {
         "cuisine": [],
         "goal": [],
         "allergen": [],
         "disliked": []
       },
-      "mealTypes": [
-        "晚餐"
-      ],
-      "equipmentIds": [
-        "pot"
-      ],
+      "mealTypes": [],
+      "equipmentIds": [],
+      "featured": false
+    },
+    {
+      "recipeId": "r_shrimp_asparagus",
+      "name": "蘆筍炒蝦仁",
+      "category": "待補資料",
+      "description": "翠綠鮮嫩蘆筍搭配爽脆鮮甜蝦仁，清爽低卡、色香味俱全的經典佳餚！",
+      "cookingTime": 12,
+      "cookingMinutes": 12,
+      "servings": 2,
+      "difficulty": "簡單",
+      "heroUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_shrimp_asparagus/hero.png",
+      "thumbnail": "https://jasson0318.github.io/myfridge-recipes/recipes/r_shrimp_asparagus/hero.png",
+      "recipeUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_shrimp_asparagus/",
+      "access": "FREE",
+      "accessLevel": "FREE",
+      "isPremium": false,
+      "version": 1,
+      "updatedAt": "2026-08-28T14:09:10.557835Z",
+      "tags": {
+        "cuisine": [],
+        "goal": [],
+        "allergen": [],
+        "disliked": []
+      },
+      "mealTypes": [],
+      "equipmentIds": [],
+      "featured": false
+    },
+    {
+      "recipeId": "r_shrimp_babycorn",
+      "name": "玉米筍炒蝦仁",
+      "category": "待補資料",
+      "description": "脆嫩玉米筍與鮮甜蝦仁大火快炒，口感清甜爽口，簡單快手家庭菜！",
+      "cookingTime": 12,
+      "cookingMinutes": 12,
+      "servings": 2,
+      "difficulty": "簡單",
+      "heroUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_shrimp_babycorn/hero.png",
+      "thumbnail": "https://jasson0318.github.io/myfridge-recipes/recipes/r_shrimp_babycorn/hero.png",
+      "recipeUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_shrimp_babycorn/",
+      "access": "FREE",
+      "accessLevel": "FREE",
+      "isPremium": false,
+      "version": 1,
+      "updatedAt": "2026-08-28T14:09:10.858835Z",
+      "tags": {
+        "cuisine": [],
+        "goal": [],
+        "allergen": [],
+        "disliked": []
+      },
+      "mealTypes": [],
+      "equipmentIds": [],
+      "featured": false
+    },
+    {
+      "recipeId": "r_shrimp_broccoli",
+      "name": "西蘭花炒蝦仁",
+      "category": "待補資料",
+      "description": "鮮綠西蘭花與彈牙鮮蝦翻炒，低脂高蛋白、健康美味，健身減脂首選！",
+      "cookingTime": 12,
+      "cookingMinutes": 12,
+      "servings": 2,
+      "difficulty": "簡單",
+      "heroUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_shrimp_broccoli/hero.png",
+      "thumbnail": "https://jasson0318.github.io/myfridge-recipes/recipes/r_shrimp_broccoli/hero.png",
+      "recipeUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_shrimp_broccoli/",
+      "access": "FREE",
+      "accessLevel": "FREE",
+      "isPremium": false,
+      "version": 1,
+      "updatedAt": "2026-08-28T14:09:11.161836Z",
+      "tags": {
+        "cuisine": [],
+        "goal": [],
+        "allergen": [],
+        "disliked": []
+      },
+      "mealTypes": [],
+      "equipmentIds": [],
+      "featured": false
+    },
+    {
+      "recipeId": "r_shrimp_cabbage",
+      "name": "高麗菜炒蝦仁",
+      "category": "待補資料",
+      "description": "甜脆高麗菜大火快炒鮮甜蝦仁，蒜香撲鼻、清甜多汁，老少咸宜！",
+      "cookingTime": 12,
+      "cookingMinutes": 12,
+      "servings": 2,
+      "difficulty": "簡單",
+      "heroUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_shrimp_cabbage/hero.png",
+      "thumbnail": "https://jasson0318.github.io/myfridge-recipes/recipes/r_shrimp_cabbage/hero.png",
+      "recipeUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_shrimp_cabbage/",
+      "access": "FREE",
+      "accessLevel": "FREE",
+      "isPremium": false,
+      "version": 1,
+      "updatedAt": "2026-08-28T14:09:11.461544Z",
+      "tags": {
+        "cuisine": [],
+        "goal": [],
+        "allergen": [],
+        "disliked": []
+      },
+      "mealTypes": [],
+      "equipmentIds": [],
+      "featured": false
+    },
+    {
+      "recipeId": "r_shrimp_celery",
+      "name": "芹菜炒蝦仁",
+      "category": "待補資料",
+      "description": "爽脆芹菜與鮮甜蝦仁快炒，清香解膩，爽口脆嫩、低卡健康！",
+      "cookingTime": 12,
+      "cookingMinutes": 12,
+      "servings": 2,
+      "difficulty": "簡單",
+      "heroUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_shrimp_celery/hero.png",
+      "thumbnail": "https://jasson0318.github.io/myfridge-recipes/recipes/r_shrimp_celery/hero.png",
+      "recipeUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_shrimp_celery/",
+      "access": "FREE",
+      "accessLevel": "FREE",
+      "isPremium": false,
+      "version": 1,
+      "updatedAt": "2026-08-28T14:09:11.752487Z",
+      "tags": {
+        "cuisine": [],
+        "goal": [],
+        "allergen": [],
+        "disliked": []
+      },
+      "mealTypes": [],
+      "equipmentIds": [],
+      "featured": false
+    },
+    {
+      "recipeId": "r_shrimp_cucumber",
+      "name": "涼拌小黃瓜蝦仁",
+      "category": "待補資料",
+      "description": "脆甜小黃瓜搭配汆燙鮮蝦，蒜香酸甜醬汁涼拌，夏日開胃解暑首選！",
+      "cookingTime": 15,
+      "cookingMinutes": 15,
+      "servings": 2,
+      "difficulty": "簡單",
+      "heroUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_shrimp_cucumber/hero.png",
+      "thumbnail": "https://jasson0318.github.io/myfridge-recipes/recipes/r_shrimp_cucumber/hero.png",
+      "recipeUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_shrimp_cucumber/",
+      "access": "FREE",
+      "accessLevel": "FREE",
+      "isPremium": false,
+      "version": 1,
+      "updatedAt": "2026-08-28T14:09:12.055486Z",
+      "tags": {
+        "cuisine": [],
+        "goal": [],
+        "allergen": [],
+        "disliked": []
+      },
+      "mealTypes": [],
+      "equipmentIds": [],
+      "featured": false
+    },
+    {
+      "recipeId": "r_shrimp_egg",
+      "name": "蝦仁滑蛋",
+      "category": "待補資料",
+      "description": "鮮甜彈牙蝦仁包裹在香濃軟嫩的滑蛋中，金黃誘人、香氣撲鼻，經典港式家常菜！",
+      "cookingTime": 10,
+      "cookingMinutes": 10,
+      "servings": 2,
+      "difficulty": "簡單",
+      "heroUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_shrimp_egg/hero.png",
+      "thumbnail": "https://jasson0318.github.io/myfridge-recipes/recipes/r_shrimp_egg/hero.png",
+      "recipeUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_shrimp_egg/",
+      "access": "FREE",
+      "accessLevel": "FREE",
+      "isPremium": false,
+      "version": 1,
+      "updatedAt": "2026-08-28T14:09:12.357084Z",
+      "tags": {
+        "cuisine": [],
+        "goal": [],
+        "allergen": [],
+        "disliked": []
+      },
+      "mealTypes": [],
+      "equipmentIds": [],
+      "featured": false
+    },
+    {
+      "recipeId": "r_shrimp_egg_tomato",
+      "name": "番茄炒蛋蝦仁",
+      "category": "待補資料",
+      "description": "經典番茄炒蛋加入彈牙鮮蝦，酸甜多汁、口感升級，超受全家歡迎的白飯殺手！",
+      "cookingTime": 15,
+      "cookingMinutes": 15,
+      "servings": 2,
+      "difficulty": "簡單",
+      "heroUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_shrimp_egg_tomato/hero.png",
+      "thumbnail": "https://jasson0318.github.io/myfridge-recipes/recipes/r_shrimp_egg_tomato/hero.png",
+      "recipeUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_shrimp_egg_tomato/",
+      "access": "FREE",
+      "accessLevel": "FREE",
+      "isPremium": false,
+      "version": 1,
+      "updatedAt": "2026-08-28T14:09:12.654159Z",
+      "tags": {
+        "cuisine": [],
+        "goal": [],
+        "allergen": [],
+        "disliked": []
+      },
+      "mealTypes": [],
+      "equipmentIds": [],
       "featured": false
     },
     {
@@ -2781,6 +3128,168 @@
       "featured": false
     },
     {
+      "recipeId": "r_shrimp_garlic_sprout",
+      "name": "蒜苗炒蝦仁",
+      "category": "待補資料",
+      "description": "蒜苗爆炒鮮甜蝦仁，鑊氣十足、香氣四溢，是一道快速上桌的熱炒佳餚！",
+      "cookingTime": 12,
+      "cookingMinutes": 12,
+      "servings": 2,
+      "difficulty": "簡單",
+      "heroUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_shrimp_garlic_sprout/hero.png",
+      "thumbnail": "https://jasson0318.github.io/myfridge-recipes/recipes/r_shrimp_garlic_sprout/hero.png",
+      "recipeUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_shrimp_garlic_sprout/",
+      "access": "FREE",
+      "accessLevel": "FREE",
+      "isPremium": false,
+      "version": 1,
+      "updatedAt": "2026-08-28T14:09:12.947227Z",
+      "tags": {
+        "cuisine": [],
+        "goal": [],
+        "allergen": [],
+        "disliked": []
+      },
+      "mealTypes": [],
+      "equipmentIds": [],
+      "featured": false
+    },
+    {
+      "recipeId": "r_shrimp_green_pepper",
+      "name": "青椒炒蝦仁",
+      "category": "待補資料",
+      "description": "脆甜青椒搭配彈牙鮮蝦，清甜中帶著獨特椒香，色澤鮮豔開胃！",
+      "cookingTime": 12,
+      "cookingMinutes": 12,
+      "servings": 2,
+      "difficulty": "簡單",
+      "heroUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_shrimp_green_pepper/hero.png",
+      "thumbnail": "https://jasson0318.github.io/myfridge-recipes/recipes/r_shrimp_green_pepper/hero.png",
+      "recipeUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_shrimp_green_pepper/",
+      "access": "FREE",
+      "accessLevel": "FREE",
+      "isPremium": false,
+      "version": 1,
+      "updatedAt": "2026-08-28T14:09:13.241519Z",
+      "tags": {
+        "cuisine": [],
+        "goal": [],
+        "allergen": [],
+        "disliked": []
+      },
+      "mealTypes": [],
+      "equipmentIds": [],
+      "featured": false
+    },
+    {
+      "recipeId": "r_shrimp_onion",
+      "name": "洋蔥炒蝦仁",
+      "category": "待補資料",
+      "description": "洋蔥炒至透明甘甜，融入彈牙鮮蝦，自然甜味在口中綻放，簡單好滋味！",
+      "cookingTime": 12,
+      "cookingMinutes": 12,
+      "servings": 2,
+      "difficulty": "簡單",
+      "heroUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_shrimp_onion/hero.png",
+      "thumbnail": "https://jasson0318.github.io/myfridge-recipes/recipes/r_shrimp_onion/hero.png",
+      "recipeUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_shrimp_onion/",
+      "access": "FREE",
+      "accessLevel": "FREE",
+      "isPremium": false,
+      "version": 1,
+      "updatedAt": "2026-08-28T14:09:13.532321Z",
+      "tags": {
+        "cuisine": [],
+        "goal": [],
+        "allergen": [],
+        "disliked": []
+      },
+      "mealTypes": [],
+      "equipmentIds": [],
+      "featured": false
+    },
+    {
+      "recipeId": "r_shrimp_snowpea",
+      "name": "荷蘭豆炒蝦仁",
+      "category": "待補資料",
+      "description": "翠綠清甜的荷蘭豆與鮮美蝦仁快炒，脆爽鮮美、色澤誘人，宴客家常皆宜！",
+      "cookingTime": 12,
+      "cookingMinutes": 12,
+      "servings": 2,
+      "difficulty": "簡單",
+      "heroUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_shrimp_snowpea/hero.png",
+      "thumbnail": "https://jasson0318.github.io/myfridge-recipes/recipes/r_shrimp_snowpea/hero.png",
+      "recipeUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_shrimp_snowpea/",
+      "access": "FREE",
+      "accessLevel": "FREE",
+      "isPremium": false,
+      "version": 1,
+      "updatedAt": "2026-08-28T14:09:13.827321Z",
+      "tags": {
+        "cuisine": [],
+        "goal": [],
+        "allergen": [],
+        "disliked": []
+      },
+      "mealTypes": [],
+      "equipmentIds": [],
+      "featured": false
+    },
+    {
+      "recipeId": "r_shrimp_tofu",
+      "name": "蝦仁豆腐煲",
+      "category": "待補資料",
+      "description": "鮮甜蝦仁與嫩豆腐慢火煲煮，濃郁鮮美湯汁吸附於豆腐之中，熱氣騰騰暖胃下飯！",
+      "cookingTime": 20,
+      "cookingMinutes": 20,
+      "servings": 2,
+      "difficulty": "簡單",
+      "heroUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_shrimp_tofu/hero.png",
+      "thumbnail": "https://jasson0318.github.io/myfridge-recipes/recipes/r_shrimp_tofu/hero.png",
+      "recipeUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_shrimp_tofu/",
+      "access": "FREE",
+      "accessLevel": "FREE",
+      "isPremium": false,
+      "version": 1,
+      "updatedAt": "2026-08-28T14:09:14.125320Z",
+      "tags": {
+        "cuisine": [],
+        "goal": [],
+        "allergen": [],
+        "disliked": []
+      },
+      "mealTypes": [],
+      "equipmentIds": [],
+      "featured": false
+    },
+    {
+      "recipeId": "r_shrimp_veg",
+      "name": "彩蔬炒蝦仁",
+      "category": "待補資料",
+      "description": "集結花椰菜、彩椒、胡蘿蔔與玉米粒，色彩繽紛多樣，搭配彈牙蝦仁營養滿分！",
+      "cookingTime": 15,
+      "cookingMinutes": 15,
+      "servings": 2,
+      "difficulty": "簡單",
+      "heroUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_shrimp_veg/hero.png",
+      "thumbnail": "https://jasson0318.github.io/myfridge-recipes/recipes/r_shrimp_veg/hero.png",
+      "recipeUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_shrimp_veg/",
+      "access": "FREE",
+      "accessLevel": "FREE",
+      "isPremium": false,
+      "version": 1,
+      "updatedAt": "2026-08-28T14:09:14.424829Z",
+      "tags": {
+        "cuisine": [],
+        "goal": [],
+        "allergen": [],
+        "disliked": []
+      },
+      "mealTypes": [],
+      "equipmentIds": [],
+      "featured": false
+    },
+    {
       "recipeId": "r_smoothie",
       "name": "蔬果調理飲",
       "category": "早餐",
@@ -2823,34 +3332,30 @@
       "featured": false
     },
     {
-      "recipeId": "r_spinach_garlic",
-      "name": "蒜蓉菠菜",
-      "category": "主菜",
-      "description": "快炒保留菠菜色澤。",
-      "cookingTime": 20,
-      "cookingMinutes": 20,
+      "recipeId": "r_spinach_egg",
+      "name": "菠菜炒蛋",
+      "category": "待補資料",
+      "description": "翠綠菠菜與金黃滑蛋翻炒，蒜香撲鼻、甘甜多汁，營養豐富的健康家常菜！",
+      "cookingTime": 10,
+      "cookingMinutes": 10,
       "servings": 2,
       "difficulty": "簡單",
-      "heroUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_spinach_garlic/hero.png",
-      "thumbnail": "https://jasson0318.github.io/myfridge-recipes/recipes/r_spinach_garlic/hero.png",
-      "recipeUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_spinach_garlic/",
+      "heroUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_spinach_egg/hero.png",
+      "thumbnail": "https://jasson0318.github.io/myfridge-recipes/recipes/r_spinach_egg/hero.png",
+      "recipeUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_spinach_egg/",
       "access": "FREE",
       "accessLevel": "FREE",
       "isPremium": false,
-      "version": 2,
-      "updatedAt": "2026-08-26T13:54:11.569259Z",
+      "version": 1,
+      "updatedAt": "2026-08-28T14:09:14.719338Z",
       "tags": {
         "cuisine": [],
         "goal": [],
         "allergen": [],
         "disliked": []
       },
-      "mealTypes": [
-        "午餐"
-      ],
-      "equipmentIds": [
-        "wok"
-      ],
+      "mealTypes": [],
+      "equipmentIds": [],
       "featured": false
     },
     {
@@ -2898,65 +3403,30 @@
       "featured": false
     },
     {
-      "recipeId": "r_spinach_tofu_soup",
-      "name": "菠菜豆腐湯",
-      "category": "湯品",
-      "description": "清淡暖胃，適合晚上。",
+      "recipeId": "r_steamed_egg",
+      "name": "日式茶碗蒸",
+      "category": "待補資料",
+      "description": "如布丁般滑嫩細緻的日式蒸蛋，加入雞肉、鮮蝦與香菇，高湯鮮味十足，暖心療癒！",
       "cookingTime": 20,
       "cookingMinutes": 20,
       "servings": 2,
       "difficulty": "簡單",
-      "heroUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_spinach_tofu_soup/hero.png",
-      "thumbnail": "https://jasson0318.github.io/myfridge-recipes/recipes/r_spinach_tofu_soup/hero.png",
-      "recipeUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_spinach_tofu_soup/",
+      "heroUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_steamed_egg/hero.png",
+      "thumbnail": "https://jasson0318.github.io/myfridge-recipes/recipes/r_steamed_egg/hero.png",
+      "recipeUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_steamed_egg/",
       "access": "FREE",
       "accessLevel": "FREE",
       "isPremium": false,
-      "version": 2,
-      "updatedAt": "2026-08-26T13:54:11.803257Z",
+      "version": 1,
+      "updatedAt": "2026-08-28T14:09:15.008339Z",
       "tags": {
         "cuisine": [],
         "goal": [],
         "allergen": [],
         "disliked": []
       },
-      "mealTypes": [
-        "晚餐"
-      ],
-      "equipmentIds": [
-        "pot"
-      ],
-      "featured": false
-    },
-    {
-      "recipeId": "r_squid_ginger",
-      "name": "薑絲炒透抽",
-      "category": "主菜",
-      "description": "薑絲去腥，透抽彈牙。",
-      "cookingTime": 20,
-      "cookingMinutes": 20,
-      "servings": 2,
-      "difficulty": "簡單",
-      "heroUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_squid_ginger/hero.png",
-      "thumbnail": "https://jasson0318.github.io/myfridge-recipes/recipes/r_squid_ginger/hero.png",
-      "recipeUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_squid_ginger/",
-      "access": "FREE",
-      "accessLevel": "FREE",
-      "isPremium": false,
-      "version": 2,
-      "updatedAt": "2026-08-26T13:54:11.803257Z",
-      "tags": {
-        "cuisine": [],
-        "goal": [],
-        "allergen": [],
-        "disliked": []
-      },
-      "mealTypes": [
-        "晚餐"
-      ],
-      "equipmentIds": [
-        "wok"
-      ],
+      "mealTypes": [],
+      "equipmentIds": [],
       "featured": false
     },
     {
@@ -3005,100 +3475,6 @@
       "featured": false
     },
     {
-      "recipeId": "r_stir_fry_udon",
-      "name": "什錦炒烏龍",
-      "category": "主菜",
-      "description": "烏龍麵與時蔬快炒。",
-      "cookingTime": 20,
-      "cookingMinutes": 20,
-      "servings": 2,
-      "difficulty": "簡單",
-      "heroUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_stir_fry_udon/hero.png",
-      "thumbnail": "https://jasson0318.github.io/myfridge-recipes/recipes/r_stir_fry_udon/hero.png",
-      "recipeUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_stir_fry_udon/",
-      "access": "FREE",
-      "accessLevel": "FREE",
-      "isPremium": false,
-      "version": 2,
-      "updatedAt": "2026-08-26T13:54:12.032257Z",
-      "tags": {
-        "cuisine": [],
-        "goal": [],
-        "allergen": [],
-        "disliked": []
-      },
-      "mealTypes": [
-        "午餐",
-        "晚餐"
-      ],
-      "equipmentIds": [
-        "wok"
-      ],
-      "featured": false
-    },
-    {
-      "recipeId": "r_stuffed_mushroom",
-      "name": "蒜烤蘑菇",
-      "category": "前菜",
-      "description": "蘑菇填蒜油，香氣十足。",
-      "cookingTime": 20,
-      "cookingMinutes": 20,
-      "servings": 2,
-      "difficulty": "簡單",
-      "heroUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_stuffed_mushroom/hero.png",
-      "thumbnail": "https://jasson0318.github.io/myfridge-recipes/recipes/r_stuffed_mushroom/hero.png",
-      "recipeUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_stuffed_mushroom/",
-      "access": "FREE",
-      "accessLevel": "FREE",
-      "isPremium": false,
-      "version": 2,
-      "updatedAt": "2026-08-26T13:54:12.033258Z",
-      "tags": {
-        "cuisine": [],
-        "goal": [],
-        "allergen": [],
-        "disliked": []
-      },
-      "mealTypes": [
-        "晚餐"
-      ],
-      "equipmentIds": [
-        "oven"
-      ],
-      "featured": false
-    },
-    {
-      "recipeId": "r_sweet_mochi",
-      "name": "烤麻糬",
-      "category": "點心",
-      "description": "外脆內軟，小確幸。",
-      "cookingTime": 20,
-      "cookingMinutes": 20,
-      "servings": 2,
-      "difficulty": "簡單",
-      "heroUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_sweet_mochi/hero.png",
-      "thumbnail": "https://jasson0318.github.io/myfridge-recipes/recipes/r_sweet_mochi/hero.png",
-      "recipeUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_sweet_mochi/",
-      "access": "FREE",
-      "accessLevel": "FREE",
-      "isPremium": false,
-      "version": 2,
-      "updatedAt": "2026-08-26T13:54:12.033258Z",
-      "tags": {
-        "cuisine": [],
-        "goal": [],
-        "allergen": [],
-        "disliked": []
-      },
-      "mealTypes": [
-        "宵夜"
-      ],
-      "equipmentIds": [
-        "oven"
-      ],
-      "featured": false
-    },
-    {
       "recipeId": "r_sweet_potato",
       "name": "電鍋地瓜",
       "category": "主菜",
@@ -3132,38 +3508,6 @@
       ],
       "equipmentIds": [
         "rice_cooker"
-      ],
-      "featured": false
-    },
-    {
-      "recipeId": "r_teriyaki_salmon",
-      "name": "照燒鮭魚排",
-      "category": "主菜",
-      "description": "照燒醬汁亮面，配飯剛好。",
-      "cookingTime": 20,
-      "cookingMinutes": 20,
-      "servings": 2,
-      "difficulty": "簡單",
-      "heroUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_teriyaki_salmon/hero.png",
-      "thumbnail": "https://jasson0318.github.io/myfridge-recipes/recipes/r_teriyaki_salmon/hero.png",
-      "recipeUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_teriyaki_salmon/",
-      "access": "FREE",
-      "accessLevel": "FREE",
-      "isPremium": false,
-      "version": 2,
-      "updatedAt": "2026-08-26T13:54:12.259316Z",
-      "tags": {
-        "cuisine": [],
-        "goal": [],
-        "allergen": [],
-        "disliked": []
-      },
-      "mealTypes": [
-        "午餐",
-        "晚餐"
-      ],
-      "equipmentIds": [
-        "pan"
       ],
       "featured": false
     },
@@ -3209,37 +3553,6 @@
       "equipmentIds": [
         "pan",
         "oven"
-      ],
-      "featured": false
-    },
-    {
-      "recipeId": "r_tofu_kimchi",
-      "name": "韓式泡菜豆腐",
-      "category": "主菜",
-      "description": "泡菜酸香，豆腐外酥內嫩。",
-      "cookingTime": 20,
-      "cookingMinutes": 20,
-      "servings": 2,
-      "difficulty": "簡單",
-      "heroUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_tofu_kimchi/hero.png",
-      "thumbnail": "https://jasson0318.github.io/myfridge-recipes/recipes/r_tofu_kimchi/hero.png",
-      "recipeUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_tofu_kimchi/",
-      "access": "FREE",
-      "accessLevel": "FREE",
-      "isPremium": false,
-      "version": 2,
-      "updatedAt": "2026-08-26T13:54:12.484259Z",
-      "tags": {
-        "cuisine": [],
-        "goal": [],
-        "allergen": [],
-        "disliked": []
-      },
-      "mealTypes": [
-        "晚餐"
-      ],
-      "equipmentIds": [
-        "pan"
       ],
       "featured": false
     },
@@ -3333,36 +3646,6 @@
       "featured": false
     },
     {
-      "recipeId": "r_tomato_mozzarella",
-      "name": "番茄起司沙拉",
-      "category": "前菜",
-      "description": "番茄與起司經典組合。",
-      "cookingTime": 20,
-      "cookingMinutes": 20,
-      "servings": 2,
-      "difficulty": "簡單",
-      "heroUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_tomato_mozzarella/hero.png",
-      "thumbnail": "https://jasson0318.github.io/myfridge-recipes/recipes/r_tomato_mozzarella/hero.png",
-      "recipeUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_tomato_mozzarella/",
-      "access": "FREE",
-      "accessLevel": "FREE",
-      "isPremium": false,
-      "version": 2,
-      "updatedAt": "2026-08-26T13:54:12.935548Z",
-      "tags": {
-        "cuisine": [],
-        "goal": [],
-        "allergen": [],
-        "disliked": []
-      },
-      "mealTypes": [
-        "午餐",
-        "晚餐"
-      ],
-      "equipmentIds": [],
-      "featured": false
-    },
-    {
       "recipeId": "r_tomato_tofu_egg",
       "name": "番茄豆腐炒蛋",
       "category": "主菜",
@@ -3405,37 +3688,6 @@
       "equipmentIds": [
         "pan",
         "wok"
-      ],
-      "featured": false
-    },
-    {
-      "recipeId": "r_tuna_rice_bowl",
-      "name": "鮪魚丼飯",
-      "category": "主菜",
-      "description": "鮪魚丁與白飯快速成餐。",
-      "cookingTime": 20,
-      "cookingMinutes": 20,
-      "servings": 2,
-      "difficulty": "簡單",
-      "heroUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_tuna_rice_bowl/hero.png",
-      "thumbnail": "https://jasson0318.github.io/myfridge-recipes/recipes/r_tuna_rice_bowl/hero.png",
-      "recipeUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_tuna_rice_bowl/",
-      "access": "FREE",
-      "accessLevel": "FREE",
-      "isPremium": false,
-      "version": 2,
-      "updatedAt": "2026-08-26T13:54:13.200110Z",
-      "tags": {
-        "cuisine": [],
-        "goal": [],
-        "allergen": [],
-        "disliked": []
-      },
-      "mealTypes": [
-        "午餐"
-      ],
-      "equipmentIds": [
-        "pan"
       ],
       "featured": false
     },
@@ -3523,95 +3775,57 @@
       "featured": false
     },
     {
-      "recipeId": "r_wonton_soup",
-      "name": "餛飩湯",
-      "category": "湯品",
-      "description": "餛飩配清湯，暖胃首選。",
-      "cookingTime": 20,
-      "cookingMinutes": 20,
+      "recipeId": "r_whitefish_tofu",
+      "name": "白肉魚豆腐煮",
+      "category": "待補資料",
+      "description": "清淡鮮美家常湯品，白肉魚搭配嫩豆腐與時蔬，營養均衡、低脂低熱量，老少咸宜！",
+      "cookingTime": 25,
+      "cookingMinutes": 25,
       "servings": 2,
       "difficulty": "簡單",
-      "heroUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_wonton_soup/hero.png",
-      "thumbnail": "https://jasson0318.github.io/myfridge-recipes/recipes/r_wonton_soup/hero.png",
-      "recipeUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_wonton_soup/",
+      "heroUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_whitefish_tofu/hero.png",
+      "thumbnail": "https://jasson0318.github.io/myfridge-recipes/recipes/r_whitefish_tofu/hero.png",
+      "recipeUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_whitefish_tofu/",
       "access": "FREE",
       "accessLevel": "FREE",
       "isPremium": false,
-      "version": 2,
-      "updatedAt": "2026-08-26T13:54:13.708307Z",
+      "version": 1,
+      "updatedAt": "2026-08-28T14:09:15.316343Z",
       "tags": {
         "cuisine": [],
         "goal": [],
         "allergen": [],
         "disliked": []
       },
-      "mealTypes": [
-        "午餐",
-        "晚餐"
-      ],
-      "equipmentIds": [
-        "pot"
-      ],
-      "featured": false
-    },
-    {
-      "recipeId": "r_yogurt_granola_bowl",
-      "name": "優格穀物碗",
-      "category": "早餐",
-      "description": "優格搭配穀物與水果。",
-      "cookingTime": 20,
-      "cookingMinutes": 20,
-      "servings": 2,
-      "difficulty": "簡單",
-      "heroUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_yogurt_granola_bowl/hero.png",
-      "thumbnail": "https://jasson0318.github.io/myfridge-recipes/recipes/r_yogurt_granola_bowl/hero.png",
-      "recipeUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_yogurt_granola_bowl/",
-      "access": "FREE",
-      "accessLevel": "FREE",
-      "isPremium": false,
-      "version": 2,
-      "updatedAt": "2026-08-26T13:54:13.708307Z",
-      "tags": {
-        "cuisine": [],
-        "goal": [],
-        "allergen": [],
-        "disliked": []
-      },
-      "mealTypes": [
-        "早餐"
-      ],
+      "mealTypes": [],
       "equipmentIds": [],
       "featured": false
     },
     {
-      "recipeId": "r_zucchini_omelette",
-      "name": "櫛瓜烘蛋",
-      "category": "主菜",
-      "description": "櫛瓜水分多，蛋香更柔。",
-      "cookingTime": 20,
-      "cookingMinutes": 20,
+      "recipeId": "r_zucchini_egg",
+      "name": "櫛瓜炒蛋",
+      "category": "待補資料",
+      "description": "清甜多汁的櫛瓜切片與金黃滑蛋快炒，鮮甜多汁、清爽健康，做法簡單迅速！",
+      "cookingTime": 10,
+      "cookingMinutes": 10,
       "servings": 2,
       "difficulty": "簡單",
-      "heroUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_zucchini_omelette/hero.png",
-      "thumbnail": "https://jasson0318.github.io/myfridge-recipes/recipes/r_zucchini_omelette/hero.png",
-      "recipeUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_zucchini_omelette/",
+      "heroUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_zucchini_egg/hero.png",
+      "thumbnail": "https://jasson0318.github.io/myfridge-recipes/recipes/r_zucchini_egg/hero.png",
+      "recipeUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_zucchini_egg/",
       "access": "FREE",
       "accessLevel": "FREE",
       "isPremium": false,
-      "version": 2,
-      "updatedAt": "2026-08-26T13:54:13.708307Z",
+      "version": 1,
+      "updatedAt": "2026-08-28T14:09:15.611050Z",
       "tags": {
         "cuisine": [],
         "goal": [],
         "allergen": [],
         "disliked": []
       },
-      "mealTypes": [
-        "午餐"
-      ],
-      "equipmentIds": [
-        "pan"
-      ],
+      "mealTypes": [],
+      "equipmentIds": [],
       "featured": false
     }
   ]

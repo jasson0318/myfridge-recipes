@@ -1,0 +1,159 @@
+{
+  "recipeId": "r_pork_pepper",
+  "name": "彩椒炒豬肉",
+  "category": "待補資料",
+  "description": "繽紛彩椒脆口甘甜，搭配滑嫩豬肉片，色香味俱全、營養豐富！",
+  "cookingTime": 15,
+  "cookingMinutes": 15,
+  "prepMinutes": 5,
+  "cookMinutes": 10,
+  "servings": 2,
+  "difficulty": "簡單",
+  "access": "FREE",
+  "accessLevel": "FREE",
+  "isPremium": false,
+  "version": 1,
+  "updatedAt": "2026-08-28T14:09:07.182137Z",
+  "heroUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_pork_pepper/hero.png",
+  "recipeUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_pork_pepper/",
+  "websiteUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_pork_pepper/",
+  "thumbnailUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_pork_pepper/hero.png",
+  "tags": {
+    "cuisine": [],
+    "goal": [],
+    "allergen": [],
+    "disliked": []
+  },
+  "mealTypes": [],
+  "equipmentIds": [],
+  "locked": false,
+  "requiresVip": false,
+  "tips": null,
+  "ingredients": [
+    {
+      "ingredientId": "pork",
+      "name": "豬里肌肉",
+      "quantity": 200.0,
+      "unit": "g",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_pork",
+      "sortOrder": 1
+    },
+    {
+      "ingredientId": "onion",
+      "name": "洋蔥",
+      "quantity": 0.5,
+      "unit": "顆",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_onion",
+      "sortOrder": 2
+    },
+    {
+      "ingredientId": "bell_pepper",
+      "name": "甜椒",
+      "quantity": 250.0,
+      "unit": "g",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_bell_pepper",
+      "sortOrder": 3
+    },
+    {
+      "ingredientId": "garlic",
+      "name": "蒜頭",
+      "quantity": 3.0,
+      "unit": "瓣",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_garlic",
+      "sortOrder": 4
+    },
+    {
+      "ingredientId": "scallion",
+      "name": "青蔥",
+      "quantity": 1.0,
+      "unit": "支",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_scallion",
+      "sortOrder": 5
+    },
+    {
+      "ingredientId": "soy_sauce",
+      "name": "醬油",
+      "quantity": 1.0,
+      "unit": "大匙",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_soy_sauce",
+      "sortOrder": 6
+    },
+    {
+      "ingredientId": "oyster_sauce",
+      "name": "蠔油",
+      "quantity": 1.0,
+      "unit": "大匙",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_oyster_sauce",
+      "sortOrder": 7
+    },
+    {
+      "ingredientId": "rice_wine",
+      "name": "米酒",
+      "quantity": 1.0,
+      "unit": "大匙",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_ext_rice_wine",
+      "sortOrder": 8
+    },
+    {
+      "ingredientId": "white_pepper_powder",
+      "name": "白胡椒粉",
+      "quantity": 0.3,
+      "unit": "少許",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_white_pepper_powder",
+      "sortOrder": 9
+    },
+    {
+      "ingredientId": "salt",
+      "name": "食鹽",
+      "quantity": 0.3,
+      "unit": "少許",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_salt",
+      "sortOrder": 10
+    },
+    {
+      "ingredientId": "oil",
+      "name": "沙拉油",
+      "quantity": 1.0,
+      "unit": "大匙",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_oil",
+      "sortOrder": 11
+    }
+  ],
+  "nutrition": {
+    "calories": 310.0,
+    "protein": 24.0,
+    "fat": 17.0,
+    "carbohydrate": 9.0,
+    "fiber": null,
+    "sodium": 610.0,
+    "source": "ocr_infographic",
+    "nutritionSource": "ocr_infographic",
+    "sourceNote": null
+  },
+  "imageUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_pork_pepper/recipe.png",
+  "imageOriginalUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_pork_pepper/recipe.png",
+  "steps": [],
+  "published": true
+}

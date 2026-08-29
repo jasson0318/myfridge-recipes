@@ -1,0 +1,149 @@
+{
+  "recipeId": "r_egg_rice_bowl",
+  "name": "滑蛋蔬菜丼",
+  "category": "待補資料",
+  "description": "滿滿蔬菜與滑嫩蛋液鋪在熱騰騰白飯上，簡單快手一鍋搞定，營養豐富又飽足！",
+  "cookingTime": 15,
+  "cookingMinutes": 15,
+  "prepMinutes": 5,
+  "cookMinutes": 10,
+  "servings": 1,
+  "difficulty": "簡單",
+  "access": "FREE",
+  "accessLevel": "FREE",
+  "isPremium": false,
+  "version": 1,
+  "updatedAt": "2026-08-28T14:09:00.619810Z",
+  "heroUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_egg_rice_bowl/hero.png",
+  "recipeUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_egg_rice_bowl/",
+  "websiteUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_egg_rice_bowl/",
+  "thumbnailUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_egg_rice_bowl/hero.png",
+  "tags": {
+    "cuisine": [],
+    "goal": [],
+    "allergen": [],
+    "disliked": []
+  },
+  "mealTypes": [],
+  "equipmentIds": [],
+  "locked": false,
+  "requiresVip": false,
+  "tips": null,
+  "ingredients": [
+    {
+      "ingredientId": "egg",
+      "name": "雞蛋",
+      "quantity": 2.0,
+      "unit": "顆",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_egg",
+      "sortOrder": 1
+    },
+    {
+      "ingredientId": "onion",
+      "name": "洋蔥",
+      "quantity": 0.25,
+      "unit": "顆",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_onion",
+      "sortOrder": 2
+    },
+    {
+      "ingredientId": "carrot",
+      "name": "胡蘿蔔",
+      "quantity": 0.25,
+      "unit": "根",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_carrot",
+      "sortOrder": 3
+    },
+    {
+      "ingredientId": "bok_choy",
+      "name": "青江菜",
+      "quantity": 1.0,
+      "unit": "棵",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_bok_choy",
+      "sortOrder": 4
+    },
+    {
+      "ingredientId": "scallion",
+      "name": "青蔥",
+      "quantity": 1.0,
+      "unit": "根",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_scallion",
+      "sortOrder": 5
+    },
+    {
+      "ingredientId": "rice",
+      "name": "米",
+      "quantity": 1.0,
+      "unit": "碗",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_rice",
+      "sortOrder": 6
+    },
+    {
+      "ingredientId": "soy_sauce",
+      "name": "醬油",
+      "quantity": 1.0,
+      "unit": "大匙",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_soy_sauce",
+      "sortOrder": 7
+    },
+    {
+      "ingredientId": "mirin",
+      "name": "味醂",
+      "quantity": 1.0,
+      "unit": "大匙",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_mirin",
+      "sortOrder": 8
+    },
+    {
+      "ingredientId": "sugar",
+      "name": "砂糖",
+      "quantity": 0.5,
+      "unit": "小匙",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_sugar",
+      "sortOrder": 9
+    },
+    {
+      "ingredientId": "oil",
+      "name": "沙拉油",
+      "quantity": 1.0,
+      "unit": "小匙",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_oil",
+      "sortOrder": 10
+    }
+  ],
+  "nutrition": {
+    "calories": 460.0,
+    "protein": 18.0,
+    "fat": 14.0,
+    "carbohydrate": 65.0,
+    "fiber": null,
+    "sodium": 680.0,
+    "source": "ocr_infographic",
+    "nutritionSource": "ocr_infographic",
+    "sourceNote": null
+  },
+  "imageUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_egg_rice_bowl/recipe.png",
+  "imageOriginalUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_egg_rice_bowl/recipe.png",
+  "steps": [],
+  "published": true
+}

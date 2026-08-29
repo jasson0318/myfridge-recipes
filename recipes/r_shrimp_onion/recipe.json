@@ -1,0 +1,139 @@
+{
+  "recipeId": "r_shrimp_onion",
+  "name": "洋蔥炒蝦仁",
+  "category": "待補資料",
+  "description": "洋蔥炒至透明甘甜，融入彈牙鮮蝦，自然甜味在口中綻放，簡單好滋味！",
+  "cookingTime": 12,
+  "cookingMinutes": 12,
+  "prepMinutes": 5,
+  "cookMinutes": 7,
+  "servings": 2,
+  "difficulty": "簡單",
+  "access": "FREE",
+  "accessLevel": "FREE",
+  "isPremium": false,
+  "version": 1,
+  "updatedAt": "2026-08-28T14:09:13.532321Z",
+  "heroUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_shrimp_onion/hero.png",
+  "recipeUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_shrimp_onion/",
+  "websiteUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_shrimp_onion/",
+  "thumbnailUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_shrimp_onion/hero.png",
+  "tags": {
+    "cuisine": [],
+    "goal": [],
+    "allergen": [],
+    "disliked": []
+  },
+  "mealTypes": [],
+  "equipmentIds": [],
+  "locked": false,
+  "requiresVip": false,
+  "tips": null,
+  "ingredients": [
+    {
+      "ingredientId": "shrimp",
+      "name": "蝦",
+      "quantity": 200.0,
+      "unit": "g",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_shrimp",
+      "sortOrder": 1
+    },
+    {
+      "ingredientId": "onion",
+      "name": "洋蔥",
+      "quantity": 200.0,
+      "unit": "g",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_onion",
+      "sortOrder": 2
+    },
+    {
+      "ingredientId": "carrot",
+      "name": "胡蘿蔔",
+      "quantity": 0.25,
+      "unit": "根",
+      "group": null,
+      "optional": true,
+      "foodReferenceId": "nut_carrot",
+      "sortOrder": 3
+    },
+    {
+      "ingredientId": "scallion",
+      "name": "青蔥",
+      "quantity": 2.0,
+      "unit": "支",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_scallion",
+      "sortOrder": 4
+    },
+    {
+      "ingredientId": "garlic",
+      "name": "蒜頭",
+      "quantity": 3.0,
+      "unit": "瓣",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_garlic",
+      "sortOrder": 5
+    },
+    {
+      "ingredientId": "salt",
+      "name": "食鹽",
+      "quantity": 0.3,
+      "unit": "小匙",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_salt",
+      "sortOrder": 6
+    },
+    {
+      "ingredientId": "black_pepper_powder",
+      "name": "黑胡椒粉",
+      "quantity": 0.3,
+      "unit": "少許",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_black_pepper_powder",
+      "sortOrder": 7
+    },
+    {
+      "ingredientId": "rice_wine",
+      "name": "米酒",
+      "quantity": 1.0,
+      "unit": "大匙",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_ext_rice_wine",
+      "sortOrder": 8
+    },
+    {
+      "ingredientId": "oil",
+      "name": "沙拉油",
+      "quantity": 1.0,
+      "unit": "大匙",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_oil",
+      "sortOrder": 9
+    }
+  ],
+  "nutrition": {
+    "calories": 190.0,
+    "protein": 22.0,
+    "fat": 6.5,
+    "carbohydrate": 9.5,
+    "fiber": null,
+    "sodium": 490.0,
+    "source": "ocr_infographic",
+    "nutritionSource": "ocr_infographic",
+    "sourceNote": null
+  },
+  "imageUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_shrimp_onion/recipe.png",
+  "imageOriginalUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_shrimp_onion/recipe.png",
+  "steps": [],
+  "published": true
+}

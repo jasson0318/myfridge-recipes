@@ -1,0 +1,149 @@
+{
+  "recipeId": "r_pork_radish",
+  "name": "蘿蔔燉豬肉",
+  "category": "待補資料",
+  "description": "蘿蔔清甜軟嫩，搭配豬肉慢火燉煮，湯頭鮮美不油膩，簡單家常的經典美味！",
+  "cookingTime": 60,
+  "cookingMinutes": 60,
+  "prepMinutes": 15,
+  "cookMinutes": 45,
+  "servings": 2,
+  "difficulty": "簡單",
+  "access": "FREE",
+  "accessLevel": "FREE",
+  "isPremium": false,
+  "version": 1,
+  "updatedAt": "2026-08-28T14:09:07.794138Z",
+  "heroUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_pork_radish/hero.png",
+  "recipeUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_pork_radish/",
+  "websiteUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_pork_radish/",
+  "thumbnailUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_pork_radish/hero.png",
+  "tags": {
+    "cuisine": [],
+    "goal": [],
+    "allergen": [],
+    "disliked": []
+  },
+  "mealTypes": [],
+  "equipmentIds": [],
+  "locked": false,
+  "requiresVip": false,
+  "tips": null,
+  "ingredients": [
+    {
+      "ingredientId": "pork",
+      "name": "豬肋條",
+      "quantity": 300.0,
+      "unit": "g",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_pork",
+      "sortOrder": 1
+    },
+    {
+      "ingredientId": "daikon",
+      "name": "白蘿蔔",
+      "quantity": 600.0,
+      "unit": "g",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_daikon",
+      "sortOrder": 2
+    },
+    {
+      "ingredientId": "carrot",
+      "name": "胡蘿蔔",
+      "quantity": 0.5,
+      "unit": "條",
+      "group": null,
+      "optional": true,
+      "foodReferenceId": "nut_carrot",
+      "sortOrder": 3
+    },
+    {
+      "ingredientId": "ginger",
+      "name": "薑",
+      "quantity": 5.0,
+      "unit": "片",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_ginger",
+      "sortOrder": 4
+    },
+    {
+      "ingredientId": "garlic",
+      "name": "蒜頭",
+      "quantity": 3.0,
+      "unit": "瓣",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_garlic",
+      "sortOrder": 5
+    },
+    {
+      "ingredientId": "scallion",
+      "name": "青蔥",
+      "quantity": 1.0,
+      "unit": "支",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_scallion",
+      "sortOrder": 6
+    },
+    {
+      "ingredientId": "rice_wine",
+      "name": "米酒",
+      "quantity": 1.0,
+      "unit": "大匙",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_ext_rice_wine",
+      "sortOrder": 7
+    },
+    {
+      "ingredientId": "soy_sauce",
+      "name": "醬油",
+      "quantity": 2.0,
+      "unit": "大匙",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_soy_sauce",
+      "sortOrder": 8
+    },
+    {
+      "ingredientId": "salt",
+      "name": "食鹽",
+      "quantity": 0.5,
+      "unit": "小匙",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_salt",
+      "sortOrder": 9
+    },
+    {
+      "ingredientId": "white_pepper_powder",
+      "name": "白胡椒粉",
+      "quantity": 0.3,
+      "unit": "少許",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_white_pepper_powder",
+      "sortOrder": 10
+    }
+  ],
+  "nutrition": {
+    "calories": 420.0,
+    "protein": 26.0,
+    "fat": 16.0,
+    "carbohydrate": 40.0,
+    "fiber": null,
+    "sodium": 880.0,
+    "source": "ocr_infographic",
+    "nutritionSource": "ocr_infographic",
+    "sourceNote": null
+  },
+  "imageUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_pork_radish/recipe.png",
+  "imageOriginalUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_pork_radish/recipe.png",
+  "steps": [],
+  "published": true
+}

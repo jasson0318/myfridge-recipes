@@ -1,0 +1,159 @@
+{
+  "recipeId": "r_pork_wood_ear",
+  "name": "木耳炒豬肉",
+  "category": "待補資料",
+  "description": "黑木耳脆嫩爽口，搭配豬肉片與胡蘿蔔絲，大火快炒香氣濃郁，健康又美味！",
+  "cookingTime": 12,
+  "cookingMinutes": 12,
+  "prepMinutes": 5,
+  "cookMinutes": 7,
+  "servings": 2,
+  "difficulty": "簡單",
+  "access": "FREE",
+  "accessLevel": "FREE",
+  "isPremium": false,
+  "version": 1,
+  "updatedAt": "2026-08-28T14:09:08.705214Z",
+  "heroUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_pork_wood_ear/hero.png",
+  "recipeUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_pork_wood_ear/",
+  "websiteUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_pork_wood_ear/",
+  "thumbnailUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_pork_wood_ear/hero.png",
+  "tags": {
+    "cuisine": [],
+    "goal": [],
+    "allergen": [],
+    "disliked": []
+  },
+  "mealTypes": [],
+  "equipmentIds": [],
+  "locked": false,
+  "requiresVip": false,
+  "tips": null,
+  "ingredients": [
+    {
+      "ingredientId": "pork",
+      "name": "豬里肌肉",
+      "quantity": 200.0,
+      "unit": "g",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_pork",
+      "sortOrder": 1
+    },
+    {
+      "ingredientId": "wood_ear_mushroom",
+      "name": "黑木耳",
+      "quantity": 100.0,
+      "unit": "g",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_wood_ear_mushroom",
+      "sortOrder": 2
+    },
+    {
+      "ingredientId": "carrot",
+      "name": "胡蘿蔔",
+      "quantity": 0.25,
+      "unit": "根",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_carrot",
+      "sortOrder": 3
+    },
+    {
+      "ingredientId": "scallion",
+      "name": "青蔥",
+      "quantity": 2.0,
+      "unit": "根",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_scallion",
+      "sortOrder": 4
+    },
+    {
+      "ingredientId": "garlic",
+      "name": "蒜頭",
+      "quantity": 3.0,
+      "unit": "瓣",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_garlic",
+      "sortOrder": 5
+    },
+    {
+      "ingredientId": "soy_sauce",
+      "name": "醬油",
+      "quantity": 1.0,
+      "unit": "大匙",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_soy_sauce",
+      "sortOrder": 6
+    },
+    {
+      "ingredientId": "oyster_sauce",
+      "name": "蠔油",
+      "quantity": 1.0,
+      "unit": "大匙",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_oyster_sauce",
+      "sortOrder": 7
+    },
+    {
+      "ingredientId": "rice_wine",
+      "name": "米酒",
+      "quantity": 1.0,
+      "unit": "大匙",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_ext_rice_wine",
+      "sortOrder": 8
+    },
+    {
+      "ingredientId": "salt",
+      "name": "食鹽",
+      "quantity": 0.3,
+      "unit": "小匙",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_salt",
+      "sortOrder": 9
+    },
+    {
+      "ingredientId": "white_pepper_powder",
+      "name": "白胡椒粉",
+      "quantity": 0.3,
+      "unit": "少許",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_white_pepper_powder",
+      "sortOrder": 10
+    },
+    {
+      "ingredientId": "oil",
+      "name": "沙拉油",
+      "quantity": 1.0,
+      "unit": "大匙",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_oil",
+      "sortOrder": 11
+    }
+  ],
+  "nutrition": {
+    "calories": 290.0,
+    "protein": 24.0,
+    "fat": 17.0,
+    "carbohydrate": 6.5,
+    "fiber": null,
+    "sodium": 600.0,
+    "source": "ocr_infographic",
+    "nutritionSource": "ocr_infographic",
+    "sourceNote": null
+  },
+  "imageUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_pork_wood_ear/recipe.png",
+  "imageOriginalUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_pork_wood_ear/recipe.png",
+  "steps": [],
+  "published": true
+}

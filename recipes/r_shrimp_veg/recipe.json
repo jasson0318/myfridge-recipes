@@ -1,0 +1,159 @@
+{
+  "recipeId": "r_shrimp_veg",
+  "name": "彩蔬炒蝦仁",
+  "category": "待補資料",
+  "description": "集結花椰菜、彩椒、胡蘿蔔與玉米粒，色彩繽紛多樣，搭配彈牙蝦仁營養滿分！",
+  "cookingTime": 15,
+  "cookingMinutes": 15,
+  "prepMinutes": 5,
+  "cookMinutes": 10,
+  "servings": 2,
+  "difficulty": "簡單",
+  "access": "FREE",
+  "accessLevel": "FREE",
+  "isPremium": false,
+  "version": 1,
+  "updatedAt": "2026-08-28T14:09:14.424829Z",
+  "heroUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_shrimp_veg/hero.png",
+  "recipeUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_shrimp_veg/",
+  "websiteUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_shrimp_veg/",
+  "thumbnailUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_shrimp_veg/hero.png",
+  "tags": {
+    "cuisine": [],
+    "goal": [],
+    "allergen": [],
+    "disliked": []
+  },
+  "mealTypes": [],
+  "equipmentIds": [],
+  "locked": false,
+  "requiresVip": false,
+  "tips": null,
+  "ingredients": [
+    {
+      "ingredientId": "shrimp",
+      "name": "蝦",
+      "quantity": 200.0,
+      "unit": "g",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_shrimp",
+      "sortOrder": 1
+    },
+    {
+      "ingredientId": "cauliflower",
+      "name": "花椰菜",
+      "quantity": 100.0,
+      "unit": "g",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_cauliflower",
+      "sortOrder": 2
+    },
+    {
+      "ingredientId": "carrot",
+      "name": "胡蘿蔔",
+      "quantity": 80.0,
+      "unit": "g",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_carrot",
+      "sortOrder": 3
+    },
+    {
+      "ingredientId": "bell_pepper",
+      "name": "甜椒",
+      "quantity": 0.5,
+      "unit": "顆",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_bell_pepper",
+      "sortOrder": 4
+    },
+    {
+      "ingredientId": "corn",
+      "name": "玉米",
+      "quantity": 50.0,
+      "unit": "g",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_corn",
+      "sortOrder": 5
+    },
+    {
+      "ingredientId": "onion",
+      "name": "洋蔥",
+      "quantity": 0.25,
+      "unit": "顆",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_onion",
+      "sortOrder": 6
+    },
+    {
+      "ingredientId": "garlic",
+      "name": "蒜頭",
+      "quantity": 3.0,
+      "unit": "瓣",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_garlic",
+      "sortOrder": 7
+    },
+    {
+      "ingredientId": "salt",
+      "name": "食鹽",
+      "quantity": 0.5,
+      "unit": "小匙",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_salt",
+      "sortOrder": 8
+    },
+    {
+      "ingredientId": "white_pepper_powder",
+      "name": "白胡椒粉",
+      "quantity": 0.3,
+      "unit": "少許",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_white_pepper_powder",
+      "sortOrder": 9
+    },
+    {
+      "ingredientId": "rice_wine",
+      "name": "米酒",
+      "quantity": 1.0,
+      "unit": "大匙",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_ext_rice_wine",
+      "sortOrder": 10
+    },
+    {
+      "ingredientId": "oil",
+      "name": "沙拉油",
+      "quantity": 1.0,
+      "unit": "大匙",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_oil",
+      "sortOrder": 11
+    }
+  ],
+  "nutrition": {
+    "calories": 200.0,
+    "protein": 23.0,
+    "fat": 7.0,
+    "carbohydrate": 11.0,
+    "fiber": null,
+    "sodium": 520.0,
+    "source": "ocr_infographic",
+    "nutritionSource": "ocr_infographic",
+    "sourceNote": null
+  },
+  "imageUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_shrimp_veg/recipe.png",
+  "imageOriginalUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_shrimp_veg/recipe.png",
+  "steps": [],
+  "published": true
+}

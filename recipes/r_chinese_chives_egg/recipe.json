@@ -1,0 +1,109 @@
+{
+  "recipeId": "r_chinese_chives_egg",
+  "name": "韭菜炒蛋",
+  "category": "待補資料",
+  "description": "香濃滑蛋與香氣濃郁的韭菜完美結合，簡單調味、快速翻炒，經典家常好味道！",
+  "cookingTime": 10,
+  "cookingMinutes": 10,
+  "prepMinutes": 5,
+  "cookMinutes": 5,
+  "servings": 2,
+  "difficulty": "簡單",
+  "access": "FREE",
+  "accessLevel": "FREE",
+  "isPremium": false,
+  "version": 1,
+  "updatedAt": "2026-08-28T14:08:59.735247Z",
+  "heroUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_chinese_chives_egg/hero.png",
+  "recipeUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_chinese_chives_egg/",
+  "websiteUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_chinese_chives_egg/",
+  "thumbnailUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_chinese_chives_egg/hero.png",
+  "tags": {
+    "cuisine": [],
+    "goal": [],
+    "allergen": [],
+    "disliked": []
+  },
+  "mealTypes": [],
+  "equipmentIds": [],
+  "locked": false,
+  "requiresVip": false,
+  "tips": null,
+  "ingredients": [
+    {
+      "ingredientId": "egg",
+      "name": "雞蛋",
+      "quantity": 3.0,
+      "unit": "顆",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_egg",
+      "sortOrder": 1
+    },
+    {
+      "ingredientId": "chinese_chive",
+      "name": "韭菜",
+      "quantity": 200.0,
+      "unit": "g",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_chinese_chive",
+      "sortOrder": 2
+    },
+    {
+      "ingredientId": "salt",
+      "name": "食鹽",
+      "quantity": 0.5,
+      "unit": "小匙",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_salt",
+      "sortOrder": 3
+    },
+    {
+      "ingredientId": "white_pepper_powder",
+      "name": "白胡椒粉",
+      "quantity": 0.3,
+      "unit": "少許",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_white_pepper_powder",
+      "sortOrder": 4
+    },
+    {
+      "ingredientId": "rice_wine",
+      "name": "米酒",
+      "quantity": 1.0,
+      "unit": "大匙",
+      "group": null,
+      "optional": true,
+      "foodReferenceId": "nut_ext_rice_wine",
+      "sortOrder": 5
+    },
+    {
+      "ingredientId": "oil",
+      "name": "沙拉油",
+      "quantity": 1.0,
+      "unit": "大匙",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_oil",
+      "sortOrder": 6
+    }
+  ],
+  "nutrition": {
+    "calories": 220.0,
+    "protein": 14.0,
+    "fat": 16.0,
+    "carbohydrate": 5.0,
+    "fiber": null,
+    "sodium": 480.0,
+    "source": "ocr_infographic",
+    "nutritionSource": "ocr_infographic",
+    "sourceNote": null
+  },
+  "imageUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_chinese_chives_egg/recipe.png",
+  "imageOriginalUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_chinese_chives_egg/recipe.png",
+  "steps": [],
+  "published": true
+}

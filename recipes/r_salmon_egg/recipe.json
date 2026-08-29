@@ -1,0 +1,129 @@
+{
+  "recipeId": "r_salmon_egg",
+  "name": "鮭魚炒蛋",
+  "category": "待補資料",
+  "description": "鮭魚的鮮美與蛋香完美結合，簡單快手、營養豐富，是早餐或便當的絕佳選擇！",
+  "cookingTime": 15,
+  "cookingMinutes": 15,
+  "prepMinutes": 5,
+  "cookMinutes": 10,
+  "servings": 2,
+  "difficulty": "簡單",
+  "access": "FREE",
+  "accessLevel": "FREE",
+  "isPremium": false,
+  "version": 1,
+  "updatedAt": "2026-08-28T14:09:09.319072Z",
+  "heroUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_salmon_egg/hero.png",
+  "recipeUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_salmon_egg/",
+  "websiteUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_salmon_egg/",
+  "thumbnailUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_salmon_egg/hero.png",
+  "tags": {
+    "cuisine": [],
+    "goal": [],
+    "allergen": [],
+    "disliked": []
+  },
+  "mealTypes": [],
+  "equipmentIds": [],
+  "locked": false,
+  "requiresVip": false,
+  "tips": null,
+  "ingredients": [
+    {
+      "ingredientId": "salmon",
+      "name": "鮭魚",
+      "quantity": 150.0,
+      "unit": "g",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_salmon",
+      "sortOrder": 1
+    },
+    {
+      "ingredientId": "egg",
+      "name": "雞蛋",
+      "quantity": 3.0,
+      "unit": "顆",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_egg",
+      "sortOrder": 2
+    },
+    {
+      "ingredientId": "scallion",
+      "name": "青蔥",
+      "quantity": 1.0,
+      "unit": "支",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_scallion",
+      "sortOrder": 3
+    },
+    {
+      "ingredientId": "garlic",
+      "name": "蒜頭",
+      "quantity": 2.0,
+      "unit": "瓣",
+      "group": null,
+      "optional": true,
+      "foodReferenceId": "nut_garlic",
+      "sortOrder": 4
+    },
+    {
+      "ingredientId": "milk",
+      "name": "全脂牛奶",
+      "quantity": 1.0,
+      "unit": "大匙",
+      "group": null,
+      "optional": true,
+      "foodReferenceId": "nut_milk",
+      "sortOrder": 5
+    },
+    {
+      "ingredientId": "salt",
+      "name": "食鹽",
+      "quantity": 0.3,
+      "unit": "小匙",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_salt",
+      "sortOrder": 6
+    },
+    {
+      "ingredientId": "black_pepper_powder",
+      "name": "黑胡椒粉",
+      "quantity": 0.3,
+      "unit": "少許",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_black_pepper_powder",
+      "sortOrder": 7
+    },
+    {
+      "ingredientId": "olive_oil",
+      "name": "橄欖油",
+      "quantity": 1.0,
+      "unit": "大匙",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_olive_oil",
+      "sortOrder": 8
+    }
+  ],
+  "nutrition": {
+    "calories": 370.0,
+    "protein": 28.0,
+    "fat": 24.0,
+    "carbohydrate": 4.0,
+    "fiber": null,
+    "sodium": 520.0,
+    "source": "ocr_infographic",
+    "nutritionSource": "ocr_infographic",
+    "sourceNote": null
+  },
+  "imageUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_salmon_egg/recipe.png",
+  "imageOriginalUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_salmon_egg/recipe.png",
+  "steps": [],
+  "published": true
+}

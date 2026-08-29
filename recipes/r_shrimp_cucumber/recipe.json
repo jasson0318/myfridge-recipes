@@ -1,0 +1,129 @@
+{
+  "recipeId": "r_shrimp_cucumber",
+  "name": "涼拌小黃瓜蝦仁",
+  "category": "待補資料",
+  "description": "脆甜小黃瓜搭配汆燙鮮蝦，蒜香酸甜醬汁涼拌，夏日開胃解暑首選！",
+  "cookingTime": 15,
+  "cookingMinutes": 15,
+  "prepMinutes": 10,
+  "cookMinutes": 5,
+  "servings": 2,
+  "difficulty": "簡單",
+  "access": "FREE",
+  "accessLevel": "FREE",
+  "isPremium": false,
+  "version": 1,
+  "updatedAt": "2026-08-28T14:09:12.055486Z",
+  "heroUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_shrimp_cucumber/hero.png",
+  "recipeUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_shrimp_cucumber/",
+  "websiteUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_shrimp_cucumber/",
+  "thumbnailUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_shrimp_cucumber/hero.png",
+  "tags": {
+    "cuisine": [],
+    "goal": [],
+    "allergen": [],
+    "disliked": []
+  },
+  "mealTypes": [],
+  "equipmentIds": [],
+  "locked": false,
+  "requiresVip": false,
+  "tips": null,
+  "ingredients": [
+    {
+      "ingredientId": "shrimp",
+      "name": "蝦",
+      "quantity": 200.0,
+      "unit": "g",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_shrimp",
+      "sortOrder": 1
+    },
+    {
+      "ingredientId": "cucumber",
+      "name": "小黃瓜",
+      "quantity": 2.0,
+      "unit": "條",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_cucumber",
+      "sortOrder": 2
+    },
+    {
+      "ingredientId": "garlic",
+      "name": "蒜頭",
+      "quantity": 3.0,
+      "unit": "瓣",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_garlic",
+      "sortOrder": 3
+    },
+    {
+      "ingredientId": "korean_chili_pepper",
+      "name": "紅辣椒",
+      "quantity": 1.0,
+      "unit": "根",
+      "group": null,
+      "optional": true,
+      "foodReferenceId": "nut_korean_chili_pepper",
+      "sortOrder": 4
+    },
+    {
+      "ingredientId": "cilantro",
+      "name": "香菜",
+      "quantity": 1.0,
+      "unit": "小株",
+      "group": null,
+      "optional": true,
+      "foodReferenceId": "nut_cilantro",
+      "sortOrder": 5
+    },
+    {
+      "ingredientId": "salt",
+      "name": "食鹽",
+      "quantity": 0.3,
+      "unit": "小匙",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_salt",
+      "sortOrder": 6
+    },
+    {
+      "ingredientId": "sugar",
+      "name": "砂糖",
+      "quantity": 0.5,
+      "unit": "小匙",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_sugar",
+      "sortOrder": 7
+    },
+    {
+      "ingredientId": "sesame_oil",
+      "name": "香油",
+      "quantity": 1.0,
+      "unit": "小匙",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_sesame_oil",
+      "sortOrder": 8
+    }
+  ],
+  "nutrition": {
+    "calories": 160.0,
+    "protein": 22.0,
+    "fat": 5.0,
+    "carbohydrate": 6.0,
+    "fiber": null,
+    "sodium": 520.0,
+    "source": "ocr_infographic",
+    "nutritionSource": "ocr_infographic",
+    "sourceNote": null
+  },
+  "imageUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_shrimp_cucumber/recipe.png",
+  "imageOriginalUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_shrimp_cucumber/recipe.png",
+  "steps": [],
+  "published": true
+}

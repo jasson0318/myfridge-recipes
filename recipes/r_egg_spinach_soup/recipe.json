@@ -1,0 +1,109 @@
+{
+  "recipeId": "r_egg_spinach_soup",
+  "name": "菠菜蛋花湯",
+  "category": "待補資料",
+  "description": "翠綠菠菜搭配如絲般細緻的蛋花，清爽甘甜、營養滿分，暖胃又好喝！",
+  "cookingTime": 10,
+  "cookingMinutes": 10,
+  "prepMinutes": 5,
+  "cookMinutes": 5,
+  "servings": 2,
+  "difficulty": "簡單",
+  "access": "FREE",
+  "accessLevel": "FREE",
+  "isPremium": false,
+  "version": 1,
+  "updatedAt": "2026-08-28T14:09:00.907810Z",
+  "heroUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_egg_spinach_soup/hero.png",
+  "recipeUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_egg_spinach_soup/",
+  "websiteUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_egg_spinach_soup/",
+  "thumbnailUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_egg_spinach_soup/hero.png",
+  "tags": {
+    "cuisine": [],
+    "goal": [],
+    "allergen": [],
+    "disliked": []
+  },
+  "mealTypes": [],
+  "equipmentIds": [],
+  "locked": false,
+  "requiresVip": false,
+  "tips": null,
+  "ingredients": [
+    {
+      "ingredientId": "egg",
+      "name": "雞蛋",
+      "quantity": 2.0,
+      "unit": "顆",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_egg",
+      "sortOrder": 1
+    },
+    {
+      "ingredientId": "spinach",
+      "name": "菠菜",
+      "quantity": 200.0,
+      "unit": "g",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_spinach",
+      "sortOrder": 2
+    },
+    {
+      "ingredientId": "garlic",
+      "name": "蒜頭",
+      "quantity": 2.0,
+      "unit": "瓣",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_garlic",
+      "sortOrder": 3
+    },
+    {
+      "ingredientId": "salt",
+      "name": "食鹽",
+      "quantity": 0.5,
+      "unit": "小匙",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_salt",
+      "sortOrder": 4
+    },
+    {
+      "ingredientId": "white_pepper_powder",
+      "name": "白胡椒粉",
+      "quantity": 0.3,
+      "unit": "少許",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_white_pepper_powder",
+      "sortOrder": 5
+    },
+    {
+      "ingredientId": "sesame_oil",
+      "name": "香油",
+      "quantity": 0.5,
+      "unit": "小匙",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_sesame_oil",
+      "sortOrder": 6
+    }
+  ],
+  "nutrition": {
+    "calories": 110.0,
+    "protein": 9.0,
+    "fat": 6.5,
+    "carbohydrate": 4.5,
+    "fiber": null,
+    "sodium": 520.0,
+    "source": "ocr_infographic",
+    "nutritionSource": "ocr_infographic",
+    "sourceNote": null
+  },
+  "imageUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_egg_spinach_soup/recipe.png",
+  "imageOriginalUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_egg_spinach_soup/recipe.png",
+  "steps": [],
+  "published": true
+}

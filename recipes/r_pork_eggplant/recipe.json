@@ -1,0 +1,169 @@
+{
+  "recipeId": "r_pork_eggplant",
+  "name": "茄子炒豬肉",
+  "category": "待補資料",
+  "description": "茄子吸附豬肉香氣與濃郁醬汁，軟嫩綿密入口即化，是極佳的白飯殺手！",
+  "cookingTime": 15,
+  "cookingMinutes": 15,
+  "prepMinutes": 5,
+  "cookMinutes": 10,
+  "servings": 2,
+  "difficulty": "簡單",
+  "access": "FREE",
+  "accessLevel": "FREE",
+  "isPremium": false,
+  "version": 1,
+  "updatedAt": "2026-08-28T14:09:05.386803Z",
+  "heroUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_pork_eggplant/hero.png",
+  "recipeUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_pork_eggplant/",
+  "websiteUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_pork_eggplant/",
+  "thumbnailUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_pork_eggplant/hero.png",
+  "tags": {
+    "cuisine": [],
+    "goal": [],
+    "allergen": [],
+    "disliked": []
+  },
+  "mealTypes": [],
+  "equipmentIds": [],
+  "locked": false,
+  "requiresVip": false,
+  "tips": null,
+  "ingredients": [
+    {
+      "ingredientId": "pork",
+      "name": "豬里肌肉",
+      "quantity": 200.0,
+      "unit": "g",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_pork",
+      "sortOrder": 1
+    },
+    {
+      "ingredientId": "eggplant",
+      "name": "茄子",
+      "quantity": 300.0,
+      "unit": "g",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_eggplant",
+      "sortOrder": 2
+    },
+    {
+      "ingredientId": "garlic",
+      "name": "蒜頭",
+      "quantity": 3.0,
+      "unit": "瓣",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_garlic",
+      "sortOrder": 3
+    },
+    {
+      "ingredientId": "ginger",
+      "name": "薑",
+      "quantity": 1.0,
+      "unit": "小塊",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_ginger",
+      "sortOrder": 4
+    },
+    {
+      "ingredientId": "scallion",
+      "name": "青蔥",
+      "quantity": 2.0,
+      "unit": "支",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_scallion",
+      "sortOrder": 5
+    },
+    {
+      "ingredientId": "korean_chili_pepper",
+      "name": "紅辣椒",
+      "quantity": 1.0,
+      "unit": "根",
+      "group": null,
+      "optional": true,
+      "foodReferenceId": "nut_korean_chili_pepper",
+      "sortOrder": 6
+    },
+    {
+      "ingredientId": "soy_sauce",
+      "name": "醬油",
+      "quantity": 1.0,
+      "unit": "大匙",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_soy_sauce",
+      "sortOrder": 7
+    },
+    {
+      "ingredientId": "oyster_sauce",
+      "name": "蠔油",
+      "quantity": 1.0,
+      "unit": "大匙",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_oyster_sauce",
+      "sortOrder": 8
+    },
+    {
+      "ingredientId": "rice_wine",
+      "name": "米酒",
+      "quantity": 1.0,
+      "unit": "大匙",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_ext_rice_wine",
+      "sortOrder": 9
+    },
+    {
+      "ingredientId": "sugar",
+      "name": "砂糖",
+      "quantity": 0.5,
+      "unit": "小匙",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_sugar",
+      "sortOrder": 10
+    },
+    {
+      "ingredientId": "white_pepper_powder",
+      "name": "白胡椒粉",
+      "quantity": 0.3,
+      "unit": "少許",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_white_pepper_powder",
+      "sortOrder": 11
+    },
+    {
+      "ingredientId": "oil",
+      "name": "沙拉油",
+      "quantity": 1.0,
+      "unit": "大匙",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_oil",
+      "sortOrder": 12
+    }
+  ],
+  "nutrition": {
+    "calories": 320.0,
+    "protein": 24.0,
+    "fat": 19.0,
+    "carbohydrate": 11.0,
+    "fiber": null,
+    "sodium": 660.0,
+    "source": "ocr_infographic",
+    "nutritionSource": "ocr_infographic",
+    "sourceNote": null
+  },
+  "imageUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_pork_eggplant/recipe.png",
+  "imageOriginalUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_pork_eggplant/recipe.png",
+  "steps": [],
+  "published": true
+}
