@@ -1,0 +1,183 @@
+{
+  "recipeId": "r_pan_seared_salmon",
+  "name": "香煎鮭魚",
+  "category": "主菜",
+  "description": "鮭魚以橄欖油煎出金黃酥香外皮，再用奶油與蒜香提味，搭配檸檬與蔬菜，簡單完成鮮嫩多汁的一餐。",
+  "cookingTime": 15,
+  "cookingMinutes": 15,
+  "prepMinutes": null,
+  "cookMinutes": null,
+  "servings": 2,
+  "difficulty": "簡單",
+  "access": "VIP",
+  "accessLevel": "VIP",
+  "isPremium": true,
+  "version": 1,
+  "updatedAt": "2026-09-03T12:29:48.756162Z",
+  "heroUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_pan_seared_salmon/hero.png",
+  "recipeUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_pan_seared_salmon/",
+  "websiteUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_pan_seared_salmon/",
+  "thumbnailUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_pan_seared_salmon/hero.png",
+  "tags": {
+    "cuisine": [
+      "西式料理",
+      "家常菜"
+    ],
+    "goal": [
+      "高蛋白",
+      "低碳",
+      "快速料理"
+    ],
+    "allergen": [],
+    "disliked": []
+  },
+  "mealTypes": [
+    "午餐",
+    "晚餐"
+  ],
+  "equipmentIds": [
+    "平底鍋",
+    "刀具",
+    "砧板",
+    "夾子"
+  ],
+  "locked": false,
+  "requiresVip": true,
+  "tips": "鮭魚下鍋後先不要頻繁移動，讓魚皮充分接觸鍋面形成酥脆表皮；最後用奶油淋魚可增加香氣。",
+  "ingredients": [
+    {
+      "ingredientId": "salmon",
+      "name": "鮭魚",
+      "quantity": 400.0,
+      "unit": "g",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_salmon",
+      "sortOrder": 0
+    },
+    {
+      "ingredientId": "salt",
+      "name": "食鹽",
+      "quantity": 2.0,
+      "unit": "g",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_salt",
+      "sortOrder": 1
+    },
+    {
+      "ingredientId": "black_pepper_powder",
+      "name": "黑胡椒粉",
+      "quantity": 1.0,
+      "unit": "g",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_black_pepper_powder",
+      "sortOrder": 2
+    },
+    {
+      "ingredientId": "olive_oil",
+      "name": "橄欖油",
+      "quantity": 15.0,
+      "unit": "ml",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_olive_oil",
+      "sortOrder": 3
+    },
+    {
+      "ingredientId": "butter",
+      "name": "奶油",
+      "quantity": 15.0,
+      "unit": "g",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_butter",
+      "sortOrder": 4
+    },
+    {
+      "ingredientId": "garlic",
+      "name": "大蒜",
+      "quantity": 10.0,
+      "unit": "g",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_garlic",
+      "sortOrder": 5
+    },
+    {
+      "ingredientId": "lemon",
+      "name": "檸檬",
+      "quantity": 60.0,
+      "unit": "g",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_lemon",
+      "sortOrder": 6
+    },
+    {
+      "ingredientId": "asparagus",
+      "name": "蘆筍",
+      "quantity": 120.0,
+      "unit": "g",
+      "group": null,
+      "optional": true,
+      "foodReferenceId": "nut_asparagus",
+      "sortOrder": 7
+    },
+    {
+      "ingredientId": "tomato",
+      "name": "番茄",
+      "quantity": 100.0,
+      "unit": "g",
+      "group": null,
+      "optional": true,
+      "foodReferenceId": "nut_tomato",
+      "sortOrder": 8
+    }
+  ],
+  "nutrition": {
+    "calories": 424.0,
+    "protein": 40.0,
+    "fat": 27.0,
+    "carbohydrate": 7.0,
+    "fiber": 2.2,
+    "sodium": 520.0,
+    "source": "manual",
+    "nutritionSource": "manual",
+    "sourceNote": null
+  },
+  "imageUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_pan_seared_salmon/recipe.png",
+  "imageOriginalUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_pan_seared_salmon/recipe.png",
+  "steps": [
+    {
+      "step": 1,
+      "text": "鮭魚擦乾表面水分，兩面均勻撒上食鹽與黑胡椒粉，靜置約 5 分鐘；大蒜切片、檸檬切片備用。"
+    },
+    {
+      "step": 2,
+      "text": "平底鍋加入橄欖油，中火加熱後放入鮭魚，魚皮朝下煎約 5～6 分鐘，期間不要頻繁移動，煎至魚皮金黃酥脆。"
+    },
+    {
+      "step": 3,
+      "text": "小心將鮭魚翻面，再煎約 2～3 分鐘，直到魚肉中心熟透但仍保持嫩度，先盛出備用。"
+    },
+    {
+      "step": 4,
+      "text": "原鍋轉小火，加入奶油與大蒜片，慢慢煎至蒜片微金黃並釋放香氣。"
+    },
+    {
+      "step": 5,
+      "text": "將煎好的鮭魚放回鍋中，用湯匙把融化的蒜香奶油反覆淋在魚肉表面約 1 分鐘，增加香氣與濕潤度。"
+    },
+    {
+      "step": 6,
+      "text": "另以鍋中餘油煎蘆筍約 2 分鐘，再加入切半的番茄煎約 1 分鐘，熟度合適後撒少量黑胡椒粉即可。"
+    },
+    {
+      "step": 7,
+      "text": "鮭魚與蔬菜盛盤，放上檸檬片，食用前擠少量檸檬汁提味即可。"
+    }
+  ],
+  "published": true
+}

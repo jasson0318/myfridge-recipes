@@ -1,0 +1,202 @@
+{
+  "recipeId": "r_korean_kimchi_stew",
+  "name": "韓式泡菜鍋",
+  "category": "主菜",
+  "description": "酸香開胃的韓式泡菜鍋，以泡菜、豬肉片與嫩豆腐慢煮入味，湯頭濃郁，適合搭配白飯享用。",
+  "cookingTime": 40,
+  "cookingMinutes": 40,
+  "prepMinutes": null,
+  "cookMinutes": null,
+  "servings": 2,
+  "difficulty": "簡單",
+  "access": "VIP",
+  "accessLevel": "VIP",
+  "isPremium": true,
+  "version": 1,
+  "updatedAt": "2026-09-03T12:33:40.525278Z",
+  "heroUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_korean_kimchi_stew/hero.png",
+  "recipeUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_korean_kimchi_stew/",
+  "websiteUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_korean_kimchi_stew/",
+  "thumbnailUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_korean_kimchi_stew/hero.png",
+  "tags": {
+    "cuisine": [
+      "韓式料理",
+      "家常菜"
+    ],
+    "goal": [
+      "暖胃",
+      "下飯"
+    ],
+    "allergen": [],
+    "disliked": []
+  },
+  "mealTypes": [
+    "午餐",
+    "晚餐"
+  ],
+  "equipmentIds": [
+    "湯鍋",
+    "刀具",
+    "砧板",
+    "湯匙"
+  ],
+  "locked": false,
+  "requiresVip": true,
+  "tips": "泡菜先炒出香氣與紅油，湯頭會更有層次；最後再加入豆腐，避免久煮破碎。",
+  "ingredients": [
+    {
+      "ingredientId": "pork_slices",
+      "name": "豬肉片",
+      "quantity": 200.0,
+      "unit": "g",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_ext_pork_slices",
+      "sortOrder": 0
+    },
+    {
+      "ingredientId": "kimchi",
+      "name": "泡菜",
+      "quantity": 250.0,
+      "unit": "g",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_kimchi",
+      "sortOrder": 1
+    },
+    {
+      "ingredientId": "tofu",
+      "name": "豆腐",
+      "quantity": 300.0,
+      "unit": "g",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_tofu",
+      "sortOrder": 2
+    },
+    {
+      "ingredientId": "onion",
+      "name": "洋蔥",
+      "quantity": 100.0,
+      "unit": "g",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_onion",
+      "sortOrder": 3
+    },
+    {
+      "ingredientId": "scallion",
+      "name": "青蔥",
+      "quantity": 30.0,
+      "unit": "g",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_scallion",
+      "sortOrder": 4
+    },
+    {
+      "ingredientId": "garlic",
+      "name": "大蒜",
+      "quantity": 15.0,
+      "unit": "g",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_garlic",
+      "sortOrder": 5
+    },
+    {
+      "ingredientId": "gochugaru",
+      "name": "韓式辣椒粉",
+      "quantity": 10.0,
+      "unit": "g",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_chili_powder",
+      "sortOrder": 6
+    },
+    {
+      "ingredientId": "gochujang",
+      "name": "韓式辣醬",
+      "quantity": 15.0,
+      "unit": "g",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_ext_gochujang",
+      "sortOrder": 7
+    },
+    {
+      "ingredientId": "sesame_oil",
+      "name": "香油",
+      "quantity": 5.0,
+      "unit": "ml",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_sesame_oil",
+      "sortOrder": 8
+    },
+    {
+      "ingredientId": "sugar",
+      "name": "砂糖",
+      "quantity": 5.0,
+      "unit": "g",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_sugar",
+      "sortOrder": 9
+    },
+    {
+      "ingredientId": "salt",
+      "name": "食鹽",
+      "quantity": 1.0,
+      "unit": "g",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_salt",
+      "sortOrder": 10
+    }
+  ],
+  "nutrition": {
+    "calories": 430.0,
+    "protein": 29.0,
+    "fat": 24.0,
+    "carbohydrate": 24.0,
+    "fiber": 5.0,
+    "sodium": 1250.0,
+    "source": "manual",
+    "nutritionSource": "manual",
+    "sourceNote": null
+  },
+  "imageUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_korean_kimchi_stew/recipe.png",
+  "imageOriginalUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_korean_kimchi_stew/recipe.png",
+  "steps": [
+    {
+      "step": 1,
+      "text": "泡菜切成適口大小；洋蔥切絲、青蔥切段、大蒜切末；豆腐切塊，豬肉片分開備用。"
+    },
+    {
+      "step": 2,
+      "text": "湯鍋加入香油，小火炒香大蒜，放入泡菜翻炒約2～3分鐘，炒出香氣與紅油。"
+    },
+    {
+      "step": 3,
+      "text": "加入韓式辣醬與韓式辣椒粉拌勻，倒入約500 ml水煮滾，轉中小火煮5分鐘。"
+    },
+    {
+      "step": 4,
+      "text": "放入豬肉片，以筷子輕輕撥散，煮約4～5分鐘至肉片熟透。"
+    },
+    {
+      "step": 5,
+      "text": "放入洋蔥絲續煮約4分鐘，讓洋蔥變軟並釋放甜味。"
+    },
+    {
+      "step": 6,
+      "text": "放入豆腐塊，輕輕推入湯中，再煮約3分鐘讓豆腐吸收湯汁。"
+    },
+    {
+      "step": 7,
+      "text": "加入砂糖與食鹽調整酸辣鹹度，最後放入青蔥，煮約30秒即可關火。"
+    }
+  ],
+  "published": true
+}

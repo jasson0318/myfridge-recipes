@@ -1,0 +1,203 @@
+{
+  "recipeId": "r_three_cup_chicken",
+  "name": "三杯雞",
+  "category": "主菜",
+  "description": "雞腿肉以香油、醬油與米酒調味，搭配薑、蒜與青蔥慢慢收汁，最後加入九層塔提香，醬香濃郁、雞肉嫩滑，是經典台式家常菜。",
+  "cookingTime": 30,
+  "cookingMinutes": 30,
+  "prepMinutes": null,
+  "cookMinutes": null,
+  "servings": 2,
+  "difficulty": "中等",
+  "access": "VIP",
+  "accessLevel": "VIP",
+  "isPremium": true,
+  "version": 1,
+  "updatedAt": "2026-09-03T12:23:27.821027Z",
+  "heroUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_three_cup_chicken/hero.png",
+  "recipeUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_three_cup_chicken/",
+  "websiteUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_three_cup_chicken/",
+  "thumbnailUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_three_cup_chicken/hero.png",
+  "tags": {
+    "cuisine": [
+      "台式料理",
+      "家常菜"
+    ],
+    "goal": [
+      "下飯",
+      "醬香濃郁",
+      "快速料理"
+    ],
+    "allergen": [],
+    "disliked": []
+  },
+  "mealTypes": [
+    "午餐",
+    "晚餐"
+  ],
+  "equipmentIds": [
+    "炒鍋",
+    "鍋蓋",
+    "刀具",
+    "砧板"
+  ],
+  "locked": false,
+  "requiresVip": true,
+  "tips": "香油先煸薑片能帶出濃郁香氣；收汁時用中小火，避免醬汁過度焦化；九層塔最後加入並快速拌炒，香氣最完整。",
+  "ingredients": [
+    {
+      "ingredientId": "chicken_thigh",
+      "name": "雞腿肉",
+      "quantity": 600.0,
+      "unit": "g",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_chicken_thigh",
+      "sortOrder": 0
+    },
+    {
+      "ingredientId": "ginger",
+      "name": "薑",
+      "quantity": 40.0,
+      "unit": "g",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_ginger",
+      "sortOrder": 1
+    },
+    {
+      "ingredientId": "garlic",
+      "name": "大蒜",
+      "quantity": 30.0,
+      "unit": "g",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_garlic",
+      "sortOrder": 2
+    },
+    {
+      "ingredientId": "scallion",
+      "name": "青蔥",
+      "quantity": 30.0,
+      "unit": "g",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_scallion",
+      "sortOrder": 3
+    },
+    {
+      "ingredientId": "sesame_oil",
+      "name": "香油",
+      "quantity": 30.0,
+      "unit": "ml",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_sesame_oil",
+      "sortOrder": 4
+    },
+    {
+      "ingredientId": "soy_sauce",
+      "name": "醬油",
+      "quantity": 45.0,
+      "unit": "ml",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_soy_sauce",
+      "sortOrder": 5
+    },
+    {
+      "ingredientId": "rice_wine",
+      "name": "米酒",
+      "quantity": 60.0,
+      "unit": "ml",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_ext_rice_wine",
+      "sortOrder": 6
+    },
+    {
+      "ingredientId": "sugar",
+      "name": "砂糖",
+      "quantity": 12.0,
+      "unit": "g",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_sugar",
+      "sortOrder": 7
+    },
+    {
+      "ingredientId": "water",
+      "name": "水",
+      "quantity": 60.0,
+      "unit": "ml",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_water",
+      "sortOrder": 8
+    },
+    {
+      "ingredientId": "salt",
+      "name": "食鹽",
+      "quantity": 1.0,
+      "unit": "g",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_salt",
+      "sortOrder": 9
+    },
+    {
+      "ingredientId": "nine_story_basil",
+      "name": "九層塔",
+      "quantity": 30.0,
+      "unit": "g",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_ext_thai_basil",
+      "sortOrder": 10
+    }
+  ],
+  "nutrition": {
+    "calories": 650.0,
+    "protein": 43.0,
+    "fat": 43.0,
+    "carbohydrate": 13.0,
+    "fiber": 1.2,
+    "sodium": 1050.0,
+    "source": "manual",
+    "nutritionSource": "manual",
+    "sourceNote": null
+  },
+  "imageUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_three_cup_chicken/recipe.png",
+  "imageOriginalUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_three_cup_chicken/recipe.png",
+  "steps": [
+    {
+      "step": 1,
+      "text": "雞腿肉切成約 4 公分塊；薑切薄片、大蒜拍扁、青蔥切段，九層塔摘下葉片洗淨並瀝乾。"
+    },
+    {
+      "step": 2,
+      "text": "炒鍋加入香油，中小火放入薑片與大蒜，慢慢煸炒至薑片邊緣微金黃、香氣明顯。"
+    },
+    {
+      "step": 3,
+      "text": "加入雞腿肉轉中火翻炒，將雞肉表面煎至金黃並炒出油脂，讓肉香更集中。"
+    },
+    {
+      "step": 4,
+      "text": "加入醬油、米酒與砂糖拌炒均勻，再加入青蔥段，讓雞肉充分裹上醬色。"
+    },
+    {
+      "step": 5,
+      "text": "加入水，蓋上鍋蓋轉中小火燜煮約 12–15 分鐘，直到雞肉熟透並吸收醬汁。"
+    },
+    {
+      "step": 6,
+      "text": "打開鍋蓋轉中火翻拌，讓醬汁逐漸濃縮；試味後如需要再以食鹽微調。"
+    },
+    {
+      "step": 7,
+      "text": "最後加入九層塔，快速翻炒約 20–30 秒至葉片變軟、香氣釋放，立即關火盛盤。"
+    }
+  ],
+  "published": true
+}

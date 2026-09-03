@@ -1,0 +1,202 @@
+{
+  "recipeId": "r_sweet_and_sour_ribs",
+  "name": "糖醋排骨",
+  "category": "主菜",
+  "description": "酸甜開胃的經典家常菜，排骨先煎至表面金香，再以米醋與砂糖調出亮澤酸甜醬汁，肉香濃郁、下飯不膩。",
+  "cookingTime": 45,
+  "cookingMinutes": 45,
+  "prepMinutes": null,
+  "cookMinutes": null,
+  "servings": 2,
+  "difficulty": "中等",
+  "access": "VIP",
+  "accessLevel": "VIP",
+  "isPremium": true,
+  "version": 2,
+  "updatedAt": "2026-09-03T12:18:33.938942Z",
+  "heroUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_sweet_and_sour_ribs/hero.png",
+  "recipeUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_sweet_and_sour_ribs/",
+  "websiteUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_sweet_and_sour_ribs/",
+  "thumbnailUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_sweet_and_sour_ribs/hero.png",
+  "tags": {
+    "cuisine": [
+      "中式料理",
+      "家常菜"
+    ],
+    "goal": [
+      "下飯",
+      "酸甜開胃"
+    ],
+    "allergen": [],
+    "disliked": []
+  },
+  "mealTypes": [
+    "午餐",
+    "晚餐"
+  ],
+  "equipmentIds": [
+    "炒鍋",
+    "刀具",
+    "砧板",
+    "鍋蓋"
+  ],
+  "locked": false,
+  "requiresVip": true,
+  "tips": "排骨先煎出焦香再收汁，醬汁更有層次；收汁時保持中小火，避免砂糖焦化。",
+  "ingredients": [
+    {
+      "ingredientId": "pork_ribs",
+      "name": "豬肋排",
+      "quantity": 500.0,
+      "unit": "g",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_ext_pork_ribs",
+      "sortOrder": 0
+    },
+    {
+      "ingredientId": "ginger",
+      "name": "薑",
+      "quantity": 15.0,
+      "unit": "g",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_ginger",
+      "sortOrder": 1
+    },
+    {
+      "ingredientId": "garlic",
+      "name": "大蒜",
+      "quantity": 15.0,
+      "unit": "g",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_garlic",
+      "sortOrder": 2
+    },
+    {
+      "ingredientId": "scallion",
+      "name": "青蔥",
+      "quantity": 20.0,
+      "unit": "g",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_scallion",
+      "sortOrder": 3
+    },
+    {
+      "ingredientId": "cooking_wine",
+      "name": "料理酒",
+      "quantity": 20.0,
+      "unit": "ml",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_ext_cooking_wine",
+      "sortOrder": 4
+    },
+    {
+      "ingredientId": "soy_sauce",
+      "name": "醬油",
+      "quantity": 20.0,
+      "unit": "ml",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_soy_sauce",
+      "sortOrder": 5
+    },
+    {
+      "ingredientId": "rice_vinegar",
+      "name": "米醋",
+      "quantity": 30.0,
+      "unit": "ml",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_rice_vinegar",
+      "sortOrder": 6
+    },
+    {
+      "ingredientId": "sugar",
+      "name": "砂糖",
+      "quantity": 30.0,
+      "unit": "g",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_sugar",
+      "sortOrder": 7
+    },
+    {
+      "ingredientId": "potato_starch",
+      "name": "馬鈴薯澱粉",
+      "quantity": 20.0,
+      "unit": "g",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_potato_starch",
+      "sortOrder": 8
+    },
+    {
+      "ingredientId": "oil",
+      "name": "沙拉油",
+      "quantity": 15.0,
+      "unit": "ml",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_oil",
+      "sortOrder": 9
+    },
+    {
+      "ingredientId": "salt",
+      "name": "食鹽",
+      "quantity": 1.0,
+      "unit": "g",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_salt",
+      "sortOrder": 10
+    }
+  ],
+  "nutrition": {
+    "calories": 560.0,
+    "protein": 32.0,
+    "fat": 34.0,
+    "carbohydrate": 28.0,
+    "fiber": 0.8,
+    "sodium": 820.0,
+    "source": "manual",
+    "nutritionSource": "manual",
+    "sourceNote": null
+  },
+  "imageUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_sweet_and_sour_ribs/recipe.png",
+  "imageOriginalUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_sweet_and_sour_ribs/recipe.png",
+  "steps": [
+    {
+      "step": 1,
+      "text": "豬肋排冷水下鍋，煮至水滾後再汆燙約 2 分鐘，撈出沖洗並瀝乾。"
+    },
+    {
+      "step": 2,
+      "text": "薑切片、大蒜切末、青蔥切段；將料理酒、醬油、米醋與砂糖先量好備用。"
+    },
+    {
+      "step": 3,
+      "text": "炒鍋加入沙拉油，中火放入排骨，煎至表面均勻金黃並帶焦香。"
+    },
+    {
+      "step": 4,
+      "text": "放入薑片與大蒜翻炒約 30 秒，接著加入料理酒去腥提香。"
+    },
+    {
+      "step": 5,
+      "text": "加入醬油與約 250 ml 水，蓋鍋以中小火燉煮約 20 分鐘，讓排骨變嫩。"
+    },
+    {
+      "step": 6,
+      "text": "加入砂糖與米醋，開蓋轉中火翻拌，讓醬汁逐漸濃縮並包覆排骨。"
+    },
+    {
+      "step": 7,
+      "text": "煮至醬汁呈亮澤濃稠狀，加入青蔥拌勻；如需更濃稠，可用少量馬鈴薯澱粉加水調勻後加入，煮至回濃即可。"
+    }
+  ],
+  "published": true
+}

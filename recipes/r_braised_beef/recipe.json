@@ -1,0 +1,255 @@
+{
+  "recipeId": "r_braised_beef",
+  "name": "紅燒牛肉",
+  "category": "主菜",
+  "description": "牛肉先汆燙去腥，再以豆瓣醬、醬油與辛香料炒出香氣，慢燉至軟嫩入味，搭配白蘿蔔與胡蘿蔔，湯汁濃郁、非常下飯。",
+  "cookingTime": 120,
+  "cookingMinutes": 120,
+  "prepMinutes": null,
+  "cookMinutes": null,
+  "servings": 4,
+  "difficulty": "中等",
+  "access": "VIP",
+  "accessLevel": "VIP",
+  "isPremium": true,
+  "version": 1,
+  "updatedAt": "2026-09-03T12:18:37.852759Z",
+  "heroUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_braised_beef/hero.png",
+  "recipeUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_braised_beef/",
+  "websiteUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_braised_beef/",
+  "thumbnailUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_braised_beef/hero.png",
+  "tags": {
+    "cuisine": [
+      "中式料理",
+      "家常菜",
+      "燉煮料理"
+    ],
+    "goal": [
+      "下飯",
+      "暖胃",
+      "濃郁湯汁"
+    ],
+    "allergen": [],
+    "disliked": []
+  },
+  "mealTypes": [
+    "午餐",
+    "晚餐"
+  ],
+  "equipmentIds": [
+    "湯鍋",
+    "炒鍋",
+    "刀具",
+    "砧板",
+    "鍋蓋"
+  ],
+  "locked": false,
+  "requiresVip": true,
+  "tips": "牛肉先汆燙可減少腥味；豆瓣醬炒香時用中小火避免焦苦；慢燉時間可依牛肉部位調整，燉至筷子可輕鬆插入最理想。",
+  "ingredients": [
+    {
+      "ingredientId": "beef",
+      "name": "牛肉",
+      "quantity": 600.0,
+      "unit": "g",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_beef",
+      "sortOrder": 0
+    },
+    {
+      "ingredientId": "carrot",
+      "name": "胡蘿蔔",
+      "quantity": 200.0,
+      "unit": "g",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_carrot",
+      "sortOrder": 1
+    },
+    {
+      "ingredientId": "daikon",
+      "name": "白蘿蔔",
+      "quantity": 300.0,
+      "unit": "g",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_daikon",
+      "sortOrder": 2
+    },
+    {
+      "ingredientId": "onion",
+      "name": "洋蔥",
+      "quantity": 150.0,
+      "unit": "g",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_onion",
+      "sortOrder": 3
+    },
+    {
+      "ingredientId": "scallion",
+      "name": "青蔥",
+      "quantity": 30.0,
+      "unit": "g",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_scallion",
+      "sortOrder": 4
+    },
+    {
+      "ingredientId": "ginger",
+      "name": "薑",
+      "quantity": 20.0,
+      "unit": "g",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_ginger",
+      "sortOrder": 5
+    },
+    {
+      "ingredientId": "garlic",
+      "name": "大蒜",
+      "quantity": 20.0,
+      "unit": "g",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_garlic",
+      "sortOrder": 6
+    },
+    {
+      "ingredientId": "star_anise",
+      "name": "八角",
+      "quantity": 2.0,
+      "unit": "顆",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_star_anise",
+      "sortOrder": 7
+    },
+    {
+      "ingredientId": "bay_leaf",
+      "name": "月桂葉",
+      "quantity": 2.0,
+      "unit": "片",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_ext_bay_leaf",
+      "sortOrder": 8
+    },
+    {
+      "ingredientId": "spicy_bean_paste",
+      "name": "辣豆瓣醬",
+      "quantity": 30.0,
+      "unit": "g",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_spicy_bean_paste",
+      "sortOrder": 9
+    },
+    {
+      "ingredientId": "soy_sauce",
+      "name": "醬油",
+      "quantity": 45.0,
+      "unit": "ml",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_soy_sauce",
+      "sortOrder": 10
+    },
+    {
+      "ingredientId": "rice_wine",
+      "name": "米酒",
+      "quantity": 100.0,
+      "unit": "ml",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_ext_rice_wine",
+      "sortOrder": 11
+    },
+    {
+      "ingredientId": "sugar",
+      "name": "砂糖",
+      "quantity": 15.0,
+      "unit": "g",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_sugar",
+      "sortOrder": 12
+    },
+    {
+      "ingredientId": "oil",
+      "name": "沙拉油",
+      "quantity": 15.0,
+      "unit": "ml",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_oil",
+      "sortOrder": 13
+    },
+    {
+      "ingredientId": "salt",
+      "name": "食鹽",
+      "quantity": 3.0,
+      "unit": "g",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_salt",
+      "sortOrder": 14
+    },
+    {
+      "ingredientId": "water",
+      "name": "水",
+      "quantity": 1200.0,
+      "unit": "ml",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_water",
+      "sortOrder": 15
+    }
+  ],
+  "nutrition": {
+    "calories": 520.0,
+    "protein": 36.0,
+    "fat": 28.0,
+    "carbohydrate": 28.0,
+    "fiber": 4.5,
+    "sodium": 1180.0,
+    "source": "manual",
+    "nutritionSource": "manual",
+    "sourceNote": null
+  },
+  "imageUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_braised_beef/recipe.png",
+  "imageOriginalUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_braised_beef/recipe.png",
+  "steps": [
+    {
+      "step": 1,
+      "text": "牛肉切成約 3–4 公分塊，冷水下鍋，加入薑片、青蔥段與米酒；煮至水滾後撈出，用清水沖洗乾淨並瀝乾。"
+    },
+    {
+      "step": 2,
+      "text": "胡蘿蔔與白蘿蔔切滾刀塊，洋蔥切塊，青蔥切段；薑切片、大蒜拍扁，備好八角與月桂葉。"
+    },
+    {
+      "step": 3,
+      "text": "炒鍋加入沙拉油，中小火放入薑片、大蒜、洋蔥、青蔥、八角與月桂葉炒香，再加入辣豆瓣醬炒出紅油與香氣。"
+    },
+    {
+      "step": 4,
+      "text": "加入瀝乾的牛肉塊翻炒，讓表面均勻上色；加入醬油、米酒與砂糖拌炒，使牛肉充分裹上醬色。"
+    },
+    {
+      "step": 5,
+      "text": "倒入水至大致淹過牛肉，大火煮滾後撇去浮沫，轉小火並蓋上鍋蓋，慢燉約 80 分鐘。"
+    },
+    {
+      "step": 6,
+      "text": "加入白蘿蔔與胡蘿蔔，保持小火續燉約 30–40 分鐘，直到牛肉軟嫩、蔬菜熟透入味。"
+    },
+    {
+      "step": 7,
+      "text": "開蓋試味，依鹹度加入食鹽調整；再以小火煮約 10 分鐘讓湯汁融合，關火前撒上青蔥即可盛盤。"
+    }
+  ],
+  "published": true
+}

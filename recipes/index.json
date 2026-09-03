@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-02T12:00:58Z",
-  "count": 117,
+  "generatedAt": "2026-09-03T12:59:02Z",
+  "count": 126,
   "recipes": [
     {
       "recipeId": "r_airfry_chicken",
@@ -124,6 +124,50 @@
       "equipmentIds": [
         "pot",
         "pressure_cooker"
+      ],
+      "featured": false
+    },
+    {
+      "recipeId": "r_braised_beef",
+      "name": "紅燒牛肉",
+      "category": "主菜",
+      "description": "牛肉先汆燙去腥，再以豆瓣醬、醬油與辛香料炒出香氣，慢燉至軟嫩入味，搭配白蘿蔔與胡蘿蔔，湯汁濃郁、非常下飯。",
+      "cookingTime": 120,
+      "cookingMinutes": 120,
+      "servings": 4,
+      "difficulty": "中等",
+      "heroUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_braised_beef/hero.png",
+      "thumbnail": "https://jasson0318.github.io/myfridge-recipes/recipes/r_braised_beef/hero.png",
+      "recipeUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_braised_beef/",
+      "access": "VIP",
+      "accessLevel": "VIP",
+      "isPremium": true,
+      "version": 1,
+      "updatedAt": "2026-09-03T12:18:37.852759Z",
+      "tags": {
+        "cuisine": [
+          "中式料理",
+          "家常菜",
+          "燉煮料理"
+        ],
+        "goal": [
+          "下飯",
+          "暖胃",
+          "濃郁湯汁"
+        ],
+        "allergen": [],
+        "disliked": []
+      },
+      "mealTypes": [
+        "午餐",
+        "晚餐"
+      ],
+      "equipmentIds": [
+        "湯鍋",
+        "炒鍋",
+        "刀具",
+        "砧板",
+        "鍋蓋"
       ],
       "featured": false
     },
@@ -1422,6 +1466,48 @@
       "featured": false
     },
     {
+      "recipeId": "r_japanese_curry_rice",
+      "name": "日式咖哩飯",
+      "category": "主食",
+      "description": "雞腿肉、洋蔥、馬鈴薯與胡蘿蔔以日式咖哩塊慢煮，最後搭配熱騰騰白飯，咖哩濃郁順口、蔬菜甘甜，是經典家常日式料理。",
+      "cookingTime": 45,
+      "cookingMinutes": 45,
+      "servings": 2,
+      "difficulty": "簡單",
+      "heroUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_japanese_curry_rice/hero.png",
+      "thumbnail": "https://jasson0318.github.io/myfridge-recipes/recipes/r_japanese_curry_rice/hero.png",
+      "recipeUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_japanese_curry_rice/",
+      "access": "VIP",
+      "accessLevel": "VIP",
+      "isPremium": true,
+      "version": 1,
+      "updatedAt": "2026-09-03T12:33:00.740960Z",
+      "tags": {
+        "cuisine": [
+          "日式料理",
+          "家常菜"
+        ],
+        "goal": [
+          "下飯",
+          "一鍋料理",
+          "家常料理"
+        ],
+        "allergen": [],
+        "disliked": []
+      },
+      "mealTypes": [
+        "午餐",
+        "晚餐"
+      ],
+      "equipmentIds": [
+        "炒鍋",
+        "鍋蓋",
+        "刀具",
+        "砧板"
+      ],
+      "featured": false
+    },
+    {
       "recipeId": "r_kimchi_fried_rice",
       "name": "泡菜炒飯",
       "category": "主菜",
@@ -1465,6 +1551,47 @@
       "featured": false
     },
     {
+      "recipeId": "r_korean_kimchi_stew",
+      "name": "韓式泡菜鍋",
+      "category": "主菜",
+      "description": "酸香開胃的韓式泡菜鍋，以泡菜、豬肉片與嫩豆腐慢煮入味，湯頭濃郁，適合搭配白飯享用。",
+      "cookingTime": 40,
+      "cookingMinutes": 40,
+      "servings": 2,
+      "difficulty": "簡單",
+      "heroUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_korean_kimchi_stew/hero.png",
+      "thumbnail": "https://jasson0318.github.io/myfridge-recipes/recipes/r_korean_kimchi_stew/hero.png",
+      "recipeUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_korean_kimchi_stew/",
+      "access": "VIP",
+      "accessLevel": "VIP",
+      "isPremium": true,
+      "version": 1,
+      "updatedAt": "2026-09-03T12:33:40.525278Z",
+      "tags": {
+        "cuisine": [
+          "韓式料理",
+          "家常菜"
+        ],
+        "goal": [
+          "暖胃",
+          "下飯"
+        ],
+        "allergen": [],
+        "disliked": []
+      },
+      "mealTypes": [
+        "午餐",
+        "晚餐"
+      ],
+      "equipmentIds": [
+        "湯鍋",
+        "刀具",
+        "砧板",
+        "湯匙"
+      ],
+      "featured": false
+    },
+    {
       "recipeId": "r_korean_spicy_chicken",
       "name": "韓式辣炒雞",
       "category": "主菜",
@@ -1496,6 +1623,46 @@
       "equipmentIds": [
         "炒鍋",
         "菜刀",
+        "砧板"
+      ],
+      "featured": false
+    },
+    {
+      "recipeId": "r_kung_pao_chicken",
+      "name": "宮保雞丁",
+      "category": "主菜",
+      "description": "經典川菜代表，雞肉滑嫩、花生香脆，乾辣椒帶出香氣，鹹甜微酸，非常下飯。",
+      "cookingTime": 25,
+      "cookingMinutes": 25,
+      "servings": 2,
+      "difficulty": "中等",
+      "heroUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_kung_pao_chicken/hero.png",
+      "thumbnail": "https://jasson0318.github.io/myfridge-recipes/recipes/r_kung_pao_chicken/hero.png",
+      "recipeUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_kung_pao_chicken/",
+      "access": "VIP",
+      "accessLevel": "VIP",
+      "isPremium": true,
+      "version": 2,
+      "updatedAt": "2026-09-03T11:50:32.231173Z",
+      "tags": {
+        "cuisine": [
+          "川菜",
+          "中式料理"
+        ],
+        "goal": [
+          "下飯",
+          "家常菜"
+        ],
+        "allergen": [],
+        "disliked": []
+      },
+      "mealTypes": [
+        "午餐",
+        "晚餐"
+      ],
+      "equipmentIds": [
+        "炒鍋",
+        "刀具",
         "砧板"
       ],
       "featured": false
@@ -1843,6 +2010,48 @@
       ],
       "equipmentIds": [
         "oven"
+      ],
+      "featured": false
+    },
+    {
+      "recipeId": "r_pan_seared_salmon",
+      "name": "香煎鮭魚",
+      "category": "主菜",
+      "description": "鮭魚以橄欖油煎出金黃酥香外皮，再用奶油與蒜香提味，搭配檸檬與蔬菜，簡單完成鮮嫩多汁的一餐。",
+      "cookingTime": 15,
+      "cookingMinutes": 15,
+      "servings": 2,
+      "difficulty": "簡單",
+      "heroUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_pan_seared_salmon/hero.png",
+      "thumbnail": "https://jasson0318.github.io/myfridge-recipes/recipes/r_pan_seared_salmon/hero.png",
+      "recipeUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_pan_seared_salmon/",
+      "access": "VIP",
+      "accessLevel": "VIP",
+      "isPremium": true,
+      "version": 1,
+      "updatedAt": "2026-09-03T12:29:48.756162Z",
+      "tags": {
+        "cuisine": [
+          "西式料理",
+          "家常菜"
+        ],
+        "goal": [
+          "高蛋白",
+          "低碳",
+          "快速料理"
+        ],
+        "allergen": [],
+        "disliked": []
+      },
+      "mealTypes": [
+        "午餐",
+        "晚餐"
+      ],
+      "equipmentIds": [
+        "平底鍋",
+        "刀具",
+        "砧板",
+        "夾子"
       ],
       "featured": false
     },
@@ -3056,6 +3265,47 @@
       "featured": false
     },
     {
+      "recipeId": "r_shrimp_egg_fried_rice",
+      "name": "蝦仁蛋炒飯",
+      "category": "主食",
+      "description": "粒粒分明、蝦仁鮮甜的家常蛋炒飯，利用冷飯與大火快炒，讓米飯乾爽不黏、蛋香與蝦香充分融合。",
+      "cookingTime": 15,
+      "cookingMinutes": 15,
+      "servings": 2,
+      "difficulty": "簡單",
+      "heroUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_shrimp_egg_fried_rice/hero.png",
+      "thumbnail": "https://jasson0318.github.io/myfridge-recipes/recipes/r_shrimp_egg_fried_rice/hero.png",
+      "recipeUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_shrimp_egg_fried_rice/",
+      "access": "VIP",
+      "accessLevel": "VIP",
+      "isPremium": true,
+      "version": 1,
+      "updatedAt": "2026-09-03T12:37:45.716949Z",
+      "tags": {
+        "cuisine": [
+          "中式料理",
+          "家常菜"
+        ],
+        "goal": [
+          "快速料理",
+          "高蛋白"
+        ],
+        "allergen": [],
+        "disliked": []
+      },
+      "mealTypes": [
+        "午餐",
+        "晚餐"
+      ],
+      "equipmentIds": [
+        "炒鍋",
+        "鍋鏟",
+        "刀具",
+        "砧板"
+      ],
+      "featured": false
+    },
+    {
       "recipeId": "r_shrimp_egg_tomato",
       "name": "番茄炒蛋蝦仁",
       "category": "待補資料",
@@ -3475,6 +3725,47 @@
       "featured": false
     },
     {
+      "recipeId": "r_sweet_and_sour_ribs",
+      "name": "糖醋排骨",
+      "category": "主菜",
+      "description": "酸甜開胃的經典家常菜，排骨先煎至表面金香，再以米醋與砂糖調出亮澤酸甜醬汁，肉香濃郁、下飯不膩。",
+      "cookingTime": 45,
+      "cookingMinutes": 45,
+      "servings": 2,
+      "difficulty": "中等",
+      "heroUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_sweet_and_sour_ribs/hero.png",
+      "thumbnail": "https://jasson0318.github.io/myfridge-recipes/recipes/r_sweet_and_sour_ribs/hero.png",
+      "recipeUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_sweet_and_sour_ribs/",
+      "access": "VIP",
+      "accessLevel": "VIP",
+      "isPremium": true,
+      "version": 2,
+      "updatedAt": "2026-09-03T12:18:33.938942Z",
+      "tags": {
+        "cuisine": [
+          "中式料理",
+          "家常菜"
+        ],
+        "goal": [
+          "下飯",
+          "酸甜開胃"
+        ],
+        "allergen": [],
+        "disliked": []
+      },
+      "mealTypes": [
+        "午餐",
+        "晚餐"
+      ],
+      "equipmentIds": [
+        "炒鍋",
+        "刀具",
+        "砧板",
+        "鍋蓋"
+      ],
+      "featured": false
+    },
+    {
       "recipeId": "r_sweet_potato",
       "name": "電鍋地瓜",
       "category": "主菜",
@@ -3508,6 +3799,89 @@
       ],
       "equipmentIds": [
         "rice_cooker"
+      ],
+      "featured": false
+    },
+    {
+      "recipeId": "r_thai_green_curry_chicken",
+      "name": "泰式綠咖哩雞",
+      "category": "主菜",
+      "description": "椰香濃郁、微辣開胃的泰式經典，雞腿肉吸附綠咖哩與椰奶香氣，搭配茄子、甜椒與豌豆，最後以九層塔提香。",
+      "cookingTime": 25,
+      "cookingMinutes": 25,
+      "servings": 2,
+      "difficulty": "中等",
+      "heroUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_thai_green_curry_chicken/hero.png",
+      "thumbnail": "https://jasson0318.github.io/myfridge-recipes/recipes/r_thai_green_curry_chicken/hero.png",
+      "recipeUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_thai_green_curry_chicken/",
+      "access": "VIP",
+      "accessLevel": "VIP",
+      "isPremium": true,
+      "version": 1,
+      "updatedAt": "2026-09-03T12:56:05.380510Z",
+      "tags": {
+        "cuisine": [
+          "泰式料理",
+          "東南亞料理"
+        ],
+        "goal": [
+          "下飯",
+          "開胃"
+        ],
+        "allergen": [],
+        "disliked": []
+      },
+      "mealTypes": [
+        "午餐",
+        "晚餐"
+      ],
+      "equipmentIds": [
+        "炒鍋",
+        "刀具",
+        "砧板",
+        "鍋鏟"
+      ],
+      "featured": false
+    },
+    {
+      "recipeId": "r_three_cup_chicken",
+      "name": "三杯雞",
+      "category": "主菜",
+      "description": "雞腿肉以香油、醬油與米酒調味，搭配薑、蒜與青蔥慢慢收汁，最後加入九層塔提香，醬香濃郁、雞肉嫩滑，是經典台式家常菜。",
+      "cookingTime": 30,
+      "cookingMinutes": 30,
+      "servings": 2,
+      "difficulty": "中等",
+      "heroUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_three_cup_chicken/hero.png",
+      "thumbnail": "https://jasson0318.github.io/myfridge-recipes/recipes/r_three_cup_chicken/hero.png",
+      "recipeUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_three_cup_chicken/",
+      "access": "VIP",
+      "accessLevel": "VIP",
+      "isPremium": true,
+      "version": 1,
+      "updatedAt": "2026-09-03T12:23:27.821027Z",
+      "tags": {
+        "cuisine": [
+          "台式料理",
+          "家常菜"
+        ],
+        "goal": [
+          "下飯",
+          "醬香濃郁",
+          "快速料理"
+        ],
+        "allergen": [],
+        "disliked": []
+      },
+      "mealTypes": [
+        "午餐",
+        "晚餐"
+      ],
+      "equipmentIds": [
+        "炒鍋",
+        "鍋蓋",
+        "刀具",
+        "砧板"
       ],
       "featured": false
     },

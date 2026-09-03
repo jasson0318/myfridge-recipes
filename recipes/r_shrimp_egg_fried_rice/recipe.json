@@ -1,0 +1,202 @@
+{
+  "recipeId": "r_shrimp_egg_fried_rice",
+  "name": "蝦仁蛋炒飯",
+  "category": "主食",
+  "description": "粒粒分明、蝦仁鮮甜的家常蛋炒飯，利用冷飯與大火快炒，讓米飯乾爽不黏、蛋香與蝦香充分融合。",
+  "cookingTime": 15,
+  "cookingMinutes": 15,
+  "prepMinutes": null,
+  "cookMinutes": null,
+  "servings": 2,
+  "difficulty": "簡單",
+  "access": "VIP",
+  "accessLevel": "VIP",
+  "isPremium": true,
+  "version": 1,
+  "updatedAt": "2026-09-03T12:37:45.716949Z",
+  "heroUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_shrimp_egg_fried_rice/hero.png",
+  "recipeUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_shrimp_egg_fried_rice/",
+  "websiteUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_shrimp_egg_fried_rice/",
+  "thumbnailUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_shrimp_egg_fried_rice/hero.png",
+  "tags": {
+    "cuisine": [
+      "中式料理",
+      "家常菜"
+    ],
+    "goal": [
+      "快速料理",
+      "高蛋白"
+    ],
+    "allergen": [],
+    "disliked": []
+  },
+  "mealTypes": [
+    "午餐",
+    "晚餐"
+  ],
+  "equipmentIds": [
+    "炒鍋",
+    "鍋鏟",
+    "刀具",
+    "砧板"
+  ],
+  "locked": false,
+  "requiresVip": true,
+  "tips": "使用冷藏白飯較容易炒出粒粒分明的口感；蝦仁先炒至變色即可取出，最後再回鍋，避免過熟變硬。",
+  "ingredients": [
+    {
+      "ingredientId": "rice",
+      "name": "白米飯",
+      "quantity": 400.0,
+      "unit": "g",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_rice",
+      "sortOrder": 0
+    },
+    {
+      "ingredientId": "shrimp",
+      "name": "蝦",
+      "quantity": 150.0,
+      "unit": "g",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_shrimp",
+      "sortOrder": 1
+    },
+    {
+      "ingredientId": "egg",
+      "name": "雞蛋",
+      "quantity": 2.0,
+      "unit": "顆",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_egg",
+      "sortOrder": 2
+    },
+    {
+      "ingredientId": "scallion",
+      "name": "青蔥",
+      "quantity": 30.0,
+      "unit": "g",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_scallion",
+      "sortOrder": 3
+    },
+    {
+      "ingredientId": "carrot",
+      "name": "胡蘿蔔",
+      "quantity": 40.0,
+      "unit": "g",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_carrot",
+      "sortOrder": 4
+    },
+    {
+      "ingredientId": "peas",
+      "name": "豌豆",
+      "quantity": 40.0,
+      "unit": "g",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_peas",
+      "sortOrder": 5
+    },
+    {
+      "ingredientId": "garlic",
+      "name": "大蒜",
+      "quantity": 10.0,
+      "unit": "g",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_garlic",
+      "sortOrder": 6
+    },
+    {
+      "ingredientId": "soy_sauce",
+      "name": "醬油",
+      "quantity": 15.0,
+      "unit": "ml",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_soy_sauce",
+      "sortOrder": 7
+    },
+    {
+      "ingredientId": "salt",
+      "name": "食鹽",
+      "quantity": 1.0,
+      "unit": "g",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_salt",
+      "sortOrder": 8
+    },
+    {
+      "ingredientId": "white_pepper_powder",
+      "name": "白胡椒粉",
+      "quantity": 1.0,
+      "unit": "g",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_white_pepper_powder",
+      "sortOrder": 9
+    },
+    {
+      "ingredientId": "oil",
+      "name": "沙拉油",
+      "quantity": 30.0,
+      "unit": "ml",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_oil",
+      "sortOrder": 10
+    }
+  ],
+  "nutrition": {
+    "calories": 565.0,
+    "protein": 30.0,
+    "fat": 22.0,
+    "carbohydrate": 65.0,
+    "fiber": 4.0,
+    "sodium": 850.0,
+    "source": "manual",
+    "nutritionSource": "manual",
+    "sourceNote": null
+  },
+  "imageUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_shrimp_egg_fried_rice/recipe.png",
+  "imageOriginalUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_shrimp_egg_fried_rice/recipe.png",
+  "steps": [
+    {
+      "step": 1,
+      "text": "蝦仁洗淨瀝乾，以少量食鹽與白胡椒粉抓勻；雞蛋打散；胡蘿蔔切小丁、青蔥切花、大蒜切末，冷飯撥鬆備用。"
+    },
+    {
+      "step": 2,
+      "text": "炒鍋燒熱，加入約一半沙拉油，放入蝦仁以中火快炒至變色、表面捲曲，立即盛出備用。"
+    },
+    {
+      "step": 3,
+      "text": "原鍋加入剩餘沙拉油，倒入蛋液，炒至凝固但仍保持嫩度，撥成小塊後盛出或推至鍋邊。"
+    },
+    {
+      "step": 4,
+      "text": "鍋中放入大蒜、胡蘿蔔與豌豆，快速翻炒約2分鐘，讓蔬菜稍微變軟並帶出蒜香。"
+    },
+    {
+      "step": 5,
+      "text": "加入冷白飯，用鍋鏟將飯粒壓散，持續大火翻炒，讓飯粒與配料均勻混合並炒乾。"
+    },
+    {
+      "step": 6,
+      "text": "加入炒好的蝦仁與蛋，淋入醬油，撒入少量食鹽與白胡椒粉，大火快速翻炒至香氣均勻。"
+    },
+    {
+      "step": 7,
+      "text": "最後加入青蔥花，快速翻炒約20至30秒即可關火，趁熱盛盤享用。"
+    }
+  ],
+  "published": true
+}

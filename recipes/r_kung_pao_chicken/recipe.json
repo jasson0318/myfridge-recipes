@@ -1,0 +1,231 @@
+{
+  "recipeId": "r_kung_pao_chicken",
+  "name": "宮保雞丁",
+  "category": "主菜",
+  "description": "經典川菜代表，雞肉滑嫩、花生香脆，乾辣椒帶出香氣，鹹甜微酸，非常下飯。",
+  "cookingTime": 25,
+  "cookingMinutes": 25,
+  "prepMinutes": null,
+  "cookMinutes": null,
+  "servings": 2,
+  "difficulty": "中等",
+  "access": "VIP",
+  "accessLevel": "VIP",
+  "isPremium": true,
+  "version": 2,
+  "updatedAt": "2026-09-03T11:50:32.231173Z",
+  "heroUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_kung_pao_chicken/hero.png",
+  "recipeUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_kung_pao_chicken/",
+  "websiteUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_kung_pao_chicken/",
+  "thumbnailUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_kung_pao_chicken/hero.png",
+  "tags": {
+    "cuisine": [
+      "川菜",
+      "中式料理"
+    ],
+    "goal": [
+      "下飯",
+      "家常菜"
+    ],
+    "allergen": [],
+    "disliked": []
+  },
+  "mealTypes": [
+    "午餐",
+    "晚餐"
+  ],
+  "equipmentIds": [
+    "炒鍋",
+    "刀具",
+    "砧板"
+  ],
+  "locked": false,
+  "requiresVip": true,
+  "tips": "花生最後加入保持酥脆；乾辣椒量可依辣度調整；醬汁快速收乾更香。",
+  "ingredients": [
+    {
+      "ingredientId": "chicken_breast",
+      "name": "雞胸肉",
+      "quantity": 200.0,
+      "unit": "g",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_chicken_breast",
+      "sortOrder": 0
+    },
+    {
+      "ingredientId": "peanut",
+      "name": "花生",
+      "quantity": 50.0,
+      "unit": "g",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_peanut",
+      "sortOrder": 1
+    },
+    {
+      "ingredientId": "dried_chili",
+      "name": "乾辣椒",
+      "quantity": 8.0,
+      "unit": "g",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_ext_dried_chili",
+      "sortOrder": 2
+    },
+    {
+      "ingredientId": "scallion",
+      "name": "青蔥",
+      "quantity": 30.0,
+      "unit": "g",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_scallion",
+      "sortOrder": 3
+    },
+    {
+      "ingredientId": "garlic",
+      "name": "大蒜",
+      "quantity": 15.0,
+      "unit": "g",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_garlic",
+      "sortOrder": 4
+    },
+    {
+      "ingredientId": "ginger",
+      "name": "薑",
+      "quantity": 10.0,
+      "unit": "g",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_ginger",
+      "sortOrder": 5
+    },
+    {
+      "ingredientId": "soy_sauce",
+      "name": "醬油",
+      "quantity": 15.0,
+      "unit": "ml",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_soy_sauce",
+      "sortOrder": 6
+    },
+    {
+      "ingredientId": "rice_wine",
+      "name": "米酒",
+      "quantity": 10.0,
+      "unit": "ml",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_ext_rice_wine",
+      "sortOrder": 7
+    },
+    {
+      "ingredientId": "black_vinegar",
+      "name": "烏醋",
+      "quantity": 10.0,
+      "unit": "ml",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_black_vinegar",
+      "sortOrder": 8
+    },
+    {
+      "ingredientId": "sugar",
+      "name": "砂糖",
+      "quantity": 10.0,
+      "unit": "g",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_sugar",
+      "sortOrder": 9
+    },
+    {
+      "ingredientId": "potato_starch",
+      "name": "馬鈴薯澱粉",
+      "quantity": 8.0,
+      "unit": "g",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_potato_starch",
+      "sortOrder": 10
+    },
+    {
+      "ingredientId": "oil",
+      "name": "沙拉油",
+      "quantity": 10.0,
+      "unit": "ml",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_oil",
+      "sortOrder": 11
+    },
+    {
+      "ingredientId": "sesame_oil",
+      "name": "香油",
+      "quantity": 5.0,
+      "unit": "ml",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_sesame_oil",
+      "sortOrder": 12
+    },
+    {
+      "ingredientId": "salt",
+      "name": "食鹽",
+      "quantity": 1.0,
+      "unit": "g",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_salt",
+      "sortOrder": 13
+    }
+  ],
+  "nutrition": {
+    "calories": 420.0,
+    "protein": 26.0,
+    "fat": 26.0,
+    "carbohydrate": 15.0,
+    "fiber": 2.3,
+    "sodium": 700.0,
+    "source": "manual",
+    "nutritionSource": "manual",
+    "sourceNote": null
+  },
+  "imageUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_kung_pao_chicken/recipe.png",
+  "imageOriginalUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_kung_pao_chicken/recipe.png",
+  "steps": [
+    {
+      "step": 1,
+      "text": "雞胸肉切成約 2 公分丁，加入米酒、醬油與馬鈴薯澱粉拌勻，醃 10 分鐘。"
+    },
+    {
+      "step": 2,
+      "text": "乾辣椒剪成小段；青蔥切段，大蒜與薑切末備用。"
+    },
+    {
+      "step": 3,
+      "text": "熱鍋加入沙拉油，放入花生，以小火炒至香脆後先盛出。"
+    },
+    {
+      "step": 4,
+      "text": "原鍋放入花椒粒與乾辣椒，小火炒出香氣，再加入薑與大蒜。"
+    },
+    {
+      "step": 5,
+      "text": "轉中火加入醃好的雞丁，翻炒至表面熟透、中心完全熟成。"
+    },
+    {
+      "step": 6,
+      "text": "加入醬油、米酒、烏醋與砂糖，快速翻炒至醬汁均勻包覆雞丁。"
+    },
+    {
+      "step": 7,
+      "text": "加入青蔥與炒好的花生快速翻勻，最後淋上香油即可起鍋。"
+    }
+  ],
+  "published": true
+}

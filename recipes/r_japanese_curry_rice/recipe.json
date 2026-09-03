@@ -1,0 +1,193 @@
+{
+  "recipeId": "r_japanese_curry_rice",
+  "name": "日式咖哩飯",
+  "category": "主食",
+  "description": "雞腿肉、洋蔥、馬鈴薯與胡蘿蔔以日式咖哩塊慢煮，最後搭配熱騰騰白飯，咖哩濃郁順口、蔬菜甘甜，是經典家常日式料理。",
+  "cookingTime": 45,
+  "cookingMinutes": 45,
+  "prepMinutes": null,
+  "cookMinutes": null,
+  "servings": 2,
+  "difficulty": "簡單",
+  "access": "VIP",
+  "accessLevel": "VIP",
+  "isPremium": true,
+  "version": 1,
+  "updatedAt": "2026-09-03T12:33:00.740960Z",
+  "heroUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_japanese_curry_rice/hero.png",
+  "recipeUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_japanese_curry_rice/",
+  "websiteUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_japanese_curry_rice/",
+  "thumbnailUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_japanese_curry_rice/hero.png",
+  "tags": {
+    "cuisine": [
+      "日式料理",
+      "家常菜"
+    ],
+    "goal": [
+      "下飯",
+      "一鍋料理",
+      "家常料理"
+    ],
+    "allergen": [],
+    "disliked": []
+  },
+  "mealTypes": [
+    "午餐",
+    "晚餐"
+  ],
+  "equipmentIds": [
+    "炒鍋",
+    "鍋蓋",
+    "刀具",
+    "砧板"
+  ],
+  "locked": false,
+  "requiresVip": true,
+  "tips": "洋蔥先炒至透明並帶些金黃色，咖哩香氣會更有層次；咖哩塊最後加入並用小火煮至完全融化，醬汁較滑順。",
+  "ingredients": [
+    {
+      "ingredientId": "chicken_thigh",
+      "name": "雞腿肉",
+      "quantity": 300.0,
+      "unit": "g",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_chicken_thigh",
+      "sortOrder": 0
+    },
+    {
+      "ingredientId": "onion",
+      "name": "洋蔥",
+      "quantity": 200.0,
+      "unit": "g",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_onion",
+      "sortOrder": 1
+    },
+    {
+      "ingredientId": "potato",
+      "name": "馬鈴薯",
+      "quantity": 150.0,
+      "unit": "g",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_potato",
+      "sortOrder": 2
+    },
+    {
+      "ingredientId": "carrot",
+      "name": "胡蘿蔔",
+      "quantity": 100.0,
+      "unit": "g",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_carrot",
+      "sortOrder": 3
+    },
+    {
+      "ingredientId": "garlic",
+      "name": "大蒜",
+      "quantity": 10.0,
+      "unit": "g",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_garlic",
+      "sortOrder": 4
+    },
+    {
+      "ingredientId": "oil",
+      "name": "沙拉油",
+      "quantity": 15.0,
+      "unit": "ml",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_oil",
+      "sortOrder": 5
+    },
+    {
+      "ingredientId": "water",
+      "name": "水",
+      "quantity": 500.0,
+      "unit": "ml",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_water",
+      "sortOrder": 6
+    },
+    {
+      "ingredientId": "curry_block",
+      "name": "咖哩塊",
+      "quantity": 40.0,
+      "unit": "g",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_curry_block",
+      "sortOrder": 7
+    },
+    {
+      "ingredientId": "salt",
+      "name": "食鹽",
+      "quantity": 1.0,
+      "unit": "g",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_salt",
+      "sortOrder": 8
+    },
+    {
+      "ingredientId": "rice",
+      "name": "白米飯",
+      "quantity": 300.0,
+      "unit": "g",
+      "group": null,
+      "optional": false,
+      "foodReferenceId": "nut_rice",
+      "sortOrder": 9
+    }
+  ],
+  "nutrition": {
+    "calories": 680.0,
+    "protein": 29.0,
+    "fat": 22.0,
+    "carbohydrate": 88.0,
+    "fiber": 5.5,
+    "sodium": 920.0,
+    "source": "manual",
+    "nutritionSource": "manual",
+    "sourceNote": null
+  },
+  "imageUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_japanese_curry_rice/recipe.png",
+  "imageOriginalUrl": "https://jasson0318.github.io/myfridge-recipes/recipes/r_japanese_curry_rice/recipe.png",
+  "steps": [
+    {
+      "step": 1,
+      "text": "雞腿肉切成一口大小；洋蔥切丁；馬鈴薯與胡蘿蔔去皮後切塊；大蒜切末，白米飯先準備好。"
+    },
+    {
+      "step": 2,
+      "text": "炒鍋加入沙拉油，中火放入洋蔥與大蒜，炒至洋蔥變透明並略帶金黃色。"
+    },
+    {
+      "step": 3,
+      "text": "加入雞腿肉翻炒，將表面煎至微金黃色，讓雞肉帶出香氣。"
+    },
+    {
+      "step": 4,
+      "text": "放入馬鈴薯與胡蘿蔔翻炒約 2 分鐘，使蔬菜表面均勻裹上油香。"
+    },
+    {
+      "step": 5,
+      "text": "加入水，煮滾後撇去浮沫，轉小火並蓋上鍋蓋燉煮約 15 分鐘，直到馬鈴薯與胡蘿蔔變軟。"
+    },
+    {
+      "step": 6,
+      "text": "關火或轉最小火，加入咖哩塊攪拌至完全融化，再以小火煮約 5 分鐘，讓醬汁變濃順。"
+    },
+    {
+      "step": 7,
+      "text": "加入食鹽調整味道，確認雞肉熟透後關火；將熱白米飯盛入盤中，淋上日式咖哩即可享用。"
+    }
+  ],
+  "published": true
+}
